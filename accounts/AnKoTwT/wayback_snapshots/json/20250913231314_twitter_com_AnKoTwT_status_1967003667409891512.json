@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1966996651580793048",
+    "created_at": "2025-09-13T23:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T00:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967003667409891512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "764385193348083712",
+          "start": 0,
+          "username": "00IRIYA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967003667409891512",
+    "in_reply_to_user_id": "764385193348083712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966998978563899875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@00IRIYA00 很久没去检查过了，有时间去医院体检一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1966996651580793048",
+        "created_at": "2025-09-13T23:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T00:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967003667409891512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "764385193348083712",
+              "start": 0,
+              "username": "00IRIYA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967003667409891512",
+        "in_reply_to_user_id": "764385193348083712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966998978563899875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@00IRIYA00 很久没去检查过了，有时间去医院体检一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "764385193348083712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1966996651580793048",
+        "created_at": "2025-09-13T22:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T23:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966998978563899875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966998978563899875",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966996651580793048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 等等等！！！\n我朋友也是完全吃不胖（醫生跟他說要他增重），他跟妳一樣也是三餐都有吃還有吃消夜和吃增肥藥\n\n之後去健康檢查時（還是一樣超瘦）卻驗出脂肪肝、高血壓，醫生要他注意身體也要運動和多喝水\n\nPS:過瘦增加體重是對的，但要小心心血管疾病，拜託🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚匿名提问箱https://t.co/aI0OTcm1s8 👾09 155/31kg    接角色委托",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 68,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 45,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 70,
+          "like_count": 1406,
+          "listed_count": 5,
+          "media_count": 93,
+          "tweet_count": 608
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-13T08:56:46.000Z",
+        "description": "",
+        "id": "764385193348083712",
+        "location": "台灣",
+        "name": "魂魄夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870067567177691136/2IMGRKKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 169,
+          "like_count": 141496,
+          "listed_count": 9,
+          "media_count": 676,
+          "tweet_count": 51409
+        },
+        "username": "00IRIYA00",
+        "verified": false
+      }
+    ]
+  }
+}

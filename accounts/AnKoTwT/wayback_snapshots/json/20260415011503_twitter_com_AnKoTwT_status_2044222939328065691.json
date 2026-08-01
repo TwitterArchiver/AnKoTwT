@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2044222939328065691",
+    "created_at": "2026-04-15T01:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T02:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044222939328065691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886792276938252288",
+          "start": 3,
+          "username": "Omotocat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044222939328065691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044196886270423476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Omotocat: 发照片根本不想考虑什么时段发最好，反正没人喜欢我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2044222939328065691",
+        "created_at": "2026-04-15T01:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044222939328065691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886792276938252288",
+              "start": 3,
+              "username": "Omotocat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044222939328065691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044196886270423476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Omotocat: 发照片根本不想考虑什么时段发最好，反正没人喜欢我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886792276938252288",
+        "conversation_id": "2044196886270423476",
+        "created_at": "2026-04-14T23:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T00:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044196886270423476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044196886270423476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "发照片根本不想考虑什么时段发最好，反正没人喜欢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色委托/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5398,
+          "following_count": 121,
+          "like_count": 5153,
+          "listed_count": 22,
+          "media_count": 334,
+          "tweet_count": 2276
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T15:02:03.000Z",
+        "description": "🚪300/666/1314过门以外的私信都拉黑  备用号@OmotoNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "OmotoNeko"
+              }
+            ]
+          }
+        },
+        "id": "1886792276938252288",
+        "name": "玄関猫",
+        "pinned_tweet_id": "2024871619693588972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042366802735611904/GdRJu16Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3558,
+          "following_count": 65,
+          "like_count": 450,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 1671
+        },
+        "username": "Omotocat",
+        "verified": false
+      }
+    ]
+  }
+}

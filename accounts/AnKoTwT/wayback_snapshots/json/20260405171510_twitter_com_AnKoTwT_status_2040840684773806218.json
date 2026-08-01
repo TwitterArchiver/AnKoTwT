@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040610205499842561"
+      ],
+      "media_source_tweet_id": [
+        "2040610593707794888"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Drink Novelty",
+          "id": "867371273248047104",
+          "name": "Drink Novelty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Bars and nightlife",
+          "id": "847861743699099649",
+          "name": "Nightlife"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bars and nightlife",
+          "id": "847861743699099649",
+          "name": "Nightlife"
+        }
+      }
+    ],
+    "conversation_id": "2040840684773806218",
+    "created_at": "2026-04-05T17:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T18:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040840684773806218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1706181185704226816",
+          "start": 3,
+          "username": "el2da_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/64ppTEcHx1",
+          "end": 60,
+          "expanded_url": "https://x.com/el2da_ai/status/2040610593707794888/photo/1",
+          "media_key": "3_2040610205499842561",
+          "start": 37,
+          "url": "https://t.co/64ppTEcHx1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040840684773806218",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1615
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040610593707794888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @el2da_ai: 低身長専門ガールズバーがあったら行きたいです https://t.co/64ppTEcHx1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_2040610205499842561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFG0K5fa4AENBJZ.jpg",
+        "width": 1664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040610205499842561"
+          ],
+          "media_source_tweet_id": [
+            "2040610593707794888"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Drink Novelty",
+              "id": "867371273248047104",
+              "name": "Drink Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Bars and nightlife",
+              "id": "847861743699099649",
+              "name": "Nightlife"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bars and nightlife",
+              "id": "847861743699099649",
+              "name": "Nightlife"
+            }
+          }
+        ],
+        "conversation_id": "2040840684773806218",
+        "created_at": "2026-04-05T17:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040840684773806218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1706181185704226816",
+              "start": 3,
+              "username": "el2da_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/64ppTEcHx1",
+              "end": 60,
+              "expanded_url": "https://x.com/el2da_ai/status/2040610593707794888/photo/1",
+              "media_key": "3_2040610205499842561",
+              "start": 37,
+              "url": "https://t.co/64ppTEcHx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040840684773806218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1615
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040610593707794888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @el2da_ai: 低身長専門ガールズバーがあったら行きたいです https://t.co/64ppTEcHx1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040610205499842561"
+          ]
+        },
+        "author_id": "1706181185704226816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Drink Novelty",
+              "id": "867371273248047104",
+              "name": "Drink Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Bars and nightlife",
+              "id": "847861743699099649",
+              "name": "Nightlife"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bars and nightlife",
+              "id": "847861743699099649",
+              "name": "Nightlife"
+            }
+          }
+        ],
+        "conversation_id": "2040610593707794888",
+        "created_at": "2026-04-05T02:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040610593707794888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/64ppTEcHx1",
+              "end": 46,
+              "expanded_url": "https://x.com/el2da_ai/status/2040610593707794888/photo/1",
+              "media_key": "3_2040610205499842561",
+              "start": 23,
+              "url": "https://t.co/64ppTEcHx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040610593707794888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4648,
+          "impression_count": 484001,
+          "like_count": 25485,
+          "quote_count": 38,
+          "reply_count": 38,
+          "retweet_count": 1615
+        },
+        "reply_settings": "everyone",
+        "text": "低身長専門ガールズバーがあったら行きたいです https://t.co/64ppTEcHx1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUzB5O Fanbox:https://t.co/7pXe2XwUpC 匿名提问箱: https://t.co/aI0OTcm1s8 角色定制/举牌私 ♡09 150/33kg 喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUzB5O"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 108,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 85,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5411,
+          "following_count": 121,
+          "like_count": 4847,
+          "listed_count": 22,
+          "media_count": 315,
+          "tweet_count": 2114
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T05:37:57.000Z",
+        "description": "囲炉裏のえちえちな絵を投稿してます\npixiv 👉 https://t.co/p3Sh6R74TG\n支援サイト 👉 https://t.co/1EFkqvyHLV 👉 https://t.co/Jdhf5rEH5X\nリンク集 👉 https://t.co/eesvfcoDPD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/M7H0d",
+                "end": 49,
+                "expanded_url": "https://x.gd/M7H0d",
+                "start": 26,
+                "url": "https://t.co/p3Sh6R74TG"
+              },
+              {
+                "display_url": "x.gd/qwSv6",
+                "end": 81,
+                "expanded_url": "https://x.gd/qwSv6",
+                "start": 58,
+                "url": "https://t.co/1EFkqvyHLV"
+              },
+              {
+                "display_url": "x.gd/wu37o",
+                "end": 107,
+                "expanded_url": "https://x.gd/wu37o",
+                "start": 84,
+                "url": "https://t.co/Jdhf5rEH5X"
+              },
+              {
+                "display_url": "lit.link/da2el",
+                "end": 138,
+                "expanded_url": "https://lit.link/da2el",
+                "start": 115,
+                "url": "https://t.co/eesvfcoDPD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/da2el",
+                "end": 23,
+                "expanded_url": "https://lit.link/da2el",
+                "start": 0,
+                "url": "https://t.co/eesvfcoDPD"
+              }
+            ]
+          }
+        },
+        "id": "1706181185704226816",
+        "location": "囲炉裏",
+        "name": "えるにだ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706295799058157568/d24uKuXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20267,
+          "following_count": 233,
+          "like_count": 1834,
+          "listed_count": 109,
+          "media_count": 466,
+          "tweet_count": 1028
+        },
+        "url": "https://t.co/eesvfcoDPD",
+        "username": "el2da_ai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947161405343350784"
+      ],
+      "media_source_tweet_id": [
+        "1947161413610610947"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1947165171572453522",
+    "created_at": "2025-07-21T05:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T06:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947165171572453522"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "逢坂大河",
+          "probability": 0.8668,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857071874464735232",
+          "start": 3,
+          "username": "xx10Neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NhRYhLwEdA",
+          "end": 43,
+          "expanded_url": "https://x.com/xx10Neko/status/1947161413610610947/photo/1",
+          "media_key": "3_1947161405343350784",
+          "start": 20,
+          "url": "https://t.co/NhRYhLwEdA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947165171572453522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947161413610610947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx10Neko: 逢坂大河🐯 https://t.co/NhRYhLwEdA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947161405343350784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwW0-03XQAAQZcx.jpg",
+        "width": 1494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947161405343350784"
+          ],
+          "media_source_tweet_id": [
+            "1947161413610610947"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1947165171572453522",
+        "created_at": "2025-07-21T05:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947165171572453522"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "逢坂大河",
+              "probability": 0.8668,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857071874464735232",
+              "start": 3,
+              "username": "xx10Neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhRYhLwEdA",
+              "end": 43,
+              "expanded_url": "https://x.com/xx10Neko/status/1947161413610610947/photo/1",
+              "media_key": "3_1947161405343350784",
+              "start": 20,
+              "url": "https://t.co/NhRYhLwEdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947165171572453522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947161413610610947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xx10Neko: 逢坂大河🐯 https://t.co/NhRYhLwEdA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947161405343350784"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "conversation_id": "1947161413610610947",
+        "created_at": "2025-07-21T05:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947161413610610947"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "逢坂大河",
+              "probability": 0.8459,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhRYhLwEdA",
+              "end": 29,
+              "expanded_url": "https://x.com/xx10Neko/status/1947161413610610947/photo/1",
+              "media_key": "3_1947161405343350784",
+              "start": 6,
+              "url": "https://t.co/NhRYhLwEdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947161413610610947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 3131,
+          "like_count": 203,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "逢坂大河🐯 https://t.co/NhRYhLwEdA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱观测世界ing♱@xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "天国໒꒰ྀིㅇㅁㅇ꒱ྀི১",
+        "name": "Kuko",
+        "pinned_tweet_id": "1944022809841479847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941102088856952832/Vz0x4Vc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 3,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 77
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『🐾』Thank you for your love. 接角色委托/寄拍/举牌 ✧bilibili:https://t.co/ECi3GfL9jq✧ 自娱自乐小透明 不约不线下",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/DWpsPC8",
+                "end": 73,
+                "expanded_url": "http://b23.tv/DWpsPC8",
+                "start": 50,
+                "url": "https://t.co/ECi3GfL9jq"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "地獄/q扩列188",
+        "name": "Ankoku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5111,
+          "following_count": 5,
+          "like_count": 1552,
+          "listed_count": 35,
+          "media_count": 36,
+          "tweet_count": 105
+        },
+        "username": "xx10Neko",
+        "verified": false
+      }
+    ]
+  }
+}

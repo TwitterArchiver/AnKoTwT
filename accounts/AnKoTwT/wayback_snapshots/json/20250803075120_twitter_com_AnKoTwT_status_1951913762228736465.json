@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951913754171703296"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1951913762228736465",
+    "created_at": "2025-08-03T07:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T08:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951913762228736465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fysPqaTIUp",
+          "end": 66,
+          "expanded_url": "https://x.com/AnKoTwT/status/1951913762228736465/photo/1",
+          "media_key": "3_1951913754171703296",
+          "start": 43,
+          "url": "https://t.co/fysPqaTIUp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951913762228736465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我那时候太混蛋了, 自负, 又糜烂, 从不考虑他人。可偏偏是那个时候, 大家都爱我。 https://t.co/fysPqaTIUp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951913754171703296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxaXN72agAAbB59.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951913754171703296"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1951913762228736465",
+        "created_at": "2025-08-03T07:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T08:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951913762228736465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fysPqaTIUp",
+              "end": 66,
+              "expanded_url": "https://x.com/AnKoTwT/status/1951913762228736465/photo/1",
+              "media_key": "3_1951913754171703296",
+              "start": 43,
+              "url": "https://t.co/fysPqaTIUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951913762228736465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我那时候太混蛋了, 自负, 又糜烂, 从不考虑他人。可偏偏是那个时候, 大家都爱我。 https://t.co/fysPqaTIUp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 27,
+          "like_count": 347,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 183
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

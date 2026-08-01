@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049519765027520512",
+        "3_2049519765035843584",
+        "3_2049519765165899776",
+        "3_2049519765027540992"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049519809071915039",
+    "created_at": "2026-04-29T16:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049519809071915039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nb7mpZ9keq",
+          "end": 30,
+          "expanded_url": "https://x.com/AnKoTwT/status/2049519809071915039/photo/1",
+          "media_key": "3_2049519765027520512",
+          "start": 7,
+          "url": "https://t.co/Nb7mpZ9keq"
+        },
+        {
+          "display_url": "pic.x.com/Nb7mpZ9keq",
+          "end": 30,
+          "expanded_url": "https://x.com/AnKoTwT/status/2049519809071915039/photo/1",
+          "media_key": "3_2049519765035843584",
+          "start": 7,
+          "url": "https://t.co/Nb7mpZ9keq"
+        },
+        {
+          "display_url": "pic.x.com/Nb7mpZ9keq",
+          "end": 30,
+          "expanded_url": "https://x.com/AnKoTwT/status/2049519809071915039/photo/1",
+          "media_key": "3_2049519765165899776",
+          "start": 7,
+          "url": "https://t.co/Nb7mpZ9keq"
+        },
+        {
+          "display_url": "pic.x.com/Nb7mpZ9keq",
+          "end": 30,
+          "expanded_url": "https://x.com/AnKoTwT/status/2049519809071915039/photo/1",
+          "media_key": "3_2049519765027540992",
+          "start": 7,
+          "url": "https://t.co/Nb7mpZ9keq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049519809071915039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "甜哭了给我。 https://t.co/Nb7mpZ9keq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2049519765027520512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFbXhKbgAA-GLB.jpg",
+        "width": 1408
+      },
+      {
+        "height": 989,
+        "media_key": "3_2049519765035843584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFbXhMagAAqULm.jpg",
+        "width": 1697
+      },
+      {
+        "height": 989,
+        "media_key": "3_2049519765165899776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFbXhrbAAAhRkk.jpg",
+        "width": 1664
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2049519765027540992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFbXhKb0AAPsP-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049519765027520512",
+            "3_2049519765035843584",
+            "3_2049519765165899776",
+            "3_2049519765027540992"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049519809071915039",
+        "created_at": "2026-04-29T16:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049519809071915039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nb7mpZ9keq",
+              "end": 30,
+              "expanded_url": "https://x.com/AnKoTwT/status/2049519809071915039/photo/1",
+              "media_key": "3_2049519765027520512",
+              "start": 7,
+              "url": "https://t.co/Nb7mpZ9keq"
+            },
+            {
+              "display_url": "pic.x.com/Nb7mpZ9keq",
+              "end": 30,
+              "expanded_url": "https://x.com/AnKoTwT/status/2049519809071915039/photo/1",
+              "media_key": "3_2049519765035843584",
+              "start": 7,
+              "url": "https://t.co/Nb7mpZ9keq"
+            },
+            {
+              "display_url": "pic.x.com/Nb7mpZ9keq",
+              "end": 30,
+              "expanded_url": "https://x.com/AnKoTwT/status/2049519809071915039/photo/1",
+              "media_key": "3_2049519765165899776",
+              "start": 7,
+              "url": "https://t.co/Nb7mpZ9keq"
+            },
+            {
+              "display_url": "pic.x.com/Nb7mpZ9keq",
+              "end": 30,
+              "expanded_url": "https://x.com/AnKoTwT/status/2049519809071915039/photo/1",
+              "media_key": "3_2049519765027540992",
+              "start": 7,
+              "url": "https://t.co/Nb7mpZ9keq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049519809071915039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甜哭了给我。 https://t.co/Nb7mpZ9keq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ 哔站:https://t.co/LRQvNy6qlD Fanbox :https://t.co/7pXe2XwUpC 🐾 角色委托/陪玩私♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 想要很多爱ovo 郁の提问箱: https://t.co/RacOPia7ig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 48,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 25,
+                "url": "https://t.co/LRQvNy6qlD"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 157,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 134,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5631,
+          "following_count": 126,
+          "like_count": 5679,
+          "listed_count": 23,
+          "media_count": 368,
+          "tweet_count": 2474
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,640 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047252123566604288"
+      ],
+      "media_source_tweet_id": [
+        "2047252220807352464"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2047608669211365479",
+    "created_at": "2026-04-24T09:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047608669211365479"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 25,
+          "tag": "bluearchive"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857071874464735232",
+          "start": 3,
+          "username": "xx10Neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S8U8aqQ79L",
+          "end": 61,
+          "expanded_url": "https://x.com/xx10Neko/status/2047252220807352464/video/1",
+          "media_key": "13_2047252123566604288",
+          "start": 38,
+          "url": "https://t.co/S8U8aqQ79L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047608669211365479",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047252220807352464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @xx10Neko: (ᐢᴖ ·̫ ᴖᐢ)\n#bluearchive https://t.co/S8U8aqQ79L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14316,
+        "height": 1920,
+        "media_key": "13_2047252123566604288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047252123566604288/img/yRq_xaY5h1BiyDE1.jpg",
+        "public_metrics": {
+          "view_count": 3361
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047252123566604288/vid/avc1/480x852/lVoQUjh8XyNr3P07.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047252123566604288/vid/avc1/320x568/jcOawjuHe_zdenJK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047252123566604288/vid/avc1/720x1280/Fmx1vzrBFHM8s45W.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047252123566604288/vid/avc1/1080x1920/6q305_4oaxvS1ObP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047252123566604288/pl/5CRgPPh0FNpBN-Zj.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047252123566604288"
+          ],
+          "media_source_tweet_id": [
+            "2047252220807352464"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2047608669211365479",
+        "created_at": "2026-04-24T09:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047608669211365479"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 25,
+              "tag": "bluearchive"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857071874464735232",
+              "start": 3,
+              "username": "xx10Neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8U8aqQ79L",
+              "end": 61,
+              "expanded_url": "https://x.com/xx10Neko/status/2047252220807352464/video/1",
+              "media_key": "13_2047252123566604288",
+              "start": 38,
+              "url": "https://t.co/S8U8aqQ79L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047608669211365479",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047252220807352464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @xx10Neko: (ᐢᴖ ·̫ ᴖᐢ)\n#bluearchive https://t.co/S8U8aqQ79L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047252123566604288"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2047252220807352464",
+        "created_at": "2026-04-23T09:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047252220807352464"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 11,
+              "tag": "bluearchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8U8aqQ79L",
+              "end": 47,
+              "expanded_url": "https://x.com/xx10Neko/status/2047252220807352464/video/1",
+              "media_key": "13_2047252123566604288",
+              "start": 24,
+              "url": "https://t.co/S8U8aqQ79L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047252220807352464",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 8643,
+          "like_count": 765,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "reply_settings": "verified",
+        "text": "(ᐢᴖ ·̫ ᴖᐢ)\n#bluearchive https://t.co/S8U8aqQ79L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ 哔站:https://t.co/LRQvNy6qlD Fanbox :https://t.co/7pXe2XwUpC 🐾 角色委托/陪玩私♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 想要很多爱ovo 郁の提问箱: https://t.co/RacOPia7ig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 48,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 25,
+                "url": "https://t.co/LRQvNy6qlD"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 157,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 134,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5495,
+          "following_count": 123,
+          "like_count": 5493,
+          "listed_count": 21,
+          "media_count": 356,
+          "tweet_count": 2409
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『 🐾 』✧ Thank you for your love ✧ DM → @AnKoTwT Fanbox ：https://t.co/H8ldNw6RJ3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "AnKoTwT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://uwuneko.fanbox.cc",
+                "start": 55,
+                "url": "https://t.co/H8ldNw6RJ3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 23,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 0,
+                "url": "https://t.co/mkXLy9Ykuu"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "✟",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1934226982163939371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19299,
+          "following_count": 7,
+          "like_count": 2312,
+          "listed_count": 102,
+          "media_count": 89,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/mkXLy9Ykuu",
+        "username": "xx10Neko",
+        "verified": true
+      }
+    ]
+  }
+}

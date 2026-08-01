@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1978858096588890582",
+    "created_at": "2025-10-16T16:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T17:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978866761777688847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1860309019908579328",
+          "start": 0,
+          "username": "kutori01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978866761777688847",
+    "in_reply_to_user_id": "1860309019908579328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978861129821462787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kutori01 乖宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1978858096588890582",
+        "created_at": "2025-10-16T16:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T17:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978866761777688847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1860309019908579328",
+              "start": 0,
+              "username": "kutori01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978866761777688847",
+        "in_reply_to_user_id": "1860309019908579328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978861129821462787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kutori01 乖宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860309019908579328",
+        "conversation_id": "1978858096588890582",
+        "created_at": "2025-10-16T16:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T17:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978861129821462787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978861129821462787",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978858096588890582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 在网上找找存在感罢了这种人，小猫无需在意，直接把它当做路边一条处理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡宅  155/33kg 喜欢我就多支持我吧 提问箱https://t.co/QmqVGVcRVz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku",
+                "end": 63,
+                "expanded_url": "https://ngl.link/ankoku",
+                "start": 40,
+                "url": "https://t.co/QmqVGVcRVz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 82,
+          "like_count": 2024,
+          "listed_count": 13,
+          "media_count": 138,
+          "tweet_count": 924
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T13:06:56.000Z",
+        "description": "",
+        "id": "1860309019908579328",
+        "location": "東京 新宿区",
+        "name": "セイシュウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972512811122401280/1fNlV3pM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "kutori01",
+        "verified": false
+      }
+    ]
+  }
+}

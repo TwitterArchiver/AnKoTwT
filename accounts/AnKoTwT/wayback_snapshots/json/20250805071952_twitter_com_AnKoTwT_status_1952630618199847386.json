@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952542659706507264"
+      ],
+      "media_source_tweet_id": [
+        "1952542662038552905"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1952630618199847386",
+    "created_at": "2025-08-05T07:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T08:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952630618199847386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811166124937265152",
+          "start": 3,
+          "username": "AtomicPain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9LayNomPEw",
+          "end": 69,
+          "expanded_url": "https://x.com/AtomicPain/status/1952542662038552905/photo/1",
+          "media_key": "3_1952542659706507264",
+          "start": 46,
+          "url": "https://t.co/9LayNomPEw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952630618199847386",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 729
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952542662038552905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AtomicPain: how it feels to be unemployed https://t.co/9LayNomPEw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 506,
+        "media_key": "3_1952542659706507264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxjTNDiaUAA4JqP.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952542659706507264"
+          ],
+          "media_source_tweet_id": [
+            "1952542662038552905"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1952630618199847386",
+        "created_at": "2025-08-05T07:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T08:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952630618199847386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811166124937265152",
+              "start": 3,
+              "username": "AtomicPain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LayNomPEw",
+              "end": 69,
+              "expanded_url": "https://x.com/AtomicPain/status/1952542662038552905/photo/1",
+              "media_key": "3_1952542659706507264",
+              "start": 46,
+              "url": "https://t.co/9LayNomPEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952630618199847386",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 729
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952542662038552905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AtomicPain: how it feels to be unemployed https://t.co/9LayNomPEw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952542659706507264"
+          ]
+        },
+        "author_id": "1811166124937265152",
+        "conversation_id": "1952542662038552905",
+        "created_at": "2025-08-05T01:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T02:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952542662038552905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LayNomPEw",
+              "end": 53,
+              "expanded_url": "https://x.com/AtomicPain/status/1952542662038552905/photo/1",
+              "media_key": "3_1952542659706507264",
+              "start": 30,
+              "url": "https://t.co/9LayNomPEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952542662038552905",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 910,
+          "impression_count": 125953,
+          "like_count": 8632,
+          "quote_count": 26,
+          "reply_count": 11,
+          "retweet_count": 729
+        },
+        "reply_settings": "everyone",
+        "text": "how it feels to be unemployed https://t.co/9LayNomPEw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 28,
+          "like_count": 369,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 196
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T22:33:15.000Z",
+        "description": "Project: Alice co-founder | Billionaire | 7 feet tall | Six pack | B+ in math | Doll Supremacist",
+        "id": "1811166124937265152",
+        "location": "The Capital of the Unreturned",
+        "name": "Atomiku ⭐️",
+        "pinned_tweet_id": "1859424627178733748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861619367978618880/js41z229_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 135,
+          "like_count": 26279,
+          "listed_count": 4,
+          "media_count": 847,
+          "tweet_count": 4824
+        },
+        "username": "AtomicPain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981043272366600193"
+      ],
+      "media_source_tweet_id": [
+        "1981043281678258256"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1981239195760021630",
+    "created_at": "2025-10-23T06:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T07:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981239195760021630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857071874464735232",
+          "start": 3,
+          "username": "xx10Neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V9XD0Oxaav",
+          "end": 37,
+          "expanded_url": "https://x.com/xx10Neko/status/1981043281678258256/photo/1",
+          "media_key": "3_1981043272366600193",
+          "start": 14,
+          "url": "https://t.co/V9XD0Oxaav"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981239195760021630",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981043281678258256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx10Neko: https://t.co/V9XD0Oxaav"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981239195760021630].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981239195760021630",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981239195760021630"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981043272366600193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G34UXDYWsAEDwMO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981043272366600193"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "conversation_id": "1981043281678258256",
+        "created_at": "2025-10-22T17:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T18:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981043281678258256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9XD0Oxaav",
+              "end": 23,
+              "expanded_url": "https://x.com/xx10Neko/status/1981043281678258256/photo/1",
+              "media_key": "3_1981043272366600193",
+              "start": 0,
+              "url": "https://t.co/V9XD0Oxaav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981043281678258256",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1805,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/V9XD0Oxaav"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg 提问箱:https://t.co/RacOPi9zsI ♡155/33kg 喜欢我就多支持我吧 ↓盒岛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 74,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 51,
+                "url": "https://t.co/RacOPi9zsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 83,
+          "like_count": 2161,
+          "listed_count": 14,
+          "media_count": 148,
+          "tweet_count": 984
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『 🐾 』✧ Thank you for your love ✧ DM → @AnKoTwT Patreon ：https://t.co/mkXLy9XMEW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "AnKoTwT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 79,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 56,
+                "url": "https://t.co/mkXLy9XMEW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/jowDx0EZ4V"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "✟",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1934226982163939371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11912,
+          "following_count": 7,
+          "like_count": 1958,
+          "listed_count": 74,
+          "media_count": 51,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/jowDx0EZ4V",
+        "username": "xx10Neko",
+        "verified": false
+      }
+    ]
+  }
+}

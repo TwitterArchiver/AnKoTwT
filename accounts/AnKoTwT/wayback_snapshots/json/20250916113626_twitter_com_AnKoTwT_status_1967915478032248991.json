@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1967637924117352703",
+    "created_at": "2025-09-16T11:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T12:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967915478032248991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1787908199674429447",
+          "start": 0,
+          "username": "AmiaZako4058"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967915478032248991",
+    "in_reply_to_user_id": "1787908199674429447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967915096585408898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmiaZako4058 小问题啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1967637924117352703",
+        "created_at": "2025-09-16T11:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967915478032248991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1787908199674429447",
+              "start": 0,
+              "username": "AmiaZako4058"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967915478032248991",
+        "in_reply_to_user_id": "1787908199674429447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967915096585408898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmiaZako4058 小问题啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787908199674429447",
+        "conversation_id": "1967637924117352703",
+        "created_at": "2025-09-16T11:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967915096585408898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967915096585408898",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967914945665978722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 谢谢🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 74,
+          "like_count": 1455,
+          "listed_count": 5,
+          "media_count": 97,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T18:12:07.000Z",
+        "description": "",
+        "id": "1787908199674429447",
+        "name": "amia zako",
+        "pinned_tweet_id": "1945281883685752982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801392118898032640/BYJhYySO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 15,
+          "like_count": 2325,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1053
+        },
+        "username": "AmiaZako4058",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956951017582702592"
+      ],
+      "media_source_tweet_id": [
+        "1956951028483731845"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1957126767728308439",
+    "created_at": "2025-08-17T17:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T18:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957126767728308439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794905935393255425",
+          "start": 3,
+          "username": "nxg1sa_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xhqCxLIhGy",
+          "end": 36,
+          "expanded_url": "https://x.com/nxg1sa_/status/1956951028483731845/photo/1",
+          "media_key": "3_1956951017582702592",
+          "start": 13,
+          "url": "https://t.co/xhqCxLIhGy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957126767728308439",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956951028483731845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nxg1sa_: https://t.co/xhqCxLIhGy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956951017582702592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyh8lQXbMAAbuSG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956951017582702592"
+          ],
+          "media_source_tweet_id": [
+            "1956951028483731845"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1957126767728308439",
+        "created_at": "2025-08-17T17:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T18:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957126767728308439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794905935393255425",
+              "start": 3,
+              "username": "nxg1sa_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xhqCxLIhGy",
+              "end": 36,
+              "expanded_url": "https://x.com/nxg1sa_/status/1956951028483731845/photo/1",
+              "media_key": "3_1956951017582702592",
+              "start": 13,
+              "url": "https://t.co/xhqCxLIhGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957126767728308439",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956951028483731845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nxg1sa_: https://t.co/xhqCxLIhGy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956951017582702592"
+          ]
+        },
+        "author_id": "1794905935393255425",
+        "conversation_id": "1956951028483731845",
+        "created_at": "2025-08-17T05:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T06:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956951028483731845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xhqCxLIhGy",
+              "end": 23,
+              "expanded_url": "https://x.com/nxg1sa_/status/1956951028483731845/photo/1",
+              "media_key": "3_1956951017582702592",
+              "start": 0,
+              "url": "https://t.co/xhqCxLIhGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956951028483731845",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 12127,
+          "like_count": 899,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xhqCxLIhGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "美少女重度依赖 @xx10Neko   // 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 49,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 26,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 41,
+          "like_count": 634,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 329
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T01:38:26.000Z",
+        "description": "退廃的人生讃歌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nxg1sa_/profil…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nxg1sa_/profilecard/?igsh=MTltb2RleGF3OGl3eg==",
+                "start": 0,
+                "url": "https://t.co/qvtcwmgry1"
+              }
+            ]
+          }
+        },
+        "id": "1794905935393255425",
+        "name": "渚",
+        "pinned_tweet_id": "1834482262693527950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890825713907019776/ZgdS0yZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13317,
+          "following_count": 83,
+          "like_count": 3987,
+          "listed_count": 25,
+          "media_count": 114,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/qvtcwmgry1",
+        "username": "nxg1sa_",
+        "verified": false
+      }
+    ]
+  }
+}

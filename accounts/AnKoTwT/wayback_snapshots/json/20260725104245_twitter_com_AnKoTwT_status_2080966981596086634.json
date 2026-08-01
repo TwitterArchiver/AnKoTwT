@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080966974889463808"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080966981596086634",
+    "created_at": "2026-07-25T10:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080966981596086634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XrkCYCsTmU",
+          "end": 126,
+          "expanded_url": "https://x.com/AnKoTwT/status/2080966981596086634/photo/1",
+          "media_key": "3_2080966974889463808",
+          "start": 103,
+          "url": "https://t.co/XrkCYCsTmU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080966981596086634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🌚时隔半年再次考核了嗯哼哼，还被店长夸了，哎，希望老板多多吧，有需要我陪玩的也可以私我，其他游戏我也接，不白菜，有预算再来问。让我赚点零花钱吧，许愿心软的ATM神，我很会照顾老板体验的。( ˘•ω•˘ ) https://t.co/XrkCYCsTmU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1215,
+        "media_key": "3_2080966974889463808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEUcC-bEAAWDJh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080966974889463808"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080966981596086634",
+        "created_at": "2026-07-25T10:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080966981596086634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XrkCYCsTmU",
+              "end": 126,
+              "expanded_url": "https://x.com/AnKoTwT/status/2080966981596086634/photo/1",
+              "media_key": "3_2080966974889463808",
+              "start": 103,
+              "url": "https://t.co/XrkCYCsTmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080966981596086634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🌚时隔半年再次考核了嗯哼哼，还被店长夸了，哎，希望老板多多吧，有需要我陪玩的也可以私我，其他游戏我也接，不白菜，有预算再来问。让我赚点零花钱吧，许愿心软的ATM神，我很会照顾老板体验的。( ˘•ω•˘ ) https://t.co/XrkCYCsTmU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 匿名提问箱: https://t.co/aI0OTcm1s8 许愿ATM奴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "🚪188/300/520/1314",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5754,
+          "following_count": 160,
+          "like_count": 7139,
+          "listed_count": 20,
+          "media_count": 491,
+          "tweet_count": 3124
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

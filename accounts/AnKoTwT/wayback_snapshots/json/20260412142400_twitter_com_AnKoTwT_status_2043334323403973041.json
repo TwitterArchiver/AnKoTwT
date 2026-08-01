@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2043330571343208506",
+    "created_at": "2026-04-12T14:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043334323403973041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543918989390532608",
+          "start": 0,
+          "username": "ouoicy77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043334323403973041",
+    "in_reply_to_user_id": "1543918989390532608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043330571343208506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouoicy77 我妈妈我主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_2043330561377443840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFteUc2aIAAHULZ.jpg",
+        "width": 1376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2043330571343208506",
+        "created_at": "2026-04-12T14:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043334323403973041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543918989390532608",
+              "start": 0,
+              "username": "ouoicy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043334323403973041",
+        "in_reply_to_user_id": "1543918989390532608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043330571343208506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouoicy77 我妈妈我主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043330561377443840"
+          ]
+        },
+        "author_id": "1543918989390532608",
+        "conversation_id": "2043330571343208506",
+        "created_at": "2026-04-12T14:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043330571343208506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AbUrHcWTv1",
+              "end": 23,
+              "expanded_url": "https://x.com/ouoicy77/status/2043330571343208506/photo/1",
+              "media_key": "3_2043330561377443840",
+              "start": 0,
+              "url": "https://t.co/AbUrHcWTv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043330571343208506",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AbUrHcWTv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色委托/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5327,
+          "following_count": 122,
+          "like_count": 5070,
+          "listed_count": 22,
+          "media_count": 330,
+          "tweet_count": 2237
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T11:25:54.000Z",
+        "description": "🇨🇳 我只有这一个账号 用来存照片和碎碎念 取关随意 别转载或者ai我的照片 我各个平台都有号 不常看粉丝列表",
+        "id": "1543918989390532608",
+        "location": "除了互fo不扩列 非要扩给我521  无任何福利纯圈",
+        "name": "の",
+        "pinned_tweet_id": "1982968458557157589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920545101261996032/qHrE2K0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28106,
+          "following_count": 98,
+          "like_count": 4534,
+          "listed_count": 107,
+          "media_count": 217,
+          "tweet_count": 1081
+        },
+        "username": "ouoicy77",
+        "verified": false
+      }
+    ]
+  }
+}

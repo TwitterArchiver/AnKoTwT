@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2064962218723266611",
+    "created_at": "2026-06-11T06:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064962218723266611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "756291216623472640",
+          "start": 3,
+          "username": "HeeHippie128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064962218723266611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059050509865238685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HeeHippie128: 我每天都在梦里假装还有现实朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2064962218723266611",
+        "created_at": "2026-06-11T06:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064962218723266611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "756291216623472640",
+              "start": 3,
+              "username": "HeeHippie128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064962218723266611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059050509865238685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HeeHippie128: 我每天都在梦里假装还有现实朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "756291216623472640",
+        "conversation_id": "2059050509865238685",
+        "created_at": "2026-05-25T23:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059050509865238685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059050509865238685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8742,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我每天都在梦里假装还有现实朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾 接角色定制/陪玩♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 需要很多很多爱和钱 郁の提问箱: https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 125,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 102,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿可陪聊 不约不卖不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5624,
+          "following_count": 143,
+          "like_count": 6574,
+          "listed_count": 20,
+          "media_count": 421,
+          "tweet_count": 2784
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-22T00:54:12.000Z",
+        "description": "通向彻底失败之路\n琐碎，琐碎",
+        "id": "756291216623472640",
+        "location": "推推空间",
+        "name": "嘻嬉皮",
+        "pinned_tweet_id": "1586230040437456898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012478462892949505/Xw_h9sVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 482,
+          "like_count": 62196,
+          "listed_count": 2,
+          "media_count": 1300,
+          "tweet_count": 11269
+        },
+        "username": "HeeHippie128",
+        "verified": false
+      }
+    ]
+  }
+}

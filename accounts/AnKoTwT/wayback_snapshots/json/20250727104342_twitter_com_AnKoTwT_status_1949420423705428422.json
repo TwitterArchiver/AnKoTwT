@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949417153393999872"
+      ],
+      "media_source_tweet_id": [
+        "1949417160738246672"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1949420423705428422",
+    "created_at": "2025-07-27T10:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T11:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949420423705428422"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "ゆずソフト"
+        },
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "谷風天音"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857071874464735232",
+          "start": 3,
+          "username": "xx10Neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lC0yVwlPBB",
+          "end": 50,
+          "expanded_url": "https://x.com/xx10Neko/status/1949417160738246672/photo/1",
+          "media_key": "3_1949417153393999872",
+          "start": 27,
+          "url": "https://t.co/lC0yVwlPBB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949420423705428422",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949417160738246672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx10Neko: #ゆずソフト #谷風天音 https://t.co/lC0yVwlPBB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1949417153393999872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw24kpMaQAAXcwr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949417153393999872"
+          ],
+          "media_source_tweet_id": [
+            "1949417160738246672"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1949420423705428422",
+        "created_at": "2025-07-27T10:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949420423705428422"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "ゆずソフト"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "谷風天音"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857071874464735232",
+              "start": 3,
+              "username": "xx10Neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lC0yVwlPBB",
+              "end": 50,
+              "expanded_url": "https://x.com/xx10Neko/status/1949417160738246672/photo/1",
+              "media_key": "3_1949417153393999872",
+              "start": 27,
+              "url": "https://t.co/lC0yVwlPBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949420423705428422",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949417160738246672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xx10Neko: #ゆずソフト #谷風天音 https://t.co/lC0yVwlPBB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949417153393999872"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "conversation_id": "1949417160738246672",
+        "created_at": "2025-07-27T10:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949417160738246672"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "ゆずソフト"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "谷風天音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lC0yVwlPBB",
+              "end": 36,
+              "expanded_url": "https://x.com/xx10Neko/status/1949417160738246672/photo/1",
+              "media_key": "3_1949417153393999872",
+              "start": 13,
+              "url": "https://t.co/lC0yVwlPBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949417160738246672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#ゆずソフト #谷風天音 https://t.co/lC0yVwlPBB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱我活在自己的世界里♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "天国໒꒰ྀིㅇㅁㅇ꒱ྀི১",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949095635065741603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949096018278248448/0sjN4vPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 1,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 103
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『🐾』✧Thank you for your love✧@AnKoTwT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "AnKoTwT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/DWpsPC8",
+                "end": 23,
+                "expanded_url": "http://b23.tv/DWpsPC8",
+                "start": 0,
+                "url": "https://t.co/ECi3GfL9jq"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "✟",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1934226982163939371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5417,
+          "following_count": 6,
+          "like_count": 1624,
+          "listed_count": 36,
+          "media_count": 29,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/ECi3GfL9jq",
+        "username": "xx10Neko",
+        "verified": false
+      }
+    ]
+  }
+}

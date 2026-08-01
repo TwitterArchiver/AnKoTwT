@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1977812191056380113",
+    "created_at": "2025-10-14T08:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T09:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978014413480411540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760666006635302912",
+          "start": 0,
+          "username": "narikakkkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978014413480411540",
+    "in_reply_to_user_id": "1760666006635302912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977812191056380113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@narikakkkk 这太顶了船长"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1977811997115752449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3KZiFCXIAElbrZ.jpg",
+        "width": 2412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1977812191056380113",
+        "created_at": "2025-10-14T08:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978014413480411540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760666006635302912",
+              "start": 0,
+              "username": "narikakkkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978014413480411540",
+        "in_reply_to_user_id": "1760666006635302912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977812191056380113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@narikakkkk 这太顶了船长"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977811997115752449"
+          ]
+        },
+        "author_id": "1760666006635302912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          }
+        ],
+        "conversation_id": "1977812191056380113",
+        "created_at": "2025-10-13T19:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T20:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977812191056380113"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "宝鐘マリン"
+            },
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "マリンのお宝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQ4Ph9OSOa",
+              "end": 66,
+              "expanded_url": "https://x.com/narikakkkk/status/1977812191056380113/photo/1",
+              "media_key": "3_1977811997115752449",
+              "start": 43,
+              "url": "https://t.co/qQ4Ph9OSOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977812191056380113",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1949,
+          "impression_count": 76072,
+          "like_count": 10212,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 857
+        },
+        "reply_settings": "everyone",
+        "text": "a performance just for you  #宝鐘マリン #マリンのお宝 https://t.co/qQ4Ph9OSOa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡宅  155/33kg 喜欢我就多支持我吧 提问箱https://t.co/QmqVGVcRVz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku",
+                "end": 63,
+                "expanded_url": "https://ngl.link/ankoku",
+                "start": 40,
+                "url": "https://t.co/QmqVGVcRVz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 82,
+          "like_count": 1996,
+          "listed_count": 13,
+          "media_count": 135,
+          "tweet_count": 900
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T14:01:22.000Z",
+        "description": "Artist who draws anime girls | COMMISSIONS STATUS - OPEN | 22 y.o| price and info: https://t.co/TCK2gUame4  NO AI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "narikakkkkinfo.carrd.co",
+                "end": 106,
+                "expanded_url": "https://narikakkkkinfo.carrd.co/",
+                "start": 83,
+                "url": "https://t.co/TCK2gUame4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "narikakkkkinfo.carrd.co",
+                "end": 23,
+                "expanded_url": "https://narikakkkkinfo.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/TCK2gUame4"
+              }
+            ]
+          }
+        },
+        "id": "1760666006635302912",
+        "name": "Narika| ナリカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760666250324348929/XltboEXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6390,
+          "following_count": 550,
+          "like_count": 3987,
+          "listed_count": 31,
+          "media_count": 253,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/TCK2gUame4",
+        "username": "narikakkkk",
+        "verified": true
+      }
+    ]
+  }
+}

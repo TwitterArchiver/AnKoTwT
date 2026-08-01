@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969214997600616450"
+      ],
+      "media_source_tweet_id": [
+        "1969215009746985336"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1969238578006745340",
+    "created_at": "2025-09-20T03:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T04:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969238578006745340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1958912961537613828",
+          "start": 3,
+          "username": "77ZZzU_Uo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UhFkH2fzFS",
+          "end": 38,
+          "expanded_url": "https://x.com/77ZZzU_Uo/status/1969215009746985336/photo/1",
+          "media_key": "3_1969214997600616450",
+          "start": 15,
+          "url": "https://t.co/UhFkH2fzFS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969238578006745340",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969215009746985336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @77ZZzU_Uo: https://t.co/UhFkH2fzFS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969214997600616450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1QOm2JbQAIFreA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969214997600616450"
+          ],
+          "media_source_tweet_id": [
+            "1969215009746985336"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1969238578006745340",
+        "created_at": "2025-09-20T03:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T04:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969238578006745340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1958912961537613828",
+              "start": 3,
+              "username": "77ZZzU_Uo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhFkH2fzFS",
+              "end": 38,
+              "expanded_url": "https://x.com/77ZZzU_Uo/status/1969215009746985336/photo/1",
+              "media_key": "3_1969214997600616450",
+              "start": 15,
+              "url": "https://t.co/UhFkH2fzFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969238578006745340",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969215009746985336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @77ZZzU_Uo: https://t.co/UhFkH2fzFS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969214997600616450"
+          ]
+        },
+        "author_id": "1958912961537613828",
+        "conversation_id": "1969215009746985336",
+        "created_at": "2025-09-20T01:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T02:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969215009746985336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhFkH2fzFS",
+              "end": 23,
+              "expanded_url": "https://x.com/77ZZzU_Uo/status/1969215009746985336/photo/1",
+              "media_key": "3_1969214997600616450",
+              "start": 0,
+              "url": "https://t.co/UhFkH2fzFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969215009746985336",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1251,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UhFkH2fzFS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 无线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 75,
+          "like_count": 1552,
+          "listed_count": 5,
+          "media_count": 104,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T15:23:47.000Z",
+        "description": "直到死我的人生都给你 备用号@xiaoxiao777ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "xiaoxiao777ovo"
+              }
+            ]
+          }
+        },
+        "id": "1958912961537613828",
+        "location": "广告自辨 问我扩列线下定制原味等的都会被我拉黑 ",
+        "name": "晴",
+        "pinned_tweet_id": "1968620679516864963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966910400123072517/ErgLlZXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26361,
+          "following_count": 22,
+          "like_count": 358,
+          "listed_count": 70,
+          "media_count": 32,
+          "tweet_count": 227
+        },
+        "username": "77ZZzU_Uo",
+        "verified": false
+      }
+    ]
+  }
+}

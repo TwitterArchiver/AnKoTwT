@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950217082152636416"
+      ],
+      "media_source_tweet_id": [
+        "1950217088737407266"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      }
+    ],
+    "conversation_id": "1950274938197463367",
+    "created_at": "2025-07-29T19:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T20:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950274938197463367"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 14,
+          "tag": "アズールレーン"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "アズレン"
+        },
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "碧蓝航线"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857071874464735232",
+          "start": 3,
+          "username": "xx10Neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rDbDt5sXwx",
+          "end": 59,
+          "expanded_url": "https://x.com/xx10Neko/status/1950217088737407266/photo/1",
+          "media_key": "3_1950217082152636416",
+          "start": 36,
+          "url": "https://t.co/rDbDt5sXwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950274938197463367",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950217088737407266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx10Neko: #アズールレーン\n#アズレン \n#碧蓝航线 https://t.co/rDbDt5sXwx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950217082152636416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxCQGoCbUAAt7oM.jpg",
+        "width": 1463
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950217082152636416"
+          ],
+          "media_source_tweet_id": [
+            "1950217088737407266"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "1950274938197463367",
+        "created_at": "2025-07-29T19:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T20:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950274938197463367"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "アズールレーン"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "アズレン"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "碧蓝航线"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857071874464735232",
+              "start": 3,
+              "username": "xx10Neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rDbDt5sXwx",
+              "end": 59,
+              "expanded_url": "https://x.com/xx10Neko/status/1950217088737407266/photo/1",
+              "media_key": "3_1950217082152636416",
+              "start": 36,
+              "url": "https://t.co/rDbDt5sXwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950274938197463367",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950217088737407266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xx10Neko: #アズールレーン\n#アズレン \n#碧蓝航线 https://t.co/rDbDt5sXwx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950217082152636416"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "1950217088737407266",
+        "created_at": "2025-07-29T15:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T16:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950217088737407266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "アズールレーン"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "アズレン"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "碧蓝航线"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rDbDt5sXwx",
+              "end": 45,
+              "expanded_url": "https://x.com/xx10Neko/status/1950217088737407266/photo/1",
+              "media_key": "3_1950217082152636416",
+              "start": 22,
+              "url": "https://t.co/rDbDt5sXwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950217088737407266",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1690,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#アズールレーン\n#アズレン \n#碧蓝航线 https://t.co/rDbDt5sXwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱我活在自己的世界里♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 1,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 138
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『🐾』✧Thank you for your love✧@AnKoTwT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "AnKoTwT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/DWpsPC8",
+                "end": 23,
+                "expanded_url": "http://b23.tv/DWpsPC8",
+                "start": 0,
+                "url": "https://t.co/ECi3GfL9jq"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "✟",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1934226982163939371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5882,
+          "following_count": 6,
+          "like_count": 1653,
+          "listed_count": 40,
+          "media_count": 33,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/ECi3GfL9jq",
+        "username": "xx10Neko",
+        "verified": false
+      }
+    ]
+  }
+}

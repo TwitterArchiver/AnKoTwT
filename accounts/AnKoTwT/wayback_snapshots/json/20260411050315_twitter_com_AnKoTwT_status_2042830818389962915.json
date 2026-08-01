@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2042830818389962915",
+    "created_at": "2026-04-11T05:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042830818389962915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014947556376154112",
+          "start": 3,
+          "username": "shun_077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042830818389962915",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042763024444887494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shun_077: \"Para que la joven de corazón puro salvara la primera vida insignificante que le fue entregada, aun habrían de pasar 600 años…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 595,
+        "media_key": "3_2042762446830735361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlZn1PakAEoJzJ.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2042830818389962915",
+        "created_at": "2026-04-11T05:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042830818389962915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014947556376154112",
+              "start": 3,
+              "username": "shun_077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042830818389962915",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042763024444887494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shun_077: \"Para que la joven de corazón puro salvara la primera vida insignificante que le fue entregada, aun habrían de pasar 600 años…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042762446830735361"
+          ]
+        },
+        "author_id": "2014947556376154112",
+        "conversation_id": "2042763024444887494",
+        "created_at": "2026-04-11T00:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T01:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042763024444887494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZUUX8oS1Q",
+              "end": 151,
+              "expanded_url": "https://x.com/shun_077/status/2042763024444887494/photo/1",
+              "media_key": "3_2042762446830735361",
+              "start": 128,
+              "url": "https://t.co/wZUUX8oS1Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042763024444887494",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 2202,
+          "like_count": 276,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "\"Para que la joven de corazón puro salvara la primera vida insignificante que le fue entregada, aun habrían de pasar 600 años.\" https://t.co/wZUUX8oS1Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色举牌/定制/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5345,
+          "following_count": 122,
+          "like_count": 5047,
+          "listed_count": 22,
+          "media_count": 326,
+          "tweet_count": 2209
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T06:25:22.000Z",
+        "description": "Creía que no preocuparme por mí mismo era amar a otros.",
+        "id": "2014947556376154112",
+        "location": "En el Congourbano🇦🇷",
+        "name": "shun",
+        "pinned_tweet_id": "2038549550474920245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038068780429983744/SabV_xXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 385,
+          "like_count": 15020,
+          "listed_count": 0,
+          "media_count": 751,
+          "tweet_count": 2027
+        },
+        "username": "shun_077",
+        "verified": false
+      }
+    ]
+  }
+}

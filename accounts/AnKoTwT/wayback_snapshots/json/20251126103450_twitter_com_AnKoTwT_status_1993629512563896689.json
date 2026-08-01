@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1993272597833019710",
+    "created_at": "2025-11-26T10:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993629512563896689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1860309019908579328",
+          "start": 0,
+          "username": "kutori01"
+        },
+        {
+          "end": 19,
+          "id": "1857071874464735232",
+          "start": 10,
+          "username": "xx10Neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993629512563896689",
+    "in_reply_to_user_id": "1860309019908579328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993348254243926055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kutori01 @xx10Neko 💞💞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1993272597833019710",
+        "created_at": "2025-11-26T10:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993629512563896689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1860309019908579328",
+              "start": 0,
+              "username": "kutori01"
+            },
+            {
+              "end": 19,
+              "id": "1857071874464735232",
+              "start": 10,
+              "username": "xx10Neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993629512563896689",
+        "in_reply_to_user_id": "1860309019908579328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993348254243926055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kutori01 @xx10Neko 💞💞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860309019908579328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1993272597833019710",
+        "created_at": "2025-11-25T15:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993348254243926055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1857071874464735232",
+              "start": 0,
+              "username": "xx10Neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993348254243926055",
+        "in_reply_to_user_id": "1857071874464735232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993272597833019710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx10Neko 美味抹茶小蛋糕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱:https://t.co/RacOPi9zsI ↓hedao ♡150/33kg 喜欢我就多支持我吧 钱能让我幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPi9zsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3805,
+          "following_count": 89,
+          "like_count": 3127,
+          "listed_count": 20,
+          "media_count": 193,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T13:06:56.000Z",
+        "description": "",
+        "id": "1860309019908579328",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "セイシュウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972512811122401280/1fNlV3pM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 30,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "username": "kutori01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『 🐾 』✧ Thank you for your love ✧ DM → @AnKoTwT Fanbox ：https://t.co/H8ldNw6jTv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "AnKoTwT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://uwuneko.fanbox.cc",
+                "start": 55,
+                "url": "https://t.co/H8ldNw6jTv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/Bmor5RT",
+                "end": 23,
+                "expanded_url": "http://b23.tv/Bmor5RT",
+                "start": 0,
+                "url": "https://t.co/tvsEv4Yv84"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "✟",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1983187709738004751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15187,
+          "following_count": 7,
+          "like_count": 2100,
+          "listed_count": 75,
+          "media_count": 49,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/tvsEv4Yv84",
+        "username": "xx10Neko",
+        "verified": false
+      }
+    ]
+  }
+}

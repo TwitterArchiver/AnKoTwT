@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1956533711966462302",
+    "created_at": "2025-08-16T01:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T02:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956533711966462302"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 1,
+          "normalized_text": "萌萌",
+          "probability": 0.638,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/huyaopa/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/huyaopa/status/1956366041283449062",
+          "start": 4,
+          "url": "https://t.co/RFFCqR3WcQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956533711966462302",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956366041283449062",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "萌萌宝 https://t.co/RFFCqR3WcQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956366037999566848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZoi9maQAAZ5fb.jpg",
+        "width": 1539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1956533711966462302",
+        "created_at": "2025-08-16T01:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T02:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956533711966462302"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "萌萌",
+              "probability": 0.638,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/huyaopa/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/huyaopa/status/1956366041283449062",
+              "start": 4,
+              "url": "https://t.co/RFFCqR3WcQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956533711966462302",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956366041283449062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "萌萌宝 https://t.co/RFFCqR3WcQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956366037999566848"
+          ]
+        },
+        "author_id": "1286363668007882753",
+        "conversation_id": "1956366041283449062",
+        "created_at": "2025-08-15T14:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T15:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956366041283449062"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "FWMCpix"
+            },
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "FUWAMOCO"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxwHGAOcTq",
+              "end": 56,
+              "expanded_url": "https://x.com/huyaopa/status/1956366041283449062/photo/1",
+              "media_key": "3_1956366037999566848",
+              "start": 33,
+              "url": "https://t.co/UxwHGAOcTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956366041283449062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 10357,
+          "like_count": 444,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "毛绒绒的大尾巴呀\n#FWMCpix #FUWAMOCO #cos https://t.co/UxwHGAOcTq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 37,
+          "like_count": 478,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 302
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T18:13:02.000Z",
+        "description": "推广自辨 自用靠谱🪜https://t.co/FPFLDkuHJy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 33,
+                "expanded_url": "https://so.sulink.life/#/register?code=jbEYEqVL",
+                "start": 10,
+                "url": "https://t.co/FPFLDkuHJy"
+              }
+            ]
+          }
+        },
+        "id": "1286363668007882753",
+        "name": "--",
+        "pinned_tweet_id": "1953477550384226770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780064761906085888/m6-1DmN__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27772,
+          "following_count": 75,
+          "like_count": 291,
+          "listed_count": 95,
+          "media_count": 111,
+          "tweet_count": 123
+        },
+        "username": "huyaopa",
+        "verified": false
+      }
+    ]
+  }
+}

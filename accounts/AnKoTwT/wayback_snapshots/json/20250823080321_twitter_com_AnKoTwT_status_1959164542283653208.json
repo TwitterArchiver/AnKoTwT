@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959147210740023296"
+      ],
+      "media_source_tweet_id": [
+        "1959147222270189865"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1959164542283653208",
+    "created_at": "2025-08-23T08:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T09:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959164542283653208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1543918989390532608",
+          "start": 3,
+          "username": "ouoicy77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4AApsBB681",
+          "end": 37,
+          "expanded_url": "https://x.com/ouoicy77/status/1959147222270189865/photo/1",
+          "media_key": "3_1959147210740023296",
+          "start": 14,
+          "url": "https://t.co/4AApsBB681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959164542283653208",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959147222270189865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ouoicy77: https://t.co/4AApsBB681"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1959147210740023296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzBKAhbbQAATqxC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959147210740023296"
+          ],
+          "media_source_tweet_id": [
+            "1959147222270189865"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1959164542283653208",
+        "created_at": "2025-08-23T08:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T09:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959164542283653208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1543918989390532608",
+              "start": 3,
+              "username": "ouoicy77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4AApsBB681",
+              "end": 37,
+              "expanded_url": "https://x.com/ouoicy77/status/1959147222270189865/photo/1",
+              "media_key": "3_1959147210740023296",
+              "start": 14,
+              "url": "https://t.co/4AApsBB681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959164542283653208",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959147222270189865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ouoicy77: https://t.co/4AApsBB681"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959147210740023296"
+          ]
+        },
+        "author_id": "1543918989390532608",
+        "conversation_id": "1959147222270189865",
+        "created_at": "2025-08-23T06:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T07:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959147222270189865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4AApsBB681",
+              "end": 23,
+              "expanded_url": "https://x.com/ouoicy77/status/1959147222270189865/photo/1",
+              "media_key": "3_1959147210740023296",
+              "start": 0,
+              "url": "https://t.co/4AApsBB681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959147222270189865",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 657,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4AApsBB681"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚提问箱https://t.co/aI0OTcm1s8 👾重度网瘾宅 欢迎女孩子扩列🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 43,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 54,
+          "like_count": 894,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 416
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T11:25:54.000Z",
+        "description": "私は中国人です。私はこのアカウントしかありません。私信除口令不回 日语简介因为日本人偷我图",
+        "id": "1543918989390532608",
+        "location": "扩列188口令纯绿仅朋友圈 不聊天不约不线下没有图包不是黄推",
+        "name": "饲",
+        "pinned_tweet_id": "1937902309599773015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920545101261996032/qHrE2K0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24340,
+          "following_count": 55,
+          "like_count": 2231,
+          "listed_count": 88,
+          "media_count": 120,
+          "tweet_count": 566
+        },
+        "username": "ouoicy77",
+        "verified": false
+      }
+    ]
+  }
+}

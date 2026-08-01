@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1965431972207231354",
+    "created_at": "2025-09-09T15:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T16:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965431972207231354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xx10neko/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xx10neko/status/1965431786659529117",
+          "start": 9,
+          "url": "https://t.co/alG6RbM3EZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965431972207231354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965431786659529117",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢这个麦昆。 https://t.co/alG6RbM3EZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965431778942091271",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0adyiYbgAc22hh.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1965431972207231354",
+        "created_at": "2025-09-09T15:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T16:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965431972207231354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xx10neko/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xx10neko/status/1965431786659529117",
+              "start": 9,
+              "url": "https://t.co/alG6RbM3EZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965431972207231354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965431786659529117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢这个麦昆。 https://t.co/alG6RbM3EZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965431778942091271"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "conversation_id": "1965431786659529117",
+        "created_at": "2025-09-09T15:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T16:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965431786659529117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1VRST9fSBo",
+              "end": 23,
+              "expanded_url": "https://x.com/xx10Neko/status/1965431786659529117/photo/1",
+              "media_key": "3_1965431778942091271",
+              "start": 0,
+              "url": "https://t.co/1VRST9fSBo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965431786659529117",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1VRST9fSBo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚提问箱https://t.co/aI0OTcm1s8 👾重度网瘾宅 欢迎女孩子扩列🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 43,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960566808773320705/RcoY_p4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 67,
+          "like_count": 1242,
+          "listed_count": 5,
+          "media_count": 82,
+          "tweet_count": 542
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『🐾』✧Thank you for your love✧@AnKoTwT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "AnKoTwT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/DWpsPC8",
+                "end": 23,
+                "expanded_url": "http://b23.tv/DWpsPC8",
+                "start": 0,
+                "url": "https://t.co/ECi3GfL9jq"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "✟",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1950881246713950518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8799,
+          "following_count": 7,
+          "like_count": 1890,
+          "listed_count": 54,
+          "media_count": 52,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/ECi3GfL9jq",
+        "username": "xx10Neko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2078105038095007744"
+      ],
+      "media_source_tweet_id": [
+        "2078105081321509278"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2082836319114543180",
+    "created_at": "2026-07-30T14:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082836319114543180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984489295311470592",
+          "start": 3,
+          "username": "obsesslvr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yll8k6WIxB",
+          "end": 38,
+          "expanded_url": "https://x.com/dwwwbi/status/2078105081321509278/photo/1",
+          "media_key": "16_2078105038095007744",
+          "start": 15,
+          "url": "https://t.co/yll8k6WIxB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082836319114543180",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1799
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082585088093532270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @obsesslvr: https://t.co/yll8k6WIxB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "16_2078105038095007744",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNbphZmaQAAJMim.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNbphZmaQAAJMim.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2078105038095007744"
+          ]
+        },
+        "author_id": "1922407111960756225",
+        "conversation_id": "2078105081321509278",
+        "created_at": "2026-07-17T13:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078105081321509278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CjUFQZmJBf",
+              "end": 23,
+              "expanded_url": "https://x.com/dwwwbi/status/2078105081321509278/photo/1",
+              "media_key": "16_2078105038095007744",
+              "start": 0,
+              "url": "https://t.co/CjUFQZmJBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078105081321509278",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2521,
+          "impression_count": 221654,
+          "like_count": 22139,
+          "quote_count": 83,
+          "reply_count": 0,
+          "retweet_count": 3625
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/CjUFQZmJBf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2078105038095007744"
+          ],
+          "media_source_tweet_id": [
+            "2078105081321509278"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2082836319114543180",
+        "created_at": "2026-07-30T14:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082836319114543180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984489295311470592",
+              "start": 3,
+              "username": "obsesslvr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yll8k6WIxB",
+              "end": 38,
+              "expanded_url": "https://x.com/dwwwbi/status/2078105081321509278/photo/1",
+              "media_key": "16_2078105038095007744",
+              "start": 15,
+              "url": "https://t.co/yll8k6WIxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082836319114543180",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1799
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082585088093532270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @obsesslvr: https://t.co/yll8k6WIxB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2078105038095007744"
+          ],
+          "media_source_tweet_id": [
+            "2078105081321509278"
+          ]
+        },
+        "author_id": "1984489295311470592",
+        "conversation_id": "2082585088093532270",
+        "created_at": "2026-07-29T21:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T22:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082585088093532270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yll8k6WIxB",
+              "end": 23,
+              "expanded_url": "https://x.com/dwwwbi/status/2078105081321509278/photo/1",
+              "media_key": "16_2078105038095007744",
+              "start": 0,
+              "url": "https://t.co/yll8k6WIxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082585088093532270",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1315,
+          "impression_count": 134937,
+          "like_count": 12390,
+          "quote_count": 32,
+          "reply_count": 0,
+          "retweet_count": 1799
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/yll8k6WIxB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 匿名提问箱: https://t.co/aI0OTcm1s8 150/67 许愿ATM奴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "➕V🚪188/300/520/1314  只回口令",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5830,
+          "following_count": 167,
+          "like_count": 7269,
+          "listed_count": 20,
+          "media_count": 505,
+          "tweet_count": 3214
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T05:15:12.000Z",
+        "description": "",
+        "id": "1984489295311470592",
+        "name": "╋━",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082489498676473856/VpvpPhL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4706,
+          "following_count": 5,
+          "like_count": 8181,
+          "listed_count": 14,
+          "media_count": 44,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "obsesslvr",
+        "verified": false
+      }
+    ]
+  }
+}

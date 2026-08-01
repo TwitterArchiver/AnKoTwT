@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2025167319178379754",
+    "created_at": "2026-02-21T23:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T00:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025347561901752762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543918989390532608",
+          "start": 0,
+          "username": "ouoicy77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025347561901752762",
+    "in_reply_to_user_id": "1543918989390532608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025205499365658963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouoicy77 女神我稀饭你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2025167319178379754",
+        "created_at": "2026-02-21T23:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T00:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025347561901752762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543918989390532608",
+              "start": 0,
+              "username": "ouoicy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025347561901752762",
+        "in_reply_to_user_id": "1543918989390532608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025205499365658963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouoicy77 女神我稀饭你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543918989390532608",
+        "conversation_id": "2025167319178379754",
+        "created_at": "2026-02-21T13:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025205499365658963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025205499365658963",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025167319178379754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 萌死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUzB5O Fanbox:https://t.co/7pXe2XwUpC 提问箱:https://t.co/aI0OTcm1s8↓hedao ♡09 150/33kg 喜欢我就多支持我吧o3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUzB5O"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下不卖原",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4542,
+          "following_count": 101,
+          "like_count": 3826,
+          "listed_count": 23,
+          "media_count": 244,
+          "tweet_count": 1697
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T11:25:54.000Z",
+        "description": "🇨🇳 我只有这一个账号 用来存照片和碎碎念 取关随意 别转载或者ai我的照片 我各个平台都有号 不常看粉丝列表会回关喜欢的",
+        "id": "1543918989390532608",
+        "location": "不扩列 非要扩给我521  无任何福利纯圈",
+        "name": "の",
+        "pinned_tweet_id": "1982968458557157589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920545101261996032/qHrE2K0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29206,
+          "following_count": 85,
+          "like_count": 3664,
+          "listed_count": 115,
+          "media_count": 188,
+          "tweet_count": 872
+        },
+        "username": "ouoicy77",
+        "verified": false
+      }
+    ]
+  }
+}

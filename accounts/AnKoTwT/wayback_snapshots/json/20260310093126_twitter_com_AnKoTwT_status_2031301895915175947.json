@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031301889271410688",
+        "3_2031301889263038464"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031301895915175947",
+    "created_at": "2026-03-10T09:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T10:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031301895915175947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9i02ahxKZ1",
+          "end": 34,
+          "expanded_url": "https://x.com/AnKoTwT/status/2031301895915175947/photo/1",
+          "media_key": "3_2031301889271410688",
+          "start": 11,
+          "url": "https://t.co/9i02ahxKZ1"
+        },
+        {
+          "display_url": "pic.x.com/9i02ahxKZ1",
+          "end": 34,
+          "expanded_url": "https://x.com/AnKoTwT/status/2031301895915175947/photo/1",
+          "media_key": "3_2031301889263038464",
+          "start": 11,
+          "url": "https://t.co/9i02ahxKZ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031301895915175947",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天最爽的三把酸角粥 https://t.co/9i02ahxKZ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2031301889271410688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCiTlWaMAA69Pl.jpg",
+        "width": 1397
+      },
+      {
+        "height": 265,
+        "media_key": "3_2031301889263038464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCiTlUacAAxLCm.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031301889271410688",
+            "3_2031301889263038464"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031301895915175947",
+        "created_at": "2026-03-10T09:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T10:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031301895915175947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9i02ahxKZ1",
+              "end": 34,
+              "expanded_url": "https://x.com/AnKoTwT/status/2031301895915175947/photo/1",
+              "media_key": "3_2031301889271410688",
+              "start": 11,
+              "url": "https://t.co/9i02ahxKZ1"
+            },
+            {
+              "display_url": "pic.x.com/9i02ahxKZ1",
+              "end": 34,
+              "expanded_url": "https://x.com/AnKoTwT/status/2031301895915175947/photo/1",
+              "media_key": "3_2031301889263038464",
+              "start": 11,
+              "url": "https://t.co/9i02ahxKZ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031301895915175947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天最爽的三把酸角粥 https://t.co/9i02ahxKZ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUzB5O Fanbox:https://t.co/7pXe2XwUpC 匿名提问箱: https://t.co/aI0OTcm1s8 角色定制私 ♡09 150/33kg 喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUzB5O"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 108,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 85,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4763,
+          "following_count": 105,
+          "like_count": 4089,
+          "listed_count": 21,
+          "media_count": 262,
+          "tweet_count": 1786
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

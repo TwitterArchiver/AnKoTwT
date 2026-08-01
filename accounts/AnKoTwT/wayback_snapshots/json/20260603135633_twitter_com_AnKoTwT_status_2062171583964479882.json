@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061692837260152832"
+      ],
+      "media_source_tweet_id": [
+        "2061692842666586439"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2062171583964479882",
+    "created_at": "2026-06-03T13:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062171583964479882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1631611065933987845",
+          "start": 3,
+          "username": "lingren326"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q2mnVAJyKC",
+          "end": 54,
+          "expanded_url": "https://x.com/lingren326/status/2061692842666586439/photo/1",
+          "media_key": "3_2061692837260152832",
+          "start": 31,
+          "url": "https://t.co/Q2mnVAJyKC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062171583964479882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061692842666586439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingren326: 哪个城市适合很宅很穷的人生活 https://t.co/Q2mnVAJyKC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2061692837260152832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyatlDb0AAUbMm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061692837260152832"
+          ],
+          "media_source_tweet_id": [
+            "2061692842666586439"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2062171583964479882",
+        "created_at": "2026-06-03T13:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062171583964479882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1631611065933987845",
+              "start": 3,
+              "username": "lingren326"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2mnVAJyKC",
+              "end": 54,
+              "expanded_url": "https://x.com/lingren326/status/2061692842666586439/photo/1",
+              "media_key": "3_2061692837260152832",
+              "start": 31,
+              "url": "https://t.co/Q2mnVAJyKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062171583964479882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061692842666586439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lingren326: 哪个城市适合很宅很穷的人生活 https://t.co/Q2mnVAJyKC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061692837260152832"
+          ]
+        },
+        "author_id": "1631611065933987845",
+        "conversation_id": "2061692842666586439",
+        "created_at": "2026-06-02T06:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061692842666586439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2mnVAJyKC",
+              "end": 38,
+              "expanded_url": "https://x.com/lingren326/status/2061692842666586439/photo/1",
+              "media_key": "3_2061692837260152832",
+              "start": 15,
+              "url": "https://t.co/Q2mnVAJyKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061692842666586439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 70768,
+          "like_count": 412,
+          "quote_count": 6,
+          "reply_count": 218,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "哪个城市适合很宅很穷的人生活 https://t.co/Q2mnVAJyKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾 接角色定制/陪玩♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 需要很多很多爱和钱 郁の提问箱: https://t.co/RacOPia7ig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 125,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 102,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列Q188/V520口令 纯绿可陪聊 不约不卖不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5615,
+          "following_count": 138,
+          "like_count": 6477,
+          "listed_count": 20,
+          "media_count": 413,
+          "tweet_count": 2733
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-03T11:02:58.000Z",
+        "description": "小風不哭🩸",
+        "id": "1631611065933987845",
+        "location": "🚪350/520（➕姓",
+        "name": "沟渠",
+        "pinned_tweet_id": "1918998294874697960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057495863786881024/Cuq1hx2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14905,
+          "following_count": 68,
+          "like_count": 21660,
+          "listed_count": 28,
+          "media_count": 1547,
+          "tweet_count": 15971
+        },
+        "username": "lingren326",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958202214604009472"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1958202233805533576",
+    "created_at": "2025-08-20T16:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T17:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958202233805533576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RbYR4uQuKI",
+          "end": 23,
+          "expanded_url": "https://x.com/AnKoTwT/status/1958202233805533576/photo/1",
+          "media_key": "3_1958202214604009472",
+          "start": 0,
+          "url": "https://t.co/RbYR4uQuKI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958202233805533576",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/RbYR4uQuKI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1387,
+        "media_key": "3_1958202214604009472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyzuigfa8AAkFiL.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958202214604009472"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1958202233805533576",
+        "created_at": "2025-08-20T16:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T17:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958202233805533576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RbYR4uQuKI",
+              "end": 23,
+              "expanded_url": "https://x.com/AnKoTwT/status/1958202233805533576/photo/1",
+              "media_key": "3_1958202214604009472",
+              "start": 0,
+              "url": "https://t.co/RbYR4uQuKI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958202233805533576",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RbYR4uQuKI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "美少女重度依赖@xx10Neko//提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 21,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 50,
+          "like_count": 794,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 366
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

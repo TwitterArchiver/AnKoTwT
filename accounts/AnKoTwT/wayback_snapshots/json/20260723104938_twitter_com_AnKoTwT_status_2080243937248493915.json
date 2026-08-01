@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079947097516937217"
+      ],
+      "media_source_tweet_id": [
+        "2079947199904117223"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2080243937248493915",
+    "created_at": "2026-07-23T10:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080243937248493915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2059149411007991808",
+          "start": 3,
+          "username": "wndsfefoumxlw6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mSo4oKXoP3",
+          "end": 66,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2079947199904117223/photo/1",
+          "media_key": "3_2079947097516937217",
+          "start": 43,
+          "url": "https://t.co/mSo4oKXoP3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080243937248493915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079947199904117223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wndsfefoumxlw6: 二战爆发的原因就是因为犹太人没有给希特勒撒娇 https://t.co/mSo4oKXoP3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 439,
+        "media_key": "3_2079947097516937217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN103XsaEAEE46Y.jpg",
+        "width": 1232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079947097516937217"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2079947199904117223",
+        "created_at": "2026-07-22T15:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079947199904117223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mSo4oKXoP3",
+              "end": 46,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2079947199904117223/photo/1",
+              "media_key": "3_2079947097516937217",
+              "start": 23,
+              "url": "https://t.co/mSo4oKXoP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079947199904117223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11371,
+          "like_count": 655,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "二战爆发的原因就是因为犹太人没有给希特勒撒娇 https://t.co/mSo4oKXoP3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079947097516937217"
+          ],
+          "media_source_tweet_id": [
+            "2079947199904117223"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2080243937248493915",
+        "created_at": "2026-07-23T10:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080243937248493915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2059149411007991808",
+              "start": 3,
+              "username": "wndsfefoumxlw6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mSo4oKXoP3",
+              "end": 66,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2079947199904117223/photo/1",
+              "media_key": "3_2079947097516937217",
+              "start": 43,
+              "url": "https://t.co/mSo4oKXoP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080243937248493915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079947199904117223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wndsfefoumxlw6: 二战爆发的原因就是因为犹太人没有给希特勒撒娇 https://t.co/mSo4oKXoP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾提问箱: https://t.co/aI0OTcm1s8 🐾150/33kg🐾无感情纯拷打萝莉Sss 我有很严重的恋狗癖🦮爱我请多多支持我吧♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 77,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 54,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "🚪188/300/520/1314",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5737,
+          "following_count": 155,
+          "like_count": 7110,
+          "listed_count": 19,
+          "media_count": 495,
+          "tweet_count": 3122
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/od/ 前世@RfbxaUauj41685 @rednightmare962 避难所：@yu_fatai欢迎互fo🐱电子烟需要的私信我 vx：c313s852j0976（无上头）接刷粉\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "RfbxaUauj41685"
+              },
+              {
+                "end": 45,
+                "start": 29,
+                "username": "rednightmare962"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yu_fatai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 127,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 104,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 160,
+          "like_count": 4324,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 2081
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1950275176337461740",
+    "created_at": "2025-07-29T19:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T20:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950275176337461740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1587351840256974850",
+          "start": 3,
+          "username": "__uninosushi__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950275176337461740",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 964
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950049892904120531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @__uninosushi__: ⠀\n⠀⠀𐑼︵𐑼\n⠀⠀( • ᴥ˙)　★໒꒱  ݁₊ ⊹\n⠀⠀/   ⸜   I\n꒰ঌ(ˍ, ل ل\n⠀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1950275176337461740",
+        "created_at": "2025-07-29T19:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T20:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950275176337461740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1587351840256974850",
+              "start": 3,
+              "username": "__uninosushi__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950275176337461740",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 964
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950049892904120531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @__uninosushi__: ⠀\n⠀⠀𐑼︵𐑼\n⠀⠀( • ᴥ˙)　★໒꒱  ݁₊ ⊹\n⠀⠀/   ⸜   I\n꒰ঌ(ˍ, ل ل\n⠀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587351840256974850",
+        "conversation_id": "1950049892904120531",
+        "created_at": "2025-07-29T04:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T05:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950049892904120531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950049892904120531",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1171,
+          "impression_count": 162784,
+          "like_count": 3431,
+          "quote_count": 24,
+          "reply_count": 0,
+          "retweet_count": 964
+        },
+        "reply_settings": "following",
+        "text": "⠀\n⠀⠀𐑼︵𐑼\n⠀⠀( • ᴥ˙)　★໒꒱  ݁₊ ⊹\n⠀⠀/   ⸜   I\n꒰ঌ(ˍ, ل ل\n⠀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱我活在自己的世界里♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 1,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 139
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T07:52:39.000Z",
+        "description": "https://t.co/oPChOc6w4Z ໒꒱ ₊˚  ᴋᴀᴏᴍᴏᴊɪ￤ᴀᴀ￤ꜱᴛᴀᴍᴘ ᴀɴᴅᴍᴏʀᴇ ꕮ 𝅄 ׂ⭒",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hatarakitakunai.blog",
+                "end": 23,
+                "expanded_url": "https://hatarakitakunai.blog",
+                "start": 0,
+                "url": "https://t.co/oPChOc6w4Z"
+              }
+            ]
+          }
+        },
+        "id": "1587351840256974850",
+        "location": "૮꒰ྀིྀིྀིྀིྀི ๑ ⩊ ๑ ྀིྀིྀིྀིྀི꒱",
+        "name": "ᴜɴɪ.",
+        "pinned_tweet_id": "1928373044877349211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876874312432709632/sCaglIqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122751,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 323,
+          "media_count": 77,
+          "tweet_count": 774
+        },
+        "username": "__uninosushi__",
+        "verified": false
+      }
+    ]
+  }
+}

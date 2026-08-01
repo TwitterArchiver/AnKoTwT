@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1978589351832629277",
+    "created_at": "2025-10-16T05:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T06:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978695095374270500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1846739759085113346",
+          "start": 0,
+          "username": "twilightversu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978695095374270500",
+    "in_reply_to_user_id": "1846739759085113346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978589351832629277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twilightversu 我稀饭你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1978589351832629277",
+        "created_at": "2025-10-16T05:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T06:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978695095374270500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1846739759085113346",
+              "start": 0,
+              "username": "twilightversu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978695095374270500",
+        "in_reply_to_user_id": "1846739759085113346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978589351832629277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twilightversu 我稀饭你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846739759085113346",
+        "conversation_id": "1978589351832629277",
+        "created_at": "2025-10-15T22:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T23:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978589351832629277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ankotwt/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ankotwt/status/1978433671456522493",
+              "start": 5,
+              "url": "https://t.co/N8azs28Xjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978589351832629277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 862,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978433671456522493",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎这萌。 https://t.co/N8azs28Xjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡宅  155/33kg 喜欢我就多支持我吧 提问箱https://t.co/QmqVGVcRVz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku",
+                "end": 63,
+                "expanded_url": "https://ngl.link/ankoku",
+                "start": 40,
+                "url": "https://t.co/QmqVGVcRVz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2415,
+          "following_count": 82,
+          "like_count": 2018,
+          "listed_count": 13,
+          "media_count": 138,
+          "tweet_count": 915
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T02:27:50.000Z",
+        "description": "脸这种没长的东西再怎么说也拍不出来丨灿星者@rainsluvkwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "rainsluvkwi"
+              }
+            ]
+          }
+        },
+        "id": "1846739759085113346",
+        "location": "尾椎骨公城",
+        "name": "数缺白夜",
+        "pinned_tweet_id": "1904071136884969834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976984817960206337/h3X100Yn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7804,
+          "following_count": 762,
+          "like_count": 18482,
+          "listed_count": 34,
+          "media_count": 82,
+          "tweet_count": 4026
+        },
+        "username": "twilightversu",
+        "verified": false
+      }
+    ]
+  }
+}

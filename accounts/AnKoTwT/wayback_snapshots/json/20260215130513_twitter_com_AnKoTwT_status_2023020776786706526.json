@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023020765826920449",
+        "3_2023020765944352770",
+        "3_2023020765822779392",
+        "3_2023020765860491264"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2023020776786706526",
+    "created_at": "2026-02-15T13:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T14:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023020776786706526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tpAEOy78FY",
+          "end": 31,
+          "expanded_url": "https://x.com/AnKoTwT/status/2023020776786706526/photo/1",
+          "media_key": "3_2023020765826920449",
+          "start": 8,
+          "url": "https://t.co/tpAEOy78FY"
+        },
+        {
+          "display_url": "pic.x.com/tpAEOy78FY",
+          "end": 31,
+          "expanded_url": "https://x.com/AnKoTwT/status/2023020776786706526/photo/1",
+          "media_key": "3_2023020765944352770",
+          "start": 8,
+          "url": "https://t.co/tpAEOy78FY"
+        },
+        {
+          "display_url": "pic.x.com/tpAEOy78FY",
+          "end": 31,
+          "expanded_url": "https://x.com/AnKoTwT/status/2023020776786706526/photo/1",
+          "media_key": "3_2023020765822779392",
+          "start": 8,
+          "url": "https://t.co/tpAEOy78FY"
+        },
+        {
+          "display_url": "pic.x.com/tpAEOy78FY",
+          "end": 31,
+          "expanded_url": "https://x.com/AnKoTwT/status/2023020776786706526/photo/1",
+          "media_key": "3_2023020765860491264",
+          "start": 8,
+          "url": "https://t.co/tpAEOy78FY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023020776786706526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这几天👾玩累了 https://t.co/tpAEOy78FY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2023020765826920449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBM2qwhaMAEgKFN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2023020765944352770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBM2qw9aEAIEGcZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2023020765822779392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBM2qwgbAAA3-ms.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2023020765860491264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBM2qwpacAA_-dD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023020765826920449",
+            "3_2023020765944352770",
+            "3_2023020765822779392",
+            "3_2023020765860491264"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023020776786706526",
+        "created_at": "2026-02-15T13:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023020776786706526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpAEOy78FY",
+              "end": 31,
+              "expanded_url": "https://x.com/AnKoTwT/status/2023020776786706526/photo/1",
+              "media_key": "3_2023020765826920449",
+              "start": 8,
+              "url": "https://t.co/tpAEOy78FY"
+            },
+            {
+              "display_url": "pic.x.com/tpAEOy78FY",
+              "end": 31,
+              "expanded_url": "https://x.com/AnKoTwT/status/2023020776786706526/photo/1",
+              "media_key": "3_2023020765944352770",
+              "start": 8,
+              "url": "https://t.co/tpAEOy78FY"
+            },
+            {
+              "display_url": "pic.x.com/tpAEOy78FY",
+              "end": 31,
+              "expanded_url": "https://x.com/AnKoTwT/status/2023020776786706526/photo/1",
+              "media_key": "3_2023020765822779392",
+              "start": 8,
+              "url": "https://t.co/tpAEOy78FY"
+            },
+            {
+              "display_url": "pic.x.com/tpAEOy78FY",
+              "end": 31,
+              "expanded_url": "https://x.com/AnKoTwT/status/2023020776786706526/photo/1",
+              "media_key": "3_2023020765860491264",
+              "start": 8,
+              "url": "https://t.co/tpAEOy78FY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023020776786706526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几天👾玩累了 https://t.co/tpAEOy78FY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUzB5O Fanbox:https://t.co/7pXe2XwUpC 提问箱: https://t.co/aI0OTcm1s8 ↓hedao ♡09 150/33kg 喜欢我就多支持我吧o3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUzB5O"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 83,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下不卖原",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4487,
+          "following_count": 95,
+          "like_count": 3764,
+          "listed_count": 23,
+          "media_count": 238,
+          "tweet_count": 1671
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

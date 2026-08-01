@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1950917996777701386",
+    "created_at": "2025-07-31T13:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T14:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950917996777701386"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950917996777701386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你爱我吗？Do you love me?あなたは私を愛していますか？나 사랑해?คุณรักฉันไหม？Em có yêu anh không?¿ Me amas?M'aimes-tu?Liebst du mich?Ты меня любишь?Você me amaMi ami?هل تحبني ؟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1950917996777701386",
+        "created_at": "2025-07-31T13:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T14:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950917996777701386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950917996777701386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你爱我吗？Do you love me?あなたは私を愛していますか？나 사랑해?คุณรักฉันไหม？Em có yêu anh không?¿ Me amas?M'aimes-tu?Liebst du mich?Ты меня любишь?Você me amaMi ami?هل تحبني ؟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 25,
+          "like_count": 262,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 163
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

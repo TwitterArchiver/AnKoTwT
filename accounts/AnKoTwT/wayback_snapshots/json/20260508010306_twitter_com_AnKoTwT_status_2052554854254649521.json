@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052410021745664000",
+        "3_2052410021745766400",
+        "3_2052410021728956416",
+        "3_2052410021745717248"
+      ],
+      "media_source_tweet_id": [
+        "2052410029228310550",
+        "2052410029228310550",
+        "2052410029228310550",
+        "2052410029228310550"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052554854254649521",
+    "created_at": "2026-05-08T01:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T02:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052554854254649521"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 59,
+          "tag": "ぱないの祭り"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "713362423638392833",
+          "start": 3,
+          "username": "chifuyu_yy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b80MaVT42F",
+          "end": 90,
+          "expanded_url": "https://x.com/chifuyu_yy/status/2052410029228310550/photo/1",
+          "media_key": "3_2052410021745664000",
+          "start": 67,
+          "url": "https://t.co/b80MaVT42F"
+        },
+        {
+          "display_url": "pic.x.com/b80MaVT42F",
+          "end": 90,
+          "expanded_url": "https://x.com/chifuyu_yy/status/2052410029228310550/photo/1",
+          "media_key": "3_2052410021745766400",
+          "start": 67,
+          "url": "https://t.co/b80MaVT42F"
+        },
+        {
+          "display_url": "pic.x.com/b80MaVT42F",
+          "end": 90,
+          "expanded_url": "https://x.com/chifuyu_yy/status/2052410029228310550/photo/1",
+          "media_key": "3_2052410021728956416",
+          "start": 67,
+          "url": "https://t.co/b80MaVT42F"
+        },
+        {
+          "display_url": "pic.x.com/b80MaVT42F",
+          "end": 90,
+          "expanded_url": "https://x.com/chifuyu_yy/status/2052410029228310550/photo/1",
+          "media_key": "3_2052410021745717248",
+          "start": 67,
+          "url": "https://t.co/b80MaVT42F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052554854254649521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052410029228310550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chifuyu_yy: 去年よりもグッズ増えたのだが、飾る場所がなくて飾り切れてない忍ちゃんがまだいる🥺🍩💓\n#ぱないの祭り https://t.co/b80MaVT42F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2052410021745664000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHugCmeaIAAjQtt.jpg",
+        "width": 3840
+      },
+      {
+        "height": 778,
+        "media_key": "3_2052410021745766400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHugCmebsAAJ51_.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2052410021728956416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHugCmabMAA4O9h.jpg",
+        "width": 778
+      },
+      {
+        "height": 581,
+        "media_key": "3_2052410021745717248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHugCmea8AAcul3.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052410021745664000",
+            "3_2052410021745766400",
+            "3_2052410021728956416",
+            "3_2052410021745717248"
+          ],
+          "media_source_tweet_id": [
+            "2052410029228310550",
+            "2052410029228310550",
+            "2052410029228310550",
+            "2052410029228310550"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052554854254649521",
+        "created_at": "2026-05-08T01:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052554854254649521"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 59,
+              "tag": "ぱないの祭り"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "713362423638392833",
+              "start": 3,
+              "username": "chifuyu_yy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b80MaVT42F",
+              "end": 90,
+              "expanded_url": "https://x.com/chifuyu_yy/status/2052410029228310550/photo/1",
+              "media_key": "3_2052410021745664000",
+              "start": 67,
+              "url": "https://t.co/b80MaVT42F"
+            },
+            {
+              "display_url": "pic.x.com/b80MaVT42F",
+              "end": 90,
+              "expanded_url": "https://x.com/chifuyu_yy/status/2052410029228310550/photo/1",
+              "media_key": "3_2052410021745766400",
+              "start": 67,
+              "url": "https://t.co/b80MaVT42F"
+            },
+            {
+              "display_url": "pic.x.com/b80MaVT42F",
+              "end": 90,
+              "expanded_url": "https://x.com/chifuyu_yy/status/2052410029228310550/photo/1",
+              "media_key": "3_2052410021728956416",
+              "start": 67,
+              "url": "https://t.co/b80MaVT42F"
+            },
+            {
+              "display_url": "pic.x.com/b80MaVT42F",
+              "end": 90,
+              "expanded_url": "https://x.com/chifuyu_yy/status/2052410029228310550/photo/1",
+              "media_key": "3_2052410021745717248",
+              "start": 67,
+              "url": "https://t.co/b80MaVT42F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052554854254649521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052410029228310550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chifuyu_yy: 去年よりもグッズ増えたのだが、飾る場所がなくて飾り切れてない忍ちゃんがまだいる🥺🍩💓\n#ぱないの祭り https://t.co/b80MaVT42F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052410021745664000",
+            "3_2052410021745766400",
+            "3_2052410021728956416",
+            "3_2052410021745717248"
+          ]
+        },
+        "author_id": "713362423638392833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052410029228310550",
+        "created_at": "2026-05-07T15:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052410029228310550"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "ぱないの祭り"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b80MaVT42F",
+              "end": 74,
+              "expanded_url": "https://x.com/chifuyu_yy/status/2052410029228310550/photo/1",
+              "media_key": "3_2052410021745664000",
+              "start": 51,
+              "url": "https://t.co/b80MaVT42F"
+            },
+            {
+              "display_url": "pic.x.com/b80MaVT42F",
+              "end": 74,
+              "expanded_url": "https://x.com/chifuyu_yy/status/2052410029228310550/photo/1",
+              "media_key": "3_2052410021745766400",
+              "start": 51,
+              "url": "https://t.co/b80MaVT42F"
+            },
+            {
+              "display_url": "pic.x.com/b80MaVT42F",
+              "end": 74,
+              "expanded_url": "https://x.com/chifuyu_yy/status/2052410029228310550/photo/1",
+              "media_key": "3_2052410021728956416",
+              "start": 51,
+              "url": "https://t.co/b80MaVT42F"
+            },
+            {
+              "display_url": "pic.x.com/b80MaVT42F",
+              "end": 74,
+              "expanded_url": "https://x.com/chifuyu_yy/status/2052410029228310550/photo/1",
+              "media_key": "3_2052410021745717248",
+              "start": 51,
+              "url": "https://t.co/b80MaVT42F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052410029228310550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1543,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "去年よりもグッズ増えたのだが、飾る場所がなくて飾り切れてない忍ちゃんがまだいる🥺🍩💓\n#ぱないの祭り https://t.co/b80MaVT42F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN Fanbox :https://t.co/7pXe2XwUpC 🐾 角色定制/陪玩私♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 想要很多很多爱 提问箱: https://t.co/RacOPia7ig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 79,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 56,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 153,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 130,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列Q188/V520只回口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5650,
+          "following_count": 129,
+          "like_count": 6067,
+          "listed_count": 23,
+          "media_count": 387,
+          "tweet_count": 2552
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-25T13:50:30.000Z",
+        "description": "推し忍野忍🦇物語シリーズ⛩ MonogatariSeries🐍趣味はコスプレ、カメラ、DJ🎧猫好き🐱ガチ恋粘着獣🦈ヘブバン 豊後🦀 アイナナ Re:vale 🍑 #アニクラLINK レギュラー次回1/25🎀myシスターズ( ˘ ³˘)💕@chihayear_1216 #ちはちふコンビ #ちふちはコンビ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 81,
+                "tag": "アニクラLINK"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "tag": "ちはちふコンビ"
+              },
+              {
+                "end": 151,
+                "start": 143,
+                "tag": "ちふちはコンビ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 133,
+                "start": 118,
+                "username": "chihayear_1216"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sp.cosp.jp/prof.aspx?id=4…",
+                "end": 23,
+                "expanded_url": "http://sp.cosp.jp/prof.aspx?id=444577",
+                "start": 0,
+                "url": "https://t.co/XJzArlg4mK"
+              }
+            ]
+          }
+        },
+        "id": "713362423638392833",
+        "location": "アイコン🎂←絵師様 ぽんさん@valhalla0707",
+        "name": "千冬🍑5/4今撫子 𖤐⸒⸒✍︎꙳⋆",
+        "pinned_tweet_id": "2003474770176913730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871442253362958336/e9EbUCOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2613,
+          "following_count": 722,
+          "like_count": 54299,
+          "listed_count": 100,
+          "media_count": 2829,
+          "tweet_count": 40026
+        },
+        "url": "https://t.co/XJzArlg4mK",
+        "username": "chifuyu_yy",
+        "verified": false
+      }
+    ]
+  }
+}

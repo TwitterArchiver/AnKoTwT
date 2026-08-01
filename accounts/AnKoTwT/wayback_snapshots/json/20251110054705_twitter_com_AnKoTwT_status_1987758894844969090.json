@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1987758894844969090",
+    "created_at": "2025-11-10T05:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T06:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987758894844969090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/amber_toffee/status/1987325789583430089",
+          "start": 9,
+          "url": "https://t.co/ELGzcYnv3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987758894844969090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987325789583430089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跟我鼠标一个配色 https://t.co/ELGzcYnv3O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2004,
+        "media_key": "3_1987325785846288384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5RmRd5XkAAfWoG.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1987758894844969090",
+        "created_at": "2025-11-10T05:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987758894844969090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1987325789583430089",
+              "start": 9,
+              "url": "https://t.co/ELGzcYnv3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987758894844969090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987325789583430089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟我鼠标一个配色 https://t.co/ELGzcYnv3O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987325785846288384"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "1987325789583430089",
+        "created_at": "2025-11-09T01:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T02:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987325789583430089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RNjpEGKArg",
+              "end": 37,
+              "expanded_url": "https://x.com/amber_toffee/status/1987325789583430089/photo/1",
+              "media_key": "3_1987325785846288384",
+              "start": 14,
+              "url": "https://t.co/RNjpEGKArg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987325789583430089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 335657,
+          "like_count": 1208,
+          "quote_count": 12,
+          "reply_count": 39,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "这个蓝粉白配色好像有点熟悉 https://t.co/RNjpEGKArg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱:https://t.co/RacOPi9zsI ↓hedao ♡150/33kg 喜欢我就多支持我吧 钱能让我幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPi9zsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987053673621618688/app4HbBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3725,
+          "following_count": 86,
+          "like_count": 2766,
+          "listed_count": 20,
+          "media_count": 179,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ☭ / ᴍᴛꜰ / ɪɴᴛᴘ / ᴘʜᴅ @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "ʜɪᴄ ʀʜᴏᴅᴜꜱ, ʜɪᴄ ꜱᴀʟᴛᴀ",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1946964550160355612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18878,
+          "following_count": 2393,
+          "like_count": 34310,
+          "listed_count": 58,
+          "media_count": 770,
+          "tweet_count": 17497
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

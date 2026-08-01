@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1988088629860983194",
+    "created_at": "2025-11-11T03:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T04:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988089401399013768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1825570512069660673",
+          "start": 0,
+          "username": "longrenwuxio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988089401399013768",
+    "in_reply_to_user_id": "1825570512069660673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988089078651453936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longrenwuxio 真的假的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1988088629860983194",
+        "created_at": "2025-11-11T03:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T04:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988089401399013768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1825570512069660673",
+              "start": 0,
+              "username": "longrenwuxio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988089401399013768",
+        "in_reply_to_user_id": "1825570512069660673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988089078651453936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longrenwuxio 真的假的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825570512069660673",
+        "conversation_id": "1988088629860983194",
+        "created_at": "2025-11-11T03:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T04:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988089078651453936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988089078651453936",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988088629860983194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 实不相瞒我们老师说以前这节日是给找老婆老公的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱:https://t.co/RacOPi9zsI ↓hedao ♡150/33kg 喜欢我就多支持我吧 钱能让我幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPi9zsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3728,
+          "following_count": 87,
+          "like_count": 2824,
+          "listed_count": 20,
+          "media_count": 180,
+          "tweet_count": 1171
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T16:28:37.000Z",
+        "description": "好色，喜欢白丝，愿世界美好且没有抑郁症，我是机器人且细狗谢谢，希望我这丑逼有个萝莉老婆（很难的拉），上推就见见世面",
+        "id": "1825570512069660673",
+        "location": "龍刄无修的家",
+        "name": "永爱吾妻流萤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825570689128009728/MhT3jXX__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 323,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 141
+        },
+        "username": "longrenwuxio",
+        "verified": false
+      }
+    ]
+  }
+}

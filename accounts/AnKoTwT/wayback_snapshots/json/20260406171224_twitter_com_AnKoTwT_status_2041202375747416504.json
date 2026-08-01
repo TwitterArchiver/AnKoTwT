@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2041202375747416504",
+    "created_at": "2026-04-06T17:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T18:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041202375747416504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xx10neko/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/xx10neko/status/2041197292880072777",
+          "start": 21,
+          "url": "https://t.co/qGZ1kE9yEM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041202375747416504",
+    "lang": "sl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041197292880072777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Ciallo~ (∠・ω&lt; )⌒★ https://t.co/qGZ1kE9yEM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041197284625707008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPKHZqbcAAqWNA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2041202375747416504",
+        "created_at": "2026-04-06T17:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041202375747416504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xx10neko/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/xx10neko/status/2041197292880072777",
+              "start": 21,
+              "url": "https://t.co/qGZ1kE9yEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041202375747416504",
+        "lang": "sl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041197292880072777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ciallo~ (∠・ω&lt; )⌒★ https://t.co/qGZ1kE9yEM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041197284625707008"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "conversation_id": "2041197292880072777",
+        "created_at": "2026-04-06T16:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041197292880072777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RKZRK1iUXl",
+              "end": 28,
+              "expanded_url": "https://x.com/xx10Neko/status/2041197292880072777/photo/1",
+              "media_key": "3_2041197284625707008",
+              "start": 5,
+              "url": "https://t.co/RKZRK1iUXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041197292880072777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 149,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "绫地宁宁 https://t.co/RKZRK1iUXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色举牌/定制/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5408,
+          "following_count": 121,
+          "like_count": 4915,
+          "listed_count": 22,
+          "media_count": 318,
+          "tweet_count": 2137
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『 🐾 』✧ Thank you for your love ✧ DM → @AnKoTwT Fanbox ：https://t.co/H8ldNw6RJ3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "AnKoTwT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://uwuneko.fanbox.cc",
+                "start": 55,
+                "url": "https://t.co/H8ldNw6RJ3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 23,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 0,
+                "url": "https://t.co/mkXLy9Ykuu"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "✟",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1934226982163939371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19026,
+          "following_count": 7,
+          "like_count": 2247,
+          "listed_count": 101,
+          "media_count": 82,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/mkXLy9Ykuu",
+        "username": "xx10Neko",
+        "verified": true
+      }
+    ]
+  }
+}

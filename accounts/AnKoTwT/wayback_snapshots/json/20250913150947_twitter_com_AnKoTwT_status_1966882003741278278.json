@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966877723802169345"
+      ],
+      "media_source_tweet_id": [
+        "1966877730831733131"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1966882003741278278",
+    "created_at": "2025-09-13T15:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T16:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966882003741278278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1399380965542088705",
+          "start": 3,
+          "username": "fary_white"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PGFarziCtu",
+          "end": 39,
+          "expanded_url": "https://x.com/fary_white/status/1966877730831733131/photo/1",
+          "media_key": "3_1966877723802169345",
+          "start": 16,
+          "url": "https://t.co/PGFarziCtu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966882003741278278",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966877730831733131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @fary_white: https://t.co/PGFarziCtu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2388,
+        "media_key": "3_1966877723802169345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0vA3mvbcAEQb99.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966877723802169345"
+          ],
+          "media_source_tweet_id": [
+            "1966877730831733131"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1966882003741278278",
+        "created_at": "2025-09-13T15:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T16:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966882003741278278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1399380965542088705",
+              "start": 3,
+              "username": "fary_white"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PGFarziCtu",
+              "end": 39,
+              "expanded_url": "https://x.com/fary_white/status/1966877730831733131/photo/1",
+              "media_key": "3_1966877723802169345",
+              "start": 16,
+              "url": "https://t.co/PGFarziCtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966882003741278278",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966877730831733131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @fary_white: https://t.co/PGFarziCtu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966877723802169345"
+          ]
+        },
+        "author_id": "1399380965542088705",
+        "conversation_id": "1966877730831733131",
+        "created_at": "2025-09-13T14:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T15:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966877730831733131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PGFarziCtu",
+              "end": 23,
+              "expanded_url": "https://x.com/fary_white/status/1966877730831733131/photo/1",
+              "media_key": "3_1966877723802169345",
+              "start": 0,
+              "url": "https://t.co/PGFarziCtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966877730831733131",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 358,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/PGFarziCtu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹互联网重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚提问箱https://t.co/aI0OTcm1s8 👾09 155/31kg 接委托/陪丸私",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 43,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966626659660165120/crmIFmDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 70,
+          "like_count": 1373,
+          "listed_count": 5,
+          "media_count": 93,
+          "tweet_count": 600
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T15:03:30.000Z",
+        "description": "創作絵描き おにろりと長髪お兄さんが好きです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/whiteplum",
+                "end": 23,
+                "expanded_url": "https://lit.link/whiteplum",
+                "start": 0,
+                "url": "https://t.co/cOsYfUIutX"
+              }
+            ]
+          }
+        },
+        "id": "1399380965542088705",
+        "location": "White lattice ",
+        "name": "𝙢𝙨𝙖",
+        "pinned_tweet_id": "1937887609277268216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788860261178482688/dExsH2zE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16139,
+          "following_count": 49,
+          "like_count": 2480,
+          "listed_count": 110,
+          "media_count": 38,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/cOsYfUIutX",
+        "username": "fary_white",
+        "verified": false
+      }
+    ]
+  }
+}

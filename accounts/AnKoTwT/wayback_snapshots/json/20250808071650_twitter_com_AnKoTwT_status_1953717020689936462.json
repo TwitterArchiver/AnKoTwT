@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953717010451546112"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1953717020689936462",
+    "created_at": "2025-08-08T07:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T08:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953717020689936462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hq1JXfhYMR",
+          "end": 27,
+          "expanded_url": "https://x.com/AnKoTwT/status/1953717020689936462/photo/1",
+          "media_key": "3_1953717010451546112",
+          "start": 4,
+          "url": "https://t.co/hq1JXfhYMR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953717020689936462",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "伊蕾娜 https://t.co/hq1JXfhYMR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953717010451546112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxz_RQ-aQAABfXI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953717010451546112"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1953717020689936462",
+        "created_at": "2025-08-08T07:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T08:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953717020689936462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hq1JXfhYMR",
+              "end": 27,
+              "expanded_url": "https://x.com/AnKoTwT/status/1953717020689936462/photo/1",
+              "media_key": "3_1953717010451546112",
+              "start": 4,
+              "url": "https://t.co/hq1JXfhYMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953717020689936462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伊蕾娜 https://t.co/hq1JXfhYMR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953041382324813824/7W0TwYkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 36,
+          "like_count": 397,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 224
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

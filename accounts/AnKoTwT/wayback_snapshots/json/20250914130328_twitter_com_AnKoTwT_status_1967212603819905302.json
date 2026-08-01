@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1967212603819905302",
+    "created_at": "2025-09-14T13:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T14:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967212603819905302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_pretty_rooms/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/_pretty_rooms/status/1966853929008091239",
+          "start": 5,
+          "url": "https://t.co/wnaeenniaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967212603819905302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966853929008091239",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想住进去 https://t.co/wnaeenniaz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1966853920426532865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0urOEQboAEXWjk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1967212603819905302",
+        "created_at": "2025-09-14T13:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967212603819905302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_pretty_rooms/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/_pretty_rooms/status/1966853929008091239",
+              "start": 5,
+              "url": "https://t.co/wnaeenniaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967212603819905302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966853929008091239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想住进去 https://t.co/wnaeenniaz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966853920426532865"
+          ]
+        },
+        "author_id": "424765546",
+        "conversation_id": "1966853929008091239",
+        "created_at": "2025-09-13T13:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966853929008091239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cYnKZsKvh3",
+              "end": 23,
+              "expanded_url": "https://x.com/_Pretty_Rooms/status/1966853929008091239/photo/1",
+              "media_key": "3_1966853920426532865",
+              "start": 0,
+              "url": "https://t.co/cYnKZsKvh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966853929008091239",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 332,
+          "impression_count": 34900,
+          "like_count": 2728,
+          "quote_count": 28,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cYnKZsKvh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko  ♡  09 155/31kg  喜欢我就多多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 68,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 45,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 73,
+          "like_count": 1422,
+          "listed_count": 5,
+          "media_count": 92,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-30T04:37:17.000Z",
+        "description": "",
+        "id": "424765546",
+        "name": "🩵🎀 𝑅𝑜𝑜𝑚 𝐼𝑑𝑒𝑎𝑠 🎀🩵",
+        "pinned_tweet_id": "1908497934855135723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966403382140436480/9xCEhQsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16266,
+          "following_count": 6,
+          "like_count": 98,
+          "listed_count": 92,
+          "media_count": 962,
+          "tweet_count": 970
+        },
+        "username": "_Pretty_Rooms",
+        "verified": false
+      }
+    ]
+  }
+}

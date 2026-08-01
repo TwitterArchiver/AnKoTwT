@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2042564855975330129",
+    "created_at": "2026-04-10T11:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042564855975330129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/egomaiid/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/egomaiid/status/2042282158987837882",
+          "start": 13,
+          "url": "https://t.co/zcMdjXi3Hu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042564855975330129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042282158987837882",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想要一柜子的这个猫猫。 https://t.co/zcMdjXi3Hu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042282156743876608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFekzRPWYAA0Bl-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2042564855975330129",
+        "created_at": "2026-04-10T11:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042564855975330129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/egomaiid/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/egomaiid/status/2042282158987837882",
+              "start": 13,
+              "url": "https://t.co/zcMdjXi3Hu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042564855975330129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042282158987837882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想要一柜子的这个猫猫。 https://t.co/zcMdjXi3Hu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042282156743876608"
+          ]
+        },
+        "author_id": "2027543101120909313",
+        "conversation_id": "2042282158987837882",
+        "created_at": "2026-04-09T16:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042282158987837882"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 22,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MrK38D2C2L",
+              "end": 66,
+              "expanded_url": "https://x.com/egomaiid/status/2042282158987837882/photo/1",
+              "media_key": "3_2042282156743876608",
+              "start": 43,
+              "url": "https://t.co/MrK38D2C2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042282158987837882",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 17756,
+          "like_count": 2574,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 403
+        },
+        "reply_settings": "everyone",
+        "text": "PCHAN ꒰ა ค(^*╻  ̫╻^)ฅ\n#NEEDY_GIRL_OVERDOSE https://t.co/MrK38D2C2L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色举牌/定制/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5360,
+          "following_count": 122,
+          "like_count": 5026,
+          "listed_count": 22,
+          "media_count": 325,
+          "tweet_count": 2189
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T00:35:38.000Z",
+        "description": "⋆.𐙚 ̊ 𝒊𝒏𝒕𝒆𝒓𝒏𝒆𝒕 𝒂𝒏𝒈𝒆𝒍 |\n𝒔𝒆𝒕𝒖𝒑 |  𝒇𝒊𝒈𝒖𝒓𝒆𝒔 | 𝒂𝒓𝒕 | 𝒄𝒐𝒔𝒑𝒍𝒂𝒚",
+        "id": "2027543101120909313",
+        "name": "꒰ა egomaid ໒꒱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038273261130162176/8rESeLnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 92,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 91
+        },
+        "username": "egomaiid",
+        "verified": false
+      }
+    ]
+  }
+}

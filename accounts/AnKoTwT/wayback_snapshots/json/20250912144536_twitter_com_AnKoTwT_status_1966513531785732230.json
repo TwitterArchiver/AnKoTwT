@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966513522311049217"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1966513531785732230",
+    "created_at": "2025-09-12T14:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T15:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966513531785732230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LTEy3K9STa",
+          "end": 36,
+          "expanded_url": "https://x.com/AnKoTwT/status/1966513531785732230/photo/1",
+          "media_key": "3_1966513522311049217",
+          "start": 13,
+          "url": "https://t.co/LTEy3K9STa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966513531785732230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买了新水印，感觉还不错。 https://t.co/LTEy3K9STa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966513522311049217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0p1oSdaMAEeiUc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966513522311049217"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1966513531785732230",
+        "created_at": "2025-09-12T14:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966513531785732230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTEy3K9STa",
+              "end": 36,
+              "expanded_url": "https://x.com/AnKoTwT/status/1966513531785732230/photo/1",
+              "media_key": "3_1966513522311049217",
+              "start": 13,
+              "url": "https://t.co/LTEy3K9STa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966513531785732230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了新水印，感觉还不错。 https://t.co/LTEy3K9STa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚提问箱https://t.co/aI0OTcm1s8 👾重度网瘾宅 欢迎女孩子扩列🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 43,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960566808773320705/RcoY_p4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 68,
+          "like_count": 1331,
+          "listed_count": 5,
+          "media_count": 88,
+          "tweet_count": 570
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

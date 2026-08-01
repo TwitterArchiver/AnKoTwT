@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1984853109051703296"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1984853183701925930",
+    "created_at": "2025-11-02T05:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T06:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984853183701925930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c5qkklIeFy",
+          "end": 31,
+          "expanded_url": "https://x.com/AnKoTwT/status/1984853183701925930/video/1",
+          "media_key": "13_1984853109051703296",
+          "start": 8,
+          "url": "https://t.co/c5qkklIeFy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984853183701925930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "初音白兔洋装🤍 https://t.co/c5qkklIeFy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10983,
+        "height": 1280,
+        "media_key": "13_1984853109051703296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984853109051703296/img/hgmF-KHBgel_Mm0y.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984853109051703296/vid/avc1/320x568/KLG8-qkjzZHyvUKh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984853109051703296/vid/avc1/480x852/LQq4EjMIIkE8_Ehd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984853109051703296/vid/avc1/720x1280/MgCngUIWlDH5c8kE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984853109051703296/pl/xNkooqikoxhwOqTU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984853109051703296"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1984853183701925930",
+        "created_at": "2025-11-02T05:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T06:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984853183701925930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c5qkklIeFy",
+              "end": 31,
+              "expanded_url": "https://x.com/AnKoTwT/status/1984853183701925930/video/1",
+              "media_key": "13_1984853109051703296",
+              "start": 8,
+              "url": "https://t.co/c5qkklIeFy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984853183701925930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初音白兔洋装🤍 https://t.co/c5qkklIeFy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱:https://t.co/RacOPi9zsI ↓hedao ♡155/33kg 喜欢我就多支持我吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPi9zsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3560,
+          "following_count": 89,
+          "like_count": 2595,
+          "listed_count": 20,
+          "media_count": 165,
+          "tweet_count": 1078
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

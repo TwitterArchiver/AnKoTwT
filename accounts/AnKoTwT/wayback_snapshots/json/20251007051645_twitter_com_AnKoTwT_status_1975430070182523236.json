@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975264526015856640"
+      ],
+      "media_source_tweet_id": [
+        "1975264596949959006"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1975430070182523236",
+    "created_at": "2025-10-07T05:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T06:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975430070182523236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1310970421651496960",
+          "start": 3,
+          "username": "Solip_ist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wc5crek2e6",
+          "end": 46,
+          "expanded_url": "https://x.com/Solip_ist/status/1975264596949959006/photo/1",
+          "media_key": "3_1975264526015856640",
+          "start": 23,
+          "url": "https://t.co/wc5crek2e6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975430070182523236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 499
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975264596949959006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Solip_ist: 重画23年老图 https://t.co/wc5crek2e6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2552,
+        "media_key": "3_1975264526015856640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2mMnvqbAAAq1Qc.jpg",
+        "width": 1676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975264526015856640"
+          ],
+          "media_source_tweet_id": [
+            "1975264596949959006"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1975430070182523236",
+        "created_at": "2025-10-07T05:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T06:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975430070182523236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1310970421651496960",
+              "start": 3,
+              "username": "Solip_ist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wc5crek2e6",
+              "end": 46,
+              "expanded_url": "https://x.com/Solip_ist/status/1975264596949959006/photo/1",
+              "media_key": "3_1975264526015856640",
+              "start": 23,
+              "url": "https://t.co/wc5crek2e6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975430070182523236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 499
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975264596949959006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Solip_ist: 重画23年老图 https://t.co/wc5crek2e6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975264526015856640"
+          ]
+        },
+        "author_id": "1310970421651496960",
+        "conversation_id": "1975264596949959006",
+        "created_at": "2025-10-06T18:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T19:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975264596949959006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wc5crek2e6",
+              "end": 31,
+              "expanded_url": "https://x.com/Solip_ist/status/1975264596949959006/photo/1",
+              "media_key": "3_1975264526015856640",
+              "start": 8,
+              "url": "https://t.co/wc5crek2e6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975264596949959006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 482,
+          "impression_count": 33988,
+          "like_count": 3408,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 499
+        },
+        "reply_settings": "everyone",
+        "text": "重画23年老图 https://t.co/wc5crek2e6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 81,
+          "like_count": 1840,
+          "listed_count": 9,
+          "media_count": 128,
+          "tweet_count": 830
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-29T15:51:33.000Z",
+        "description": "中国语/ENGLISH，暂不接稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/32353730",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/32353730",
+                "start": 0,
+                "url": "https://t.co/ZWtX9H8Lcp"
+              }
+            ]
+          }
+        },
+        "id": "1310970421651496960",
+        "location": "china",
+        "name": "solip",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1436598026995339264/pEi6E4NN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76681,
+          "following_count": 346,
+          "like_count": 1211,
+          "listed_count": 580,
+          "media_count": 118,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/ZWtX9H8Lcp",
+        "username": "Solip_ist",
+        "verified": false
+      }
+    ]
+  }
+}

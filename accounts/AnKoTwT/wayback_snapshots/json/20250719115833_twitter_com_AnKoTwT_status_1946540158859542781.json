@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1946540158859542781",
+    "created_at": "2025-07-19T11:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T12:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946540158859542781"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1946540158859542781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得我现实中就像小睦一样无人在意一说话空气就凝固了，没人懂我说的话，也没人想了解我理解我。现实也不会对我好，偶尔崩溃了还要被人唾弃被人笑。我没有任何天赋，好不容易找到了自己可以为之努力的事物，结果发现自己一直以来的努力都比不过任何人，好吧其实我也没有这么好看，家里也没有钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1946540158859542781",
+        "created_at": "2025-07-19T11:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T12:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946540158859542781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946540158859542781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我现实中就像小睦一样无人在意一说话空气就凝固了，没人懂我说的话，也没人想了解我理解我。现实也不会对我好，偶尔崩溃了还要被人唾弃被人笑。我没有任何天赋，好不容易找到了自己可以为之努力的事物，结果发现自己一直以来的努力都比不过任何人，好吧其实我也没有这么好看，家里也没有钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "梦想是想当声音好听画画好看的美少女画师♡@xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "家里蹲໒꒰ྀིㅇㅁㅇ꒱ྀི১",
+        "name": "Kuko",
+        "pinned_tweet_id": "1944022809841479847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941102088856952832/Vz0x4Vc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 1,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 76
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

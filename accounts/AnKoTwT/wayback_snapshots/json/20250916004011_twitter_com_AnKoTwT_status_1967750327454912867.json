@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967750320030879745",
+        "3_1967750320068640768"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1967750327454912867",
+    "created_at": "2025-09-16T00:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T01:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967750327454912867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LeLwIYUPXt",
+          "end": 55,
+          "expanded_url": "https://x.com/AnKoTwT/status/1967750327454912867/photo/1",
+          "media_key": "3_1967750320030879745",
+          "start": 32,
+          "url": "https://t.co/LeLwIYUPXt"
+        },
+        {
+          "display_url": "pic.x.com/LeLwIYUPXt",
+          "end": 55,
+          "expanded_url": "https://x.com/AnKoTwT/status/1967750327454912867/photo/1",
+          "media_key": "3_1967750320068640768",
+          "start": 32,
+          "url": "https://t.co/LeLwIYUPXt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967750327454912867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯，大概就是我cos忍野忍照片被人发群里，然后一堆人说我是鸡。 https://t.co/LeLwIYUPXt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_1967750320030879745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G07afZAaEAEORho.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967750320068640768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G07afZJaQAAk6lT.jpg",
+        "width": 234
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967750320030879745",
+            "3_1967750320068640768"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967750327454912867",
+        "created_at": "2025-09-16T00:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T01:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967750327454912867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LeLwIYUPXt",
+              "end": 55,
+              "expanded_url": "https://x.com/AnKoTwT/status/1967750327454912867/photo/1",
+              "media_key": "3_1967750320030879745",
+              "start": 32,
+              "url": "https://t.co/LeLwIYUPXt"
+            },
+            {
+              "display_url": "pic.x.com/LeLwIYUPXt",
+              "end": 55,
+              "expanded_url": "https://x.com/AnKoTwT/status/1967750327454912867/photo/1",
+              "media_key": "3_1967750320068640768",
+              "start": 32,
+              "url": "https://t.co/LeLwIYUPXt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967750327454912867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，大概就是我cos忍野忍照片被人发群里，然后一堆人说我是鸡。 https://t.co/LeLwIYUPXt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 74,
+          "like_count": 1449,
+          "listed_count": 5,
+          "media_count": 97,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

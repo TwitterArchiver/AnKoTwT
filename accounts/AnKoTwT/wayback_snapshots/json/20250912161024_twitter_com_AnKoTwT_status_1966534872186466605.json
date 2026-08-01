@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966534859859632128",
+        "3_1966534859851198464"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1966534872186466605",
+    "created_at": "2025-09-12T16:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T17:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966534872186466605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dytzXjbKPk",
+          "end": 68,
+          "expanded_url": "https://x.com/AnKoTwT/status/1966534872186466605/photo/1",
+          "media_key": "3_1966534859859632128",
+          "start": 45,
+          "url": "https://t.co/dytzXjbKPk"
+        },
+        {
+          "display_url": "pic.x.com/dytzXjbKPk",
+          "end": 68,
+          "expanded_url": "https://x.com/AnKoTwT/status/1966534872186466605/photo/1",
+          "media_key": "3_1966534859851198464",
+          "start": 45,
+          "url": "https://t.co/dytzXjbKPk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966534872186466605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好纠结，买粉色还是黑色？我已经有很多黑色系的蕾服了，有点想要粉色，但是这套黑色也很好看。 https://t.co/dytzXjbKPk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1647,
+        "media_key": "3_1966534859859632128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0qJCTBbIAAImRJ.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966534859851198464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0qJCS_acAAYNim.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966534859859632128",
+            "3_1966534859851198464"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1966534872186466605",
+        "created_at": "2025-09-12T16:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T17:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966534872186466605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dytzXjbKPk",
+              "end": 68,
+              "expanded_url": "https://x.com/AnKoTwT/status/1966534872186466605/photo/1",
+              "media_key": "3_1966534859859632128",
+              "start": 45,
+              "url": "https://t.co/dytzXjbKPk"
+            },
+            {
+              "display_url": "pic.x.com/dytzXjbKPk",
+              "end": 68,
+              "expanded_url": "https://x.com/AnKoTwT/status/1966534872186466605/photo/1",
+              "media_key": "3_1966534859851198464",
+              "start": 45,
+              "url": "https://t.co/dytzXjbKPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966534872186466605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好纠结，买粉色还是黑色？我已经有很多黑色系的蕾服了，有点想要粉色，但是这套黑色也很好看。 https://t.co/dytzXjbKPk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚提问箱https://t.co/aI0OTcm1s8 👾重度网瘾宅 欢迎女孩子扩列🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 43,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960566808773320705/RcoY_p4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 69,
+          "like_count": 1332,
+          "listed_count": 5,
+          "media_count": 89,
+          "tweet_count": 571
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

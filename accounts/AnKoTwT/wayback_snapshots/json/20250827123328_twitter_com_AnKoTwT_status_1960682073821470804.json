@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1960656019027054817",
+    "created_at": "2025-08-27T12:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T13:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960682073821470804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1869385835403177984",
+          "start": 0,
+          "username": "chucruimuny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960682073821470804",
+    "in_reply_to_user_id": "1869385835403177984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960673224318181601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chucruimuny 喜欢的东西抢不到&gt;x&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1960656019027054817",
+        "created_at": "2025-08-27T12:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960682073821470804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1869385835403177984",
+              "start": 0,
+              "username": "chucruimuny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960682073821470804",
+        "in_reply_to_user_id": "1869385835403177984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960673224318181601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chucruimuny 喜欢的东西抢不到&gt;x&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869385835403177984",
+        "conversation_id": "1960656019027054817",
+        "created_at": "2025-08-27T11:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T12:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960673224318181601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960673224318181601",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960656019027054817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 发生什么事了？🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚提问箱https://t.co/aI0OTcm1s8 👾重度网瘾宅 欢迎女孩子扩列🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 43,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960566808773320705/RcoY_p4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 61,
+          "like_count": 979,
+          "listed_count": 4,
+          "media_count": 65,
+          "tweet_count": 451
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T14:14:58.000Z",
+        "description": "",
+        "id": "1869385835403177984",
+        "location": "17",
+        "name": "ֶָ֢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955940502311968768/hmVhwGnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 11,
+          "like_count": 235,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 64
+        },
+        "username": "chucruimuny",
+        "verified": false
+      }
+    ]
+  }
+}

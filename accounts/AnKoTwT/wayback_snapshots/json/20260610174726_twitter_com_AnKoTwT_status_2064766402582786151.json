@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064766393325928448"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2064766402582786151",
+    "created_at": "2026-06-10T17:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064766402582786151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6vXFm2IyTi",
+          "end": 46,
+          "expanded_url": "https://x.com/AnKoTwT/status/2064766402582786151/photo/1",
+          "media_key": "3_2064766393325928448",
+          "start": 23,
+          "url": "https://t.co/6vXFm2IyTi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064766402582786151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "verified",
+    "text": "实话说，被我这样的萝莉狠狠踩在脚下很享受吧。 https://t.co/6vXFm2IyTi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 689,
+        "media_key": "3_2064766393325928448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeGGFpbQAAZoca.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064766393325928448"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2064766402582786151",
+        "created_at": "2026-06-10T17:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064766402582786151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6vXFm2IyTi",
+              "end": 46,
+              "expanded_url": "https://x.com/AnKoTwT/status/2064766402582786151/photo/1",
+              "media_key": "3_2064766393325928448",
+              "start": 23,
+              "url": "https://t.co/6vXFm2IyTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064766402582786151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "verified",
+        "text": "实话说，被我这样的萝莉狠狠踩在脚下很享受吧。 https://t.co/6vXFm2IyTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾 接角色定制/陪玩♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 需要很多很多爱和钱 郁の提问箱: https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 125,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 102,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿可陪聊 不约不卖不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5624,
+          "following_count": 142,
+          "like_count": 6555,
+          "listed_count": 20,
+          "media_count": 421,
+          "tweet_count": 2775
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

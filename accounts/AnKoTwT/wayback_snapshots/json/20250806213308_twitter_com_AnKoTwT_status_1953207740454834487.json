@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952666242277634048"
+      ],
+      "media_source_tweet_id": [
+        "1952666247205728460"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1953207740454834487",
+    "created_at": "2025-08-06T21:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T22:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953207740454834487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1358277202672930817",
+          "start": 3,
+          "username": "maru718"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jQN51wQitC",
+          "end": 36,
+          "expanded_url": "https://x.com/maru718/status/1952666247205728460/photo/1",
+          "media_key": "3_1952666242277634048",
+          "start": 13,
+          "url": "https://t.co/jQN51wQitC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953207740454834487",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 259
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952666247205728460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maru718: https://t.co/jQN51wQitC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1487,
+        "media_key": "3_1952666242277634048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxlDmgfa8AAo5qa.jpg",
+        "width": 1839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952666242277634048"
+          ],
+          "media_source_tweet_id": [
+            "1952666247205728460"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1953207740454834487",
+        "created_at": "2025-08-06T21:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T22:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953207740454834487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1358277202672930817",
+              "start": 3,
+              "username": "maru718"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQN51wQitC",
+              "end": 36,
+              "expanded_url": "https://x.com/maru718/status/1952666247205728460/photo/1",
+              "media_key": "3_1952666242277634048",
+              "start": 13,
+              "url": "https://t.co/jQN51wQitC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953207740454834487",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 259
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952666247205728460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maru718: https://t.co/jQN51wQitC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952666242277634048"
+          ]
+        },
+        "author_id": "1358277202672930817",
+        "conversation_id": "1952666247205728460",
+        "created_at": "2025-08-05T09:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T10:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952666247205728460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQN51wQitC",
+              "end": 23,
+              "expanded_url": "https://x.com/maru718/status/1952666247205728460/photo/1",
+              "media_key": "3_1952666242277634048",
+              "start": 0,
+              "url": "https://t.co/jQN51wQitC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952666247205728460",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 60811,
+          "like_count": 4586,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 259
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jQN51wQitC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953041382324813824/7W0TwYkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 31,
+          "like_count": 388,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 208
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-07T04:54:28.000Z",
+        "description": "おもに🍼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@maru718",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@maru718",
+                "start": 0,
+                "url": "https://t.co/8yioxb0v54"
+              }
+            ]
+          }
+        },
+        "id": "1358277202672930817",
+        "name": "まるぴ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769447245311836160/CGv3Jebo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 281,
+          "like_count": 59043,
+          "listed_count": 9,
+          "media_count": 155,
+          "tweet_count": 1805
+        },
+        "url": "https://t.co/8yioxb0v54",
+        "username": "maru718",
+        "verified": false
+      }
+    ]
+  }
+}

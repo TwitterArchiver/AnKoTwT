@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981374915522580480"
+      ],
+      "media_source_tweet_id": [
+        "1981526054746624143"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1981651380202012853",
+    "created_at": "2025-10-24T09:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T10:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981651380202012853"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "ヒナちゃん",
+          "probability": 0.8803,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "930139954595770368",
+          "start": 3,
+          "username": "motunabe_umauma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/57SRgCtYo5",
+          "end": 61,
+          "expanded_url": "https://x.com/motunabe_umauma/status/1981526054746624143/photo/1",
+          "media_key": "3_1981374915522580480",
+          "start": 38,
+          "url": "https://t.co/57SRgCtYo5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981651380202012853",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 919
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981526054746624143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @motunabe_umauma: ヒナちゃんの焦っている顔が見たい https://t.co/57SRgCtYo5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3624,
+        "media_key": "3_1981374915522580480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39B_OaX0AA5iix.jpg",
+        "width": 2591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981374915522580480"
+          ],
+          "media_source_tweet_id": [
+            "1981526054746624143"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1981651380202012853",
+        "created_at": "2025-10-24T09:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T10:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981651380202012853"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "ヒナちゃん",
+              "probability": 0.8803,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "930139954595770368",
+              "start": 3,
+              "username": "motunabe_umauma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/57SRgCtYo5",
+              "end": 61,
+              "expanded_url": "https://x.com/motunabe_umauma/status/1981526054746624143/photo/1",
+              "media_key": "3_1981374915522580480",
+              "start": 38,
+              "url": "https://t.co/57SRgCtYo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981651380202012853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 919
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981526054746624143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @motunabe_umauma: ヒナちゃんの焦っている顔が見たい https://t.co/57SRgCtYo5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981374915522580480"
+          ]
+        },
+        "author_id": "930139954595770368",
+        "conversation_id": "1981526054746624143",
+        "created_at": "2025-10-24T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981526054746624143"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ヒナちゃん",
+              "probability": 0.884,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/57SRgCtYo5",
+              "end": 40,
+              "expanded_url": "https://x.com/motunabe_umauma/status/1981526054746624143/photo/1",
+              "media_key": "3_1981374915522580480",
+              "start": 17,
+              "url": "https://t.co/57SRgCtYo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981526054746624143",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 843,
+          "impression_count": 67252,
+          "like_count": 7242,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 919
+        },
+        "reply_settings": "everyone",
+        "text": "ヒナちゃんの焦っている顔が見たい https://t.co/57SRgCtYo5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱:https://t.co/RacOPi9zsI ↓hedao ♡155/33kg 喜欢我就多支持我吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPi9zsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2879,
+          "following_count": 84,
+          "like_count": 2269,
+          "listed_count": 14,
+          "media_count": 150,
+          "tweet_count": 1005
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-13T18:27:01.000Z",
+        "description": "わたしは絵が描けます skeb→https://t.co/MXVZebJcdZ ふぁんぼ→https://t.co/gntdcL5BDP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@motunabe_umau…",
+                "end": 39,
+                "expanded_url": "http://skeb.jp/@motunabe_umauma",
+                "start": 16,
+                "url": "https://t.co/MXVZebJcdZ"
+              },
+              {
+                "display_url": "simeji-0624.fanbox.cc",
+                "end": 68,
+                "expanded_url": "https://simeji-0624.fanbox.cc",
+                "start": 45,
+                "url": "https://t.co/gntdcL5BDP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/37656328",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/37656328",
+                "start": 0,
+                "url": "https://t.co/3goyJ74JMy"
+              }
+            ]
+          }
+        },
+        "id": "930139954595770368",
+        "name": "しめじたけ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895588913676500996/eWraD3qj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16682,
+          "following_count": 2328,
+          "like_count": 98467,
+          "listed_count": 121,
+          "media_count": 182,
+          "tweet_count": 10021
+        },
+        "url": "https://t.co/3goyJ74JMy",
+        "username": "motunabe_umauma",
+        "verified": false
+      }
+    ]
+  }
+}

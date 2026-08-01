@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1957322909229207819",
+    "created_at": "2025-08-18T11:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T12:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957401529612431804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1869385835403177984",
+          "start": 0,
+          "username": "chucruimuny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957401529612431804",
+    "in_reply_to_user_id": "1869385835403177984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957339922760716563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chucruimuny 💞💞💞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1957322909229207819",
+        "created_at": "2025-08-18T11:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T12:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957401529612431804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1869385835403177984",
+              "start": 0,
+              "username": "chucruimuny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957401529612431804",
+        "in_reply_to_user_id": "1869385835403177984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957339922760716563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chucruimuny 💞💞💞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869385835403177984",
+        "conversation_id": "1957322909229207819",
+        "created_at": "2025-08-18T07:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T08:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957339922760716563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957339922760716563",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957322909229207819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 你总是那么可爱 ૮ ․ ․ ྀིა"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "美少女重度依赖@xx10Neko//提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 21,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 44,
+          "like_count": 657,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 337
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T14:14:58.000Z",
+        "description": "",
+        "id": "1869385835403177984",
+        "location": "17",
+        "name": "ֶָ֢",
+        "pinned_tweet_id": "1950377391559495746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955940502311968768/hmVhwGnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 10,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 62
+        },
+        "username": "chucruimuny",
+        "verified": false
+      }
+    ]
+  }
+}

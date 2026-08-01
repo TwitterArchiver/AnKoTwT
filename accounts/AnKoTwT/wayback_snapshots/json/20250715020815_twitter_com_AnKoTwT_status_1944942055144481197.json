@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944728919631966208"
+      ],
+      "media_source_tweet_id": [
+        "1944728927324495912"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1944942055144481197",
+    "created_at": "2025-07-15T02:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T03:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944942055144481197"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 38,
+          "tag": "ムラサメ"
+        },
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "コスプレ"
+        },
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "丛雨"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857071874464735232",
+          "start": 3,
+          "username": "xx10Neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rQ6lXFO4ye",
+          "end": 78,
+          "expanded_url": "https://x.com/xx10Neko/status/1944728927324495912/photo/1",
+          "media_key": "3_1944728919631966208",
+          "start": 55,
+          "url": "https://t.co/rQ6lXFO4ye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944942055144481197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944728927324495912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx10Neko: ໒꒰ྀི ∩⸝⸝∩ ꒱ྀི১总之就是非常可爱。\n#ムラサメ \n#コスプレ\n#丛雨 https://t.co/rQ6lXFO4ye"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944728919631966208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv0QphcXsAAdy-c.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944728919631966208"
+          ],
+          "media_source_tweet_id": [
+            "1944728927324495912"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1944942055144481197",
+        "created_at": "2025-07-15T02:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T03:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944942055144481197"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "ムラサメ"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "丛雨"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857071874464735232",
+              "start": 3,
+              "username": "xx10Neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQ6lXFO4ye",
+              "end": 78,
+              "expanded_url": "https://x.com/xx10Neko/status/1944728927324495912/photo/1",
+              "media_key": "3_1944728919631966208",
+              "start": 55,
+              "url": "https://t.co/rQ6lXFO4ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944942055144481197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944728927324495912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xx10Neko: ໒꒰ྀི ∩⸝⸝∩ ꒱ྀི১总之就是非常可爱。\n#ムラサメ \n#コスプレ\n#丛雨 https://t.co/rQ6lXFO4ye"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944728919631966208"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1944728927324495912",
+        "created_at": "2025-07-14T12:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T13:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944728927324495912"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "ムラサメ"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "丛雨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQ6lXFO4ye",
+              "end": 64,
+              "expanded_url": "https://x.com/xx10Neko/status/1944728927324495912/photo/1",
+              "media_key": "3_1944728919631966208",
+              "start": 41,
+              "url": "https://t.co/rQ6lXFO4ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944728927324495912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 27447,
+          "like_count": 586,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "໒꒰ྀི ∩⸝⸝∩ ꒱ྀི১总之就是非常可爱。\n#ムラサメ \n#コスプレ\n#丛雨 https://t.co/rQ6lXFO4ye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "梦想是想当声音好听画画好看的美少女画师",
+        "id": "1934978221470277632",
+        "location": "家里蹲໒꒰ྀིㅇㅁㅇ꒱ྀི১",
+        "name": "Kuko",
+        "pinned_tweet_id": "1944022809841479847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941102088856952832/Vz0x4Vc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 66
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『🐾』Thank you for your love. 接线上委托/寄拍角色 ✧bilibili:https://t.co/ECi3GfL9jq✧ 自娱自乐发着玩 不约不线下",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/DWpsPC8",
+                "end": 72,
+                "expanded_url": "http://b23.tv/DWpsPC8",
+                "start": 49,
+                "url": "https://t.co/ECi3GfL9jq"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "q 好友188只回口令",
+        "name": "Ankoku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4396,
+          "following_count": 5,
+          "like_count": 1524,
+          "listed_count": 33,
+          "media_count": 35,
+          "tweet_count": 107
+        },
+        "username": "xx10Neko",
+        "verified": false
+      }
+    ]
+  }
+}

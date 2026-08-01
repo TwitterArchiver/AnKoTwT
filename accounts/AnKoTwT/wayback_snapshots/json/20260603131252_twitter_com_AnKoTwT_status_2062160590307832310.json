@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2062154564175110509",
+    "created_at": "2026-06-03T13:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062160590307832310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062160590307832310",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062154564175110509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 太好看了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14950,
+        "height": 2560,
+        "media_key": "13_2062154276512874496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062154276512874496/img/32yPaqRo-u-3T4Qz.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062154276512874496/pl/NQO7MjVnFhSidsF-.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062154276512874496/vid/avc1/320x568/MXECKxg_pDmGstYC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062154276512874496/vid/avc1/720x1280/tweWrw25wmhJc1sp.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062154276512874496/vid/avc1/1440x2560/Gs6ZCSPIyqp5MP3O.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062154276512874496/vid/avc1/480x852/XHl1gMo_UOTZdnh0.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2062154564175110509",
+        "created_at": "2026-06-03T13:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062160590307832310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062160590307832310",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062154564175110509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 太好看了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062154276512874496"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "conversation_id": "2062154564175110509",
+        "created_at": "2026-06-03T12:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062154564175110509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YO1u9LEd3o",
+              "end": 42,
+              "expanded_url": "https://x.com/doll7799/status/2062154564175110509/video/1",
+              "media_key": "13_2062154276512874496",
+              "start": 19,
+              "url": "https://t.co/YO1u9LEd3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062154564175110509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说实话龙族这小说文笔写的太好了^_^ https://t.co/YO1u9LEd3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾 接角色定制/陪玩♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 需要很多很多爱和钱 郁の提问箱: https://t.co/RacOPia7ig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 125,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 102,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列Q188/V520口令 纯绿可陪聊 不约不卖不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5615,
+          "following_count": 136,
+          "like_count": 6468,
+          "listed_count": 20,
+          "media_count": 411,
+          "tweet_count": 2721
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707 \n扩列不是门槛，能不能就当成正常交朋友😂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5230,
+          "following_count": 10,
+          "like_count": 2289,
+          "listed_count": 21,
+          "media_count": 226,
+          "tweet_count": 915
+        },
+        "username": "doll7799",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2079437370580238696",
+    "created_at": "2026-07-21T05:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079437370580238696"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079437370580238696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好饿 没想好午饭吃什么 感觉都没什么好吃的外卖~_~啊啊睡醒就好无聊的世界 这样的日子要持续多久？这种一眼看到头的故事 我一点也不想呆在这里面 太悲剧性了吧！对我来说睡醒就代表这一天依旧这样结束了ಥ_ಥ啊啊~~~~无聊无聊~我讨厌乏味！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2079437370580238696",
+        "created_at": "2026-07-21T05:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079437370580238696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079437370580238696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好饿 没想好午饭吃什么 感觉都没什么好吃的外卖~_~啊啊睡醒就好无聊的世界 这样的日子要持续多久？这种一眼看到头的故事 我一点也不想呆在这里面 太悲剧性了吧！对我来说睡醒就代表这一天依旧这样结束了ಥ_ಥ啊啊~~~~无聊无聊~我讨厌乏味！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾提问箱: https://t.co/aI0OTcm1s8 🐾150/33kg🐾无感情纯拷打萝莉Sss 我有很严重的恋狗癖🦮爱我请多多支持我吧♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 77,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 54,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188/300/520   纯绿不约不卖无线下🐈‍⬛",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5715,
+          "following_count": 149,
+          "like_count": 7042,
+          "listed_count": 19,
+          "media_count": 491,
+          "tweet_count": 3090
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

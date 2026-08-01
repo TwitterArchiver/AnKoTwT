@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001930689604915201"
+      ],
+      "media_source_tweet_id": [
+        "2001931045080572009"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2001980194736029718",
+    "created_at": "2025-12-19T11:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T12:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001980194736029718"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "百合園セイア"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791182471830306816",
+          "start": 3,
+          "username": "yorshka517"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zWJVEFCEAM",
+          "end": 60,
+          "expanded_url": "https://x.com/yorshka517/status/2001931045080572009/photo/1",
+          "media_key": "3_2001930689604915201",
+          "start": 37,
+          "url": "https://t.co/zWJVEFCEAM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001980194736029718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001931045080572009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yorshka517: メイドツインテ #百合園セイア 〜‼️😆 https://t.co/zWJVEFCEAM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2001930689604915201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hJWwLakAEDNI-.jpg",
+        "width": 1262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001930689604915201"
+          ],
+          "media_source_tweet_id": [
+            "2001931045080572009"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2001980194736029718",
+        "created_at": "2025-12-19T11:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001980194736029718"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "百合園セイア"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791182471830306816",
+              "start": 3,
+              "username": "yorshka517"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWJVEFCEAM",
+              "end": 60,
+              "expanded_url": "https://x.com/yorshka517/status/2001931045080572009/photo/1",
+              "media_key": "3_2001930689604915201",
+              "start": 37,
+              "url": "https://t.co/zWJVEFCEAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001980194736029718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001931045080572009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yorshka517: メイドツインテ #百合園セイア 〜‼️😆 https://t.co/zWJVEFCEAM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001930689604915201"
+          ]
+        },
+        "author_id": "1791182471830306816",
+        "conversation_id": "2001931045080572009",
+        "created_at": "2025-12-19T08:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T09:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001931045080572009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "百合園セイア"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWJVEFCEAM",
+              "end": 44,
+              "expanded_url": "https://x.com/yorshka517/status/2001931045080572009/photo/1",
+              "media_key": "3_2001930689604915201",
+              "start": 21,
+              "url": "https://t.co/zWJVEFCEAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001931045080572009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 4283,
+          "like_count": 521,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "メイドツインテ #百合園セイア 〜‼️😆 https://t.co/zWJVEFCEAM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱: https://t.co/aI0OTcltCA ↓hedao ♡150/33kg 喜欢我就多支持我吧 钱能让我幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 83,
+                "url": "https://t.co/aI0OTcltCA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4122,
+          "following_count": 88,
+          "like_count": 3540,
+          "listed_count": 20,
+          "media_count": 208,
+          "tweet_count": 1391
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T19:02:42.000Z",
+        "description": "学マス、ブルアカなどの二次創作イラスト\n宇宙をテーマにしたオリジナルキャライラスト、グッズ制作\n星々の記憶を守る女の子たちの物語、「星ノ賜」という絵本を描いています！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoshinotamamono.booth.pm",
+                "end": 23,
+                "expanded_url": "https://hoshinotamamono.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/D13Cg6xqlk"
+              }
+            ]
+          }
+        },
+        "id": "1791182471830306816",
+        "name": "Yorshka/星ノ賜🌟🎁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984518825820426240/UJuZlmPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4473,
+          "following_count": 228,
+          "like_count": 2894,
+          "listed_count": 37,
+          "media_count": 76,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/D13Cg6xqlk",
+        "username": "yorshka517",
+        "verified": true
+      }
+    ]
+  }
+}

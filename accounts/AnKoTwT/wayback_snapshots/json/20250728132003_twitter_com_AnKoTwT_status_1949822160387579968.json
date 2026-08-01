@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1949822160387579968",
+    "created_at": "2025-07-28T13:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T14:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949822160387579968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1041859089704382464",
+          "start": 3,
+          "username": "skaesun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949822160387579968",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949523343029199151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skaesun: ⠀\n⠀⣠⠶⣛⠳⣤⢀⡴⢛⡛⢦⡀\n⣰⢡⣿⣿⣿⣦⢋⣾⣿⣿⣷⠙⡀\n⢿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⡇\n⠈⢦⠻⣿⣿⣿⣿⣿⠿⠻⢋⡾⠒⢦⡀\n⠀⠀⠙⢦⠻⣿⣿⢁⣿⣿⣦⣾⣿⣷⢹\n⠀⠀⠀⠀⠙⣌⠟⣤⠻⣿⣿⣿⣿⢋⡞\n⠀⠀⠀⠀⠀⠈⡾⠀⠙⣌⢻⠟⡴⠁\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⠏\n⠀ https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949523333822742529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw4ZJKHXAAEOeX4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949523333793333248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw4ZJKAWQAAoI0q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949523333789163520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw4ZJJ_WoAAzCfi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1949822160387579968",
+        "created_at": "2025-07-28T13:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T14:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949822160387579968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1041859089704382464",
+              "start": 3,
+              "username": "skaesun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949822160387579968",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949523343029199151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skaesun: ⠀\n⠀⣠⠶⣛⠳⣤⢀⡴⢛⡛⢦⡀\n⣰⢡⣿⣿⣿⣦⢋⣾⣿⣿⣷⠙⡀\n⢿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⡇\n⠈⢦⠻⣿⣿⣿⣿⣿⠿⠻⢋⡾⠒⢦⡀\n⠀⠀⠙⢦⠻⣿⣿⢁⣿⣿⣦⣾⣿⣷⢹\n⠀⠀⠀⠀⠙⣌⠟⣤⠻⣿⣿⣿⣿⢋⡞\n⠀⠀⠀⠀⠀⠈⡾⠀⠙⣌⢻⠟⡴⠁\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⠏\n⠀ https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949523333822742529",
+            "3_1949523333793333248",
+            "3_1949523333789163520"
+          ]
+        },
+        "author_id": "1041859089704382464",
+        "conversation_id": "1949523343029199151",
+        "created_at": "2025-07-27T17:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949523343029199151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9q7SuHD1NV",
+              "end": 144,
+              "expanded_url": "https://x.com/skaesun/status/1949523343029199151/photo/1",
+              "media_key": "3_1949523333822742529",
+              "start": 121,
+              "url": "https://t.co/9q7SuHD1NV"
+            },
+            {
+              "display_url": "pic.x.com/9q7SuHD1NV",
+              "end": 144,
+              "expanded_url": "https://x.com/skaesun/status/1949523343029199151/photo/1",
+              "media_key": "3_1949523333793333248",
+              "start": 121,
+              "url": "https://t.co/9q7SuHD1NV"
+            },
+            {
+              "display_url": "pic.x.com/9q7SuHD1NV",
+              "end": 144,
+              "expanded_url": "https://x.com/skaesun/status/1949523343029199151/photo/1",
+              "media_key": "3_1949523333789163520",
+              "start": 121,
+              "url": "https://t.co/9q7SuHD1NV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949523343029199151",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 28999,
+          "like_count": 1814,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "⠀\n⠀⣠⠶⣛⠳⣤⢀⡴⢛⡛⢦⡀\n⣰⢡⣿⣿⣿⣦⢋⣾⣿⣿⣷⠙⡀\n⢿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⡇\n⠈⢦⠻⣿⣿⣿⣿⣿⠿⠻⢋⡾⠒⢦⡀\n⠀⠀⠙⢦⠻⣿⣿⢁⣿⣿⣦⣾⣿⣷⢹\n⠀⠀⠀⠀⠙⣌⠟⣤⠻⣿⣿⣿⣿⢋⡞\n⠀⠀⠀⠀⠀⠈⡾⠀⠙⣌⢻⠟⡴⠁\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⠏\n⠀ https://t.co/9q7SuHD1NV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱我活在自己的世界里♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 1,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 121
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-18T01:18:58.000Z",
+        "description": ". ꒰ ☁️ ୨୧◞ 。tech and gaming content creator",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@skaeszun",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@skaeszun",
+                "start": 0,
+                "url": "https://t.co/ZXhYKmiaTT"
+              }
+            ]
+          }
+        },
+        "id": "1041859089704382464",
+        "location": "https://beacons.ai/skaeszun",
+        "name": "paola.",
+        "pinned_tweet_id": "1883711032285356398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943681057653469184/Zu_ia54H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5697,
+          "following_count": 885,
+          "like_count": 18933,
+          "listed_count": 13,
+          "media_count": 4757,
+          "tweet_count": 47004
+        },
+        "url": "https://t.co/ZXhYKmiaTT",
+        "username": "skaesun",
+        "verified": false
+      }
+    ]
+  }
+}

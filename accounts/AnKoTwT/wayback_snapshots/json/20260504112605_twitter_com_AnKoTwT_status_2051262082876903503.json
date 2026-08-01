@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2051090680383193485",
+    "created_at": "2026-05-04T11:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051262082876903503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1324198319535521795",
+          "start": 0,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051262082876903503",
+    "in_reply_to_user_id": "1324198319535521795",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051090680383193485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKaWSB 好好笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32856,
+        "height": 1280,
+        "media_key": "13_2051034458879676416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051034458879676416/img/i9GIOu_WHycZ0Tcx.jpg",
+        "public_metrics": {
+          "view_count": 580873
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051034458879676416/vid/avc1/320x568/XoGdbp7B2Bp62UX2.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051034458879676416/vid/avc1/480x852/RgBXjMYhO5jTqDOy.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051034458879676416/vid/avc1/720x1280/R2Gqj7LSfGet7b2z.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051034458879676416/pl/sptOXD9XqnCQyERh.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2051090680383193485",
+        "created_at": "2026-05-04T11:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051262082876903503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1324198319535521795",
+              "start": 0,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051262082876903503",
+        "in_reply_to_user_id": "1324198319535521795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051090680383193485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKaWSB 好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051034458879676416"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051090680383193485",
+        "created_at": "2026-05-04T00:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T01:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051090680383193485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhuWdRxcoa",
+              "end": 164,
+              "expanded_url": "https://x.com/KKaWSB/status/2051090680383193485/video/1",
+              "media_key": "13_2051034458879676416",
+              "start": 141,
+              "url": "https://t.co/JhuWdRxcoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051090680383193485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 343,
+          "impression_count": 1008498,
+          "like_count": 2140,
+          "quote_count": 10,
+          "reply_count": 368,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "一群素食主义者在“肉食节”前抗议，用塑料膜包裹自己假装成“包装肉”，身上还贴了5050日元的价格标签，并洒上假血来模拟“新鲜肉”。\n\n却遭遇了意想不到的回应🤣：\n\n一位日本男子看到后，非常认真且一本正经地拿出几张纸币，一再试图“购买”这具躺在地上的肉身，试图把她当成真正的肉来买。 https://t.co/JhuWdRxcoa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN Fanbox :https://t.co/7pXe2XwUpC 🐾 角色定制/陪玩私♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 想要很多爱 提问箱: https://t.co/RacOPia7ig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 48,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 25,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 152,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 129,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列Q188/V520只回口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5641,
+          "following_count": 129,
+          "like_count": 5908,
+          "listed_count": 22,
+          "media_count": 383,
+          "tweet_count": 2529
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SilentFleetKK",
+                "end": 23,
+                "expanded_url": "https://github.com/SilentFleetKK",
+                "start": 0,
+                "url": "https://t.co/TpeTVm0jBT"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81909,
+          "following_count": 2902,
+          "like_count": 9401,
+          "listed_count": 678,
+          "media_count": 6537,
+          "tweet_count": 13285
+        },
+        "url": "https://t.co/TpeTVm0jBT",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

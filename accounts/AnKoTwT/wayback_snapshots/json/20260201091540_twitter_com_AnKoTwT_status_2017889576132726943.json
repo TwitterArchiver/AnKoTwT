@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017577527754317824"
+      ],
+      "media_source_tweet_id": [
+        "2017577559635251640"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2017889576132726943",
+    "created_at": "2026-02-01T09:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T10:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017889576132726943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "751695731413491712",
+          "start": 3,
+          "username": "aikolik"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lvcn9yQwr9",
+          "end": 40,
+          "expanded_url": "https://x.com/aikolik/status/2017577559635251640/photo/1",
+          "media_key": "3_2017577527754317824",
+          "start": 17,
+          "url": "https://t.co/lvcn9yQwr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017889576132726943",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017577559635251640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aikolik: 🖼️🪽 https://t.co/lvcn9yQwr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017577527754317824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__gEmibYAAuKAU.jpg",
+        "width": 1570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017577527754317824"
+          ],
+          "media_source_tweet_id": [
+            "2017577559635251640"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2017889576132726943",
+        "created_at": "2026-02-01T09:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T10:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017889576132726943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "751695731413491712",
+              "start": 3,
+              "username": "aikolik"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvcn9yQwr9",
+              "end": 40,
+              "expanded_url": "https://x.com/aikolik/status/2017577559635251640/photo/1",
+              "media_key": "3_2017577527754317824",
+              "start": 17,
+              "url": "https://t.co/lvcn9yQwr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017889576132726943",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017577559635251640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aikolik: 🖼️🪽 https://t.co/lvcn9yQwr9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017577527754317824"
+          ]
+        },
+        "author_id": "751695731413491712",
+        "conversation_id": "2017577559635251640",
+        "created_at": "2026-01-31T12:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017577559635251640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvcn9yQwr9",
+              "end": 27,
+              "expanded_url": "https://x.com/aikolik/status/2017577559635251640/photo/1",
+              "media_key": "3_2017577527754317824",
+              "start": 4,
+              "url": "https://t.co/lvcn9yQwr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017577559635251640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 12726,
+          "like_count": 601,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "🖼️🪽 https://t.co/lvcn9yQwr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUzB5O Fanbox:https://t.co/7pXe2XwUpC 提问箱: https://t.co/aI0OTcm1s8  ↓hedao ♡09 150/33kg 喜欢我就多支持我吧o3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUzB5O"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 83,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下不卖原",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4443,
+          "following_count": 94,
+          "like_count": 3744,
+          "listed_count": 22,
+          "media_count": 235,
+          "tweet_count": 1648
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-09T08:33:23.000Z",
+        "description": "Art Creator ✧ INFO➡️https://t.co/q915Nhg8ww",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aikolik.com",
+                "end": 43,
+                "expanded_url": "http://aikolik.com",
+                "start": 20,
+                "url": "https://t.co/q915Nhg8ww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aikolik.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://aikolik.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/f4DSMHj11m"
+              }
+            ]
+          }
+        },
+        "id": "751695731413491712",
+        "location": "🚫AI創作と学習禁止",
+        "name": "AIKO",
+        "pinned_tweet_id": "1993634268497485953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900472970457538560/YGZ84DPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402448,
+          "following_count": 330,
+          "like_count": 3359,
+          "listed_count": 3050,
+          "media_count": 151,
+          "tweet_count": 1797
+        },
+        "url": "https://t.co/f4DSMHj11m",
+        "username": "aikolik",
+        "verified": true
+      }
+    ]
+  }
+}

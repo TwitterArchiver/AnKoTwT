@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2045721389974663626",
+    "created_at": "2026-04-19T04:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T05:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045721389974663626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liudisq5qy/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/liudisq5qy/status/2045333382192836664",
+          "start": 5,
+          "url": "https://t.co/CzZjZEV9ht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045721389974663626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045333382192836664",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "里番剧情 https://t.co/CzZjZEV9ht"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2045721389974663626",
+        "created_at": "2026-04-19T04:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045721389974663626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liudisq5qy/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/liudisq5qy/status/2045333382192836664",
+              "start": 5,
+              "url": "https://t.co/CzZjZEV9ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045721389974663626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045333382192836664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "里番剧情 https://t.co/CzZjZEV9ht"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041140932343652352",
+        "conversation_id": "2045333382192836664",
+        "created_at": "2026-04-18T02:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045333382192836664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045333382192836664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 110754,
+          "like_count": 1144,
+          "quote_count": 6,
+          "reply_count": 50,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌的女生老是莫名其妙翻白眼（上课时），我跟我闺蜜偷偷讨论她是不是被人远程操控了，跳蛋在她逼里顶一下她就翻一次白眼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色委托/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5419,
+          "following_count": 122,
+          "like_count": 5295,
+          "listed_count": 21,
+          "media_count": 341,
+          "tweet_count": 2324
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T13:08:39.000Z",
+        "description": "10年女初/infp/od/解离性障碍/自伤/友跨\n女孩子互fo大欢迎",
+        "id": "2041140932343652352",
+        "name": "小柳",
+        "pinned_tweet_id": "2044648416450650586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045135855619276801/a1yhRMJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 6,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 179
+        },
+        "username": "Liudisq5qy",
+        "verified": false
+      }
+    ]
+  }
+}

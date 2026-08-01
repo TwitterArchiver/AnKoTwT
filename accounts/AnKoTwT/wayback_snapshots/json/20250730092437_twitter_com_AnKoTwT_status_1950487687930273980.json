@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950487677276758016",
+        "3_1950487678736334848",
+        "3_1950487677276676096"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1950487687930273980",
+    "created_at": "2025-07-30T09:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T10:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950487687930273980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PhAdIleVCu",
+          "end": 30,
+          "expanded_url": "https://x.com/AnKoTwT/status/1950487687930273980/photo/1",
+          "media_key": "3_1950487677276758016",
+          "start": 7,
+          "url": "https://t.co/PhAdIleVCu"
+        },
+        {
+          "display_url": "pic.x.com/PhAdIleVCu",
+          "end": 30,
+          "expanded_url": "https://x.com/AnKoTwT/status/1950487687930273980/photo/1",
+          "media_key": "3_1950487678736334848",
+          "start": 7,
+          "url": "https://t.co/PhAdIleVCu"
+        },
+        {
+          "display_url": "pic.x.com/PhAdIleVCu",
+          "end": 30,
+          "expanded_url": "https://x.com/AnKoTwT/status/1950487687930273980/photo/1",
+          "media_key": "3_1950487677276676096",
+          "start": 7,
+          "url": "https://t.co/PhAdIleVCu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950487687930273980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "威猛！！！！ https://t.co/PhAdIleVCu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950487677276758016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGGNVbboAAMw-V.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950487678736334848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGGNa3bAAADC4l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950487677276676096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGGNVbaYAAQtnU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950487677276758016",
+            "3_1950487678736334848",
+            "3_1950487677276676096"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1950487687930273980",
+        "created_at": "2025-07-30T09:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T10:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950487687930273980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PhAdIleVCu",
+              "end": 30,
+              "expanded_url": "https://x.com/AnKoTwT/status/1950487687930273980/photo/1",
+              "media_key": "3_1950487677276758016",
+              "start": 7,
+              "url": "https://t.co/PhAdIleVCu"
+            },
+            {
+              "display_url": "pic.x.com/PhAdIleVCu",
+              "end": 30,
+              "expanded_url": "https://x.com/AnKoTwT/status/1950487687930273980/photo/1",
+              "media_key": "3_1950487678736334848",
+              "start": 7,
+              "url": "https://t.co/PhAdIleVCu"
+            },
+            {
+              "display_url": "pic.x.com/PhAdIleVCu",
+              "end": 30,
+              "expanded_url": "https://x.com/AnKoTwT/status/1950487687930273980/photo/1",
+              "media_key": "3_1950487677276676096",
+              "start": 7,
+              "url": "https://t.co/PhAdIleVCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950487687930273980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "威猛！！！！ https://t.co/PhAdIleVCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱我活在自己的世界里♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 1,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 146
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

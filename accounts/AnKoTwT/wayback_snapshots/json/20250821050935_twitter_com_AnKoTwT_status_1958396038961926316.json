@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1958396038961926316",
+    "created_at": "2025-08-21T05:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T06:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958396038961926316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luna11054/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/luna11054/status/1958110510932434974",
+          "start": 7,
+          "url": "https://t.co/dNg77qW8Fu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958396038961926316",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958110510932434974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "kawaii https://t.co/dNg77qW8Fu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1958034351264067584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyxV3k0bcAA8huB.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1958396038961926316",
+        "created_at": "2025-08-21T05:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T06:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958396038961926316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luna11054/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/luna11054/status/1958110510932434974",
+              "start": 7,
+              "url": "https://t.co/dNg77qW8Fu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958396038961926316",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958110510932434974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "kawaii https://t.co/dNg77qW8Fu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958034351264067584"
+          ]
+        },
+        "author_id": "1446057563561152512",
+        "conversation_id": "1958110510932434974",
+        "created_at": "2025-08-20T10:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T11:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958110510932434974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SjMJDsSdZt",
+              "end": 23,
+              "expanded_url": "https://x.com/Luna11054/status/1958110510932434974/photo/1",
+              "media_key": "3_1958034351264067584",
+              "start": 0,
+              "url": "https://t.co/SjMJDsSdZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958110510932434974",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1393,
+          "impression_count": 74393,
+          "like_count": 8376,
+          "quote_count": 7,
+          "reply_count": 13,
+          "retweet_count": 544
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SjMJDsSdZt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "美少女重度依赖@xx10Neko//提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 21,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 50,
+          "like_count": 814,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 378
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T10:19:45.000Z",
+        "description": "イラスト/動画/ゲーム/株式投資（日本株個別メイン+米株+インデックス投信）。資産はたぶん1.5億前後。本業は医薬品の臨床開発★有償案件はお断りしています。 Clip Studio Paint/Canva/copainter/Framepack/AI assist tools etc.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aiillust.luna1105kablog.com",
+                "end": 23,
+                "expanded_url": "https://www.aiillust.luna1105kablog.com/",
+                "start": 0,
+                "url": "https://t.co/zU5SKaz1ga"
+              }
+            ]
+          }
+        },
+        "id": "1446057563561152512",
+        "location": "プレイ中のゲーム:エルデンリング/原神/FEH",
+        "name": "るな @イラスト/ルース収集",
+        "pinned_tweet_id": "1950500366161678619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1446059958202634241/EWFDZe5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26744,
+          "following_count": 607,
+          "like_count": 177972,
+          "listed_count": 215,
+          "media_count": 4041,
+          "tweet_count": 32352
+        },
+        "url": "https://t.co/zU5SKaz1ga",
+        "username": "Luna11054",
+        "verified": true
+      }
+    ]
+  }
+}

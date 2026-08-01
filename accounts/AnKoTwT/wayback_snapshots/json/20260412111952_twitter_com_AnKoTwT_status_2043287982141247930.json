@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1397693128312692737",
+          "name": "Aniplex"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "2043287982141247930",
+    "created_at": "2026-04-12T11:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043287982141247930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2369952594",
+          "start": 3,
+          "username": "aniplex_plus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043287982141247930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 421
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042988544214307274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aniplex_plus: 📢＜ぴえん猫ぬいぐるみ 受注受付中🥺\n\nアニメ『NEEDY GIRL OVERDOSE』より\n”ぴえん猫”がぬいぐるみとなって登場！\n\nほどよいサイズ感、そしてこちらを見つめるその表情、まさに必見です！\n色んな場所へぜひ一緒におでかけください…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2042473148738912257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhSgd3bQAEWfEP.jpg",
+        "width": 1200
+      },
+      {
+        "height": 750,
+        "media_key": "3_2042473148743114752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhSgd4bYAAN_7h.jpg",
+        "width": 1000
+      },
+      {
+        "height": 750,
+        "media_key": "3_2042473148747333632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhSgd5bwAA-uUp.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1397693128312692737",
+              "name": "Aniplex"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2043287982141247930",
+        "created_at": "2026-04-12T11:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043287982141247930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2369952594",
+              "start": 3,
+              "username": "aniplex_plus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043287982141247930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 421
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042988544214307274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aniplex_plus: 📢＜ぴえん猫ぬいぐるみ 受注受付中🥺\n\nアニメ『NEEDY GIRL OVERDOSE』より\n”ぴえん猫”がぬいぐるみとなって登場！\n\nほどよいサイズ感、そしてこちらを見つめるその表情、まさに必見です！\n色んな場所へぜひ一緒におでかけください…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042473148738912257",
+            "3_2042473148743114752",
+            "3_2042473148747333632"
+          ]
+        },
+        "author_id": "2369952594",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1397693128312692737",
+              "name": "Aniplex"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2042988544214307274",
+        "created_at": "2026-04-11T15:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042988544214307274"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 171,
+              "start": 166,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Aniplex(アニプレックス)の公式オンラインストア。「アニメ『NEEDY GIRL OVERDOSE』 ぴえん猫ぬいぐるみ」の販売ページ。",
+              "display_url": "online.aniplex.co.jp/itemDInljwhS.h…",
+              "end": 156,
+              "expanded_url": "https://online.aniplex.co.jp/itemDInljwhS.html",
+              "start": 133,
+              "status": 200,
+              "title": "アニメ『NEEDY GIRL OVERDOSE』 ぴえん猫ぬいぐるみ",
+              "unwound_url": "https://online.aniplex.co.jp/itemDInljwhS.html",
+              "url": "https://t.co/99QHkXTvYO"
+            },
+            {
+              "display_url": "pic.x.com/Hfjo7DpYkD",
+              "end": 195,
+              "expanded_url": "https://x.com/aniplex_plus/status/2042988544214307274/photo/1",
+              "media_key": "3_2042473148738912257",
+              "start": 172,
+              "url": "https://t.co/Hfjo7DpYkD"
+            },
+            {
+              "display_url": "pic.x.com/Hfjo7DpYkD",
+              "end": 195,
+              "expanded_url": "https://x.com/aniplex_plus/status/2042988544214307274/photo/1",
+              "media_key": "3_2042473148743114752",
+              "start": 172,
+              "url": "https://t.co/Hfjo7DpYkD"
+            },
+            {
+              "display_url": "pic.x.com/Hfjo7DpYkD",
+              "end": 195,
+              "expanded_url": "https://x.com/aniplex_plus/status/2042988544214307274/photo/1",
+              "media_key": "3_2042473148747333632",
+              "start": 172,
+              "url": "https://t.co/Hfjo7DpYkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042988544214307274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 327,
+          "impression_count": 65078,
+          "like_count": 2991,
+          "quote_count": 98,
+          "reply_count": 7,
+          "retweet_count": 421
+        },
+        "reply_settings": "everyone",
+        "text": "📢＜ぴえん猫ぬいぐるみ 受注受付中🥺\n\nアニメ『NEEDY GIRL OVERDOSE』より\n”ぴえん猫”がぬいぐるみとなって登場！\n\nほどよいサイズ感、そしてこちらを見つめるその表情、まさに必見です！\n色んな場所へぜひ一緒におでかけください🥺\n\n🎀ご予約はこちら\nhttps://t.co/99QHkXTvYO\n📅4/26締切\n\n#ニディガ https://t.co/Hfjo7DpYkD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色委托/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5326,
+          "following_count": 122,
+          "like_count": 5060,
+          "listed_count": 22,
+          "media_count": 327,
+          "tweet_count": 2218
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-03T06:20:13.000Z",
+        "description": "アニプレックス直営セレクトショップ『アニプレックス オンライン』（旧：ANIPLEX＋）の公式X。新商品情報やキャンペーン情報などをお届けします。\n📘https://t.co/wmP7S0Y92A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "facebook.com/aniplexplus",
+                "end": 98,
+                "expanded_url": "http://facebook.com/aniplexplus",
+                "start": 75,
+                "url": "https://t.co/wmP7S0Y92A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "online.aniplex.co.jp",
+                "end": 23,
+                "expanded_url": "https://online.aniplex.co.jp/",
+                "start": 0,
+                "url": "https://t.co/sm09mfGtOa"
+              }
+            ]
+          }
+        },
+        "id": "2369952594",
+        "location": "JAPAN",
+        "name": "アニプレックス オンライン",
+        "pinned_tweet_id": "2038436048569782719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730128258983964672/WU01r2nI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364655,
+          "following_count": 324,
+          "like_count": 2,
+          "listed_count": 2229,
+          "media_count": 19997,
+          "tweet_count": 29201
+        },
+        "url": "https://t.co/sm09mfGtOa",
+        "username": "aniplex_plus",
+        "verified": true
+      }
+    ]
+  }
+}

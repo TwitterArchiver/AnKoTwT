@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060656502604795904"
+      ],
+      "media_source_tweet_id": [
+        "2060656505515573719"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      }
+    ],
+    "conversation_id": "2062415509619163382",
+    "created_at": "2026-06-04T06:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062415509619163382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1662657765121327104",
+          "start": 3,
+          "username": "siho_is_alien"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CkdBokwoEJ",
+          "end": 124,
+          "expanded_url": "https://x.com/siho_is_alien/status/2060656505515573719/photo/1",
+          "media_key": "3_2060656502604795904",
+          "start": 101,
+          "url": "https://t.co/CkdBokwoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062415509619163382",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060656505515573719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siho_is_alien: しゅびぃちゃんのフィギュア買ったんだけど、可愛すぎる！&gt;&lt; 最近一番ハマってる子かも〜。バニーガール衣装のフィギュアも出てほしいな！応援してるからね！ https://t.co/CkdBokwoEJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060656502604795904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjsK9nbkAADlGE.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060656502604795904"
+          ],
+          "media_source_tweet_id": [
+            "2060656505515573719"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2062415509619163382",
+        "created_at": "2026-06-04T06:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062415509619163382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1662657765121327104",
+              "start": 3,
+              "username": "siho_is_alien"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkdBokwoEJ",
+              "end": 124,
+              "expanded_url": "https://x.com/siho_is_alien/status/2060656505515573719/photo/1",
+              "media_key": "3_2060656502604795904",
+              "start": 101,
+              "url": "https://t.co/CkdBokwoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062415509619163382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060656505515573719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siho_is_alien: しゅびぃちゃんのフィギュア買ったんだけど、可愛すぎる！&gt;&lt; 最近一番ハマってる子かも〜。バニーガール衣装のフィギュアも出てほしいな！応援してるからね！ https://t.co/CkdBokwoEJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060656502604795904"
+          ]
+        },
+        "author_id": "1662657765121327104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2060656505515573719",
+        "created_at": "2026-05-30T09:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060656505515573719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkdBokwoEJ",
+              "end": 105,
+              "expanded_url": "https://x.com/siho_is_alien/status/2060656505515573719/photo/1",
+              "media_key": "3_2060656502604795904",
+              "start": 82,
+              "url": "https://t.co/CkdBokwoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060656505515573719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2642,
+          "like_count": 132,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "しゅびぃちゃんのフィギュア買ったんだけど、可愛すぎる！&gt;&lt; 最近一番ハマってる子かも〜。バニーガール衣装のフィギュアも出てほしいな！応援してるからね！ https://t.co/CkdBokwoEJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾 接角色定制/陪玩♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 需要很多很多爱和钱 郁の提问箱: https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 125,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 102,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列Q188/V520口令 纯绿可陪聊 不约不卖不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5615,
+          "following_count": 139,
+          "like_count": 6491,
+          "listed_count": 20,
+          "media_count": 413,
+          "tweet_count": 2735
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T03:11:34.000Z",
+        "description": "📧- tv76709@gmail.com • 한국어•日本語•English • AI🚫/フィギュア関連の仕事も受けています！/ Request: \nhttps://t.co/1dASDaYdsH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/4hfg6zijv05tto…",
+                "end": 98,
+                "expanded_url": "https://marshmallow-qa.com/4hfg6zijv05ttoz?t=vFZSfd&utm_mediu",
+                "start": 75,
+                "url": "https://t.co/1dASDaYdsH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kre.pe/8YiB",
+                "end": 23,
+                "expanded_url": "https://kre.pe/8YiB",
+                "start": 0,
+                "url": "https://t.co/sEqRalTlRD"
+              }
+            ]
+          }
+        },
+        "id": "1662657765121327104",
+        "location": "commission",
+        "name": "SIHO🌷",
+        "pinned_tweet_id": "2037961607205318752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026983898824196096/1bouyi6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3090,
+          "following_count": 62,
+          "like_count": 2592,
+          "listed_count": 13,
+          "media_count": 207,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/sEqRalTlRD",
+        "username": "siho_is_alien",
+        "verified": false
+      }
+    ]
+  }
+}

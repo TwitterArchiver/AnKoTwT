@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958261647619092480"
+      ],
+      "media_source_tweet_id": [
+        "1958261655705653286"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1958395712812769492",
+    "created_at": "2025-08-21T05:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T06:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958395712812769492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2596381225",
+          "start": 3,
+          "username": "vir_coconut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FikVWu4FXD",
+          "end": 104,
+          "expanded_url": "https://x.com/vir_coconut/status/1958261655705653286/photo/1",
+          "media_key": "3_1958261647619092480",
+          "start": 81,
+          "url": "https://t.co/FikVWu4FXD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958395712812769492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958261655705653286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vir_coconut: 有人懂吗 到现在我现在没等到一个道歉 我还要被贴脸恶心 与我有关吗后面的事情？你被人害了关我什么事 我好欺负！？我要发力了大姐 https://t.co/FikVWu4FXD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1958395712812769492].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1958395712812769492",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1958395712812769492"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 739,
+        "media_key": "3_1958261647619092480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy0kl9ubcAANvi2.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958261647619092480"
+          ]
+        },
+        "author_id": "2596381225",
+        "conversation_id": "1958261655705653286",
+        "created_at": "2025-08-20T20:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T21:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958261655705653286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FikVWu4FXD",
+              "end": 87,
+              "expanded_url": "https://x.com/vir_coconut/status/1958261655705653286/photo/1",
+              "media_key": "3_1958261647619092480",
+              "start": 64,
+              "url": "https://t.co/FikVWu4FXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958261655705653286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9975,
+          "like_count": 69,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "有人懂吗 到现在我现在没等到一个道歉 我还要被贴脸恶心 与我有关吗后面的事情？你被人害了关我什么事 我好欺负！？我要发力了大姐 https://t.co/FikVWu4FXD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "美少女重度依赖@xx10Neko//提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 21,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 50,
+          "like_count": 811,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 377
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "男生 线下过门私信@tekam_anjali",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "tekam_anjali"
+              }
+            ]
+          }
+        },
+        "id": "2596381225",
+        "location": "🚪288/520/1314",
+        "name": "椰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935822540745621504/7MgRct0X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32711,
+          "following_count": 293,
+          "like_count": 3163,
+          "listed_count": 67,
+          "media_count": 17,
+          "tweet_count": 29
+        },
+        "username": "vir_coconut",
+        "verified": false
+      }
+    ]
+  }
+}

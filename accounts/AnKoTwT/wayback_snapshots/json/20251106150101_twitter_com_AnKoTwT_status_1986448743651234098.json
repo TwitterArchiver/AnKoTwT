@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1986448743651234098",
+    "created_at": "2025-11-06T15:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T16:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986448743651234098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/a1llus/status/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/a1llus/status/1986392433937223905",
+          "start": 20,
+          "url": "https://t.co/vgd3W9LAJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986448743651234098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986392433937223905",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这套也好可爱，但我最喜欢伊莉雅那套（） https://t.co/vgd3W9LAJN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1986392426718916608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5EVY0MbcAAVT2j.jpg",
+        "width": 1680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1986448743651234098",
+        "created_at": "2025-11-06T15:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T16:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986448743651234098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a1llus/status/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/a1llus/status/1986392433937223905",
+              "start": 20,
+              "url": "https://t.co/vgd3W9LAJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986448743651234098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986392433937223905",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这套也好可爱，但我最喜欢伊莉雅那套（） https://t.co/vgd3W9LAJN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986392426718916608"
+          ]
+        },
+        "author_id": "3883836852",
+        "conversation_id": "1986392433937223905",
+        "created_at": "2025-11-06T11:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T12:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986392433937223905"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "美遊・エーデルフェルト Miyu",
+              "probability": 0.1503,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7j9ZfE5d9R",
+              "end": 50,
+              "expanded_url": "https://x.com/a1llus/status/1986392433937223905/photo/1",
+              "media_key": "3_1986392426718916608",
+              "start": 27,
+              "url": "https://t.co/7j9ZfE5d9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986392433937223905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 346,
+          "impression_count": 22845,
+          "like_count": 2012,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "美遊・エーデルフェルト Miyu Edelfelt. https://t.co/7j9ZfE5d9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUzB5O Fanbox:https://t.co/7pXe2XwUpC 提问箱:https://t.co/RacOPia7ig ↓hedao ♡150/33kg 喜欢我就多支持我吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUzB5O"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3607,
+          "following_count": 90,
+          "like_count": 2691,
+          "listed_count": 18,
+          "media_count": 176,
+          "tweet_count": 1126
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-13T19:46:59.000Z",
+        "description": "Create by Stable Diffusion (AI)【NSFW▷@a1llus_lab】【Discord▷https://t.co/nLgPokLY26 (@teebird_art)】【お仕事のご依頼はDMより】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "a1llus_lab"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "username": "teebird_art"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/4jZfXTy",
+                "end": 81,
+                "expanded_url": "https://bit.ly/4jZfXTy",
+                "start": 58,
+                "url": "https://t.co/nLgPokLY26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/a1llus",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/a1llus",
+                "start": 0,
+                "url": "https://t.co/GRaAcLxSDN"
+              }
+            ]
+          }
+        },
+        "id": "3883836852",
+        "name": "あいらす",
+        "pinned_tweet_id": "1984911018829783128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887198353559265280/kuKU15dl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53421,
+          "following_count": 1021,
+          "like_count": 9229,
+          "listed_count": 351,
+          "media_count": 1692,
+          "tweet_count": 7840
+        },
+        "url": "https://t.co/GRaAcLxSDN",
+        "username": "a1llus",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987814839566434304"
+      ],
+      "media_source_tweet_id": [
+        "1987814855097946365"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1987923561726853617",
+    "created_at": "2025-11-10T16:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T17:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987923561726853617"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 18,
+          "tag": "まのさば二次創作"
+        },
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "まのさば"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1276779920035741696",
+          "start": 3,
+          "username": "MaidCode1023"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jb30Q0lTqu",
+          "end": 68,
+          "expanded_url": "https://x.com/MaidCode1023/status/1987814855097946365/photo/1",
+          "media_key": "3_1987814839566434304",
+          "start": 45,
+          "url": "https://t.co/jb30Q0lTqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987923561726853617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 986
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987814855097946365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaidCode1023: #まのさば二次創作\n#まのさば\n大魔女様はのんびり~ https://t.co/jb30Q0lTqu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2051,
+        "media_key": "3_1987814839566434304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YjEI-bgAA9Fg7.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987814839566434304"
+          ],
+          "media_source_tweet_id": [
+            "1987814855097946365"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1987923561726853617",
+        "created_at": "2025-11-10T16:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T17:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987923561726853617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "まのさば二次創作"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "まのさば"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1276779920035741696",
+              "start": 3,
+              "username": "MaidCode1023"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jb30Q0lTqu",
+              "end": 68,
+              "expanded_url": "https://x.com/MaidCode1023/status/1987814855097946365/photo/1",
+              "media_key": "3_1987814839566434304",
+              "start": 45,
+              "url": "https://t.co/jb30Q0lTqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987923561726853617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 986
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987814855097946365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaidCode1023: #まのさば二次創作\n#まのさば\n大魔女様はのんびり~ https://t.co/jb30Q0lTqu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987814839566434304"
+          ]
+        },
+        "author_id": "1276779920035741696",
+        "conversation_id": "1987814855097946365",
+        "created_at": "2025-11-10T09:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987814855097946365"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "まのさば二次創作"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "まのさば"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jb30Q0lTqu",
+              "end": 50,
+              "expanded_url": "https://x.com/MaidCode1023/status/1987814855097946365/photo/1",
+              "media_key": "3_1987814839566434304",
+              "start": 27,
+              "url": "https://t.co/jb30Q0lTqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987814855097946365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 973,
+          "impression_count": 105040,
+          "like_count": 9760,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 986
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさば二次創作\n#まのさば\n大魔女様はのんびり~ https://t.co/jb30Q0lTqu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱:https://t.co/RacOPi9zsI ↓hedao ♡150/33kg 喜欢我就多支持我吧 钱能让我幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPi9zsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987767020486852608/Lhpcoc5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3723,
+          "following_count": 86,
+          "like_count": 2776,
+          "listed_count": 20,
+          "media_count": 179,
+          "tweet_count": 1162
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-27T07:31:13.000Z",
+        "description": "watch↑me↓take→my→steps↑\n百合が好き！まだ絵画を練習中……\n中国人🇨🇳です！日本語は苦手ですが、よろしくお願いします。\nhttps://t.co/Tw0sVoqWkH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/17178524",
+                "end": 94,
+                "expanded_url": "https://www.pixiv.net/users/17178524",
+                "start": 71,
+                "url": "https://t.co/Tw0sVoqWkH"
+              }
+            ]
+          }
+        },
+        "id": "1276779920035741696",
+        "name": "MaidCode1023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987801549788352512/9oNk-fv-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24392,
+          "following_count": 343,
+          "like_count": 3095,
+          "listed_count": 138,
+          "media_count": 92,
+          "tweet_count": 309
+        },
+        "username": "MaidCode1023",
+        "verified": false
+      }
+    ]
+  }
+}

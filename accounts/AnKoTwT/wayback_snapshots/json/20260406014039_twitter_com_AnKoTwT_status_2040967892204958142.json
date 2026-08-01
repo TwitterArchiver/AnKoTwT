@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040967872286281728",
+        "3_2040967872281968640",
+        "3_2040967872315641856"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2040967892204958142",
+    "created_at": "2026-04-06T01:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T02:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040967892204958142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I0vwEkj8nK",
+          "end": 30,
+          "expanded_url": "https://x.com/AnKoTwT/status/2040967892204958142/photo/1",
+          "media_key": "3_2040967872286281728",
+          "start": 7,
+          "url": "https://t.co/I0vwEkj8nK"
+        },
+        {
+          "display_url": "pic.x.com/I0vwEkj8nK",
+          "end": 30,
+          "expanded_url": "https://x.com/AnKoTwT/status/2040967892204958142/photo/1",
+          "media_key": "3_2040967872281968640",
+          "start": 7,
+          "url": "https://t.co/I0vwEkj8nK"
+        },
+        {
+          "display_url": "pic.x.com/I0vwEkj8nK",
+          "end": 30,
+          "expanded_url": "https://x.com/AnKoTwT/status/2040967892204958142/photo/1",
+          "media_key": "3_2040967872315641856",
+          "start": 7,
+          "url": "https://t.co/I0vwEkj8nK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040967892204958142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天出门了。 https://t.co/I0vwEkj8nK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2040967872286281728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFL5d2Gb0AAKcmk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2040967872281968640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFL5d2FaAAA_LxI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2040967872315641856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFL5d2Nb0AAw6rn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040967872286281728",
+            "3_2040967872281968640",
+            "3_2040967872315641856"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2040967892204958142",
+        "created_at": "2026-04-06T01:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040967892204958142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0vwEkj8nK",
+              "end": 30,
+              "expanded_url": "https://x.com/AnKoTwT/status/2040967892204958142/photo/1",
+              "media_key": "3_2040967872286281728",
+              "start": 7,
+              "url": "https://t.co/I0vwEkj8nK"
+            },
+            {
+              "display_url": "pic.x.com/I0vwEkj8nK",
+              "end": 30,
+              "expanded_url": "https://x.com/AnKoTwT/status/2040967892204958142/photo/1",
+              "media_key": "3_2040967872281968640",
+              "start": 7,
+              "url": "https://t.co/I0vwEkj8nK"
+            },
+            {
+              "display_url": "pic.x.com/I0vwEkj8nK",
+              "end": 30,
+              "expanded_url": "https://x.com/AnKoTwT/status/2040967892204958142/photo/1",
+              "media_key": "3_2040967872315641856",
+              "start": 7,
+              "url": "https://t.co/I0vwEkj8nK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040967892204958142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天出门了。 https://t.co/I0vwEkj8nK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色举牌/定制/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5411,
+          "following_count": 121,
+          "like_count": 4874,
+          "listed_count": 22,
+          "media_count": 318,
+          "tweet_count": 2128
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

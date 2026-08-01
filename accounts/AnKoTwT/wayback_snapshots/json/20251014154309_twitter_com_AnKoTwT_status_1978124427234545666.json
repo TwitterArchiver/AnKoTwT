@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1978124356099141632"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1978124427234545666",
+    "created_at": "2025-10-14T15:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T16:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978124427234545666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NrM7qjSaq9",
+          "end": 30,
+          "expanded_url": "https://x.com/AnKoTwT/status/1978124427234545666/video/1",
+          "media_key": "13_1978124356099141632",
+          "start": 7,
+          "url": "https://t.co/NrM7qjSaq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978124427234545666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "祥儿这个软糯 https://t.co/NrM7qjSaq9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14700,
+        "height": 720,
+        "media_key": "13_1978124356099141632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1978124356099141632/img/zMFVgRBnmwirqpzr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1978124356099141632/vid/avc1/480x270/Qmuh6_kdJ6AjZD4b.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1978124356099141632/vid/avc1/640x360/tQ0JJxovgfh_swF7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1978124356099141632/vid/avc1/1280x720/FBTzY_EjcUpJQHo5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1978124356099141632/pl/mI8SFZFvo8i6_Xej.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1978124356099141632"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1978124427234545666",
+        "created_at": "2025-10-14T15:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978124427234545666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrM7qjSaq9",
+              "end": 30,
+              "expanded_url": "https://x.com/AnKoTwT/status/1978124427234545666/video/1",
+              "media_key": "13_1978124356099141632",
+              "start": 7,
+              "url": "https://t.co/NrM7qjSaq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978124427234545666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祥儿这个软糯 https://t.co/NrM7qjSaq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡宅  155/33kg 喜欢我就多支持我吧 提问箱https://t.co/QmqVGVcRVz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku",
+                "end": 63,
+                "expanded_url": "https://ngl.link/ankoku",
+                "start": 40,
+                "url": "https://t.co/QmqVGVcRVz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 81,
+          "like_count": 1995,
+          "listed_count": 13,
+          "media_count": 137,
+          "tweet_count": 906
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

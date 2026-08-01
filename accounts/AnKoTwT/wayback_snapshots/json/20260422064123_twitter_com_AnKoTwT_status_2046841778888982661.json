@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886384533542686720"
+      ],
+      "media_source_tweet_id": [
+        "1886384601108709379"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2046841778888982661",
+    "created_at": "2026-04-22T06:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T07:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046841778888982661"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "ツーサイドアップの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1080107530347470851",
+          "start": 3,
+          "username": "shu__bii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N29qWQykhu",
+          "end": 53,
+          "expanded_url": "https://x.com/shu__bii/status/1886384601108709379/photo/1",
+          "media_key": "3_1886384533542686720",
+          "start": 30,
+          "url": "https://t.co/N29qWQykhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046841778888982661",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1677
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886384601108709379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shu__bii: #ツーサイドアップの日\nⳣ₹？ https://t.co/N29qWQykhu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886384533542686720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi3IvR-aUAALCcu.jpg",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886384533542686720"
+          ],
+          "media_source_tweet_id": [
+            "1886384601108709379"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2046841778888982661",
+        "created_at": "2026-04-22T06:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046841778888982661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "ツーサイドアップの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1080107530347470851",
+              "start": 3,
+              "username": "shu__bii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N29qWQykhu",
+              "end": 53,
+              "expanded_url": "https://x.com/shu__bii/status/1886384601108709379/photo/1",
+              "media_key": "3_1886384533542686720",
+              "start": 30,
+              "url": "https://t.co/N29qWQykhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046841778888982661",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1677
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886384601108709379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shu__bii: #ツーサイドアップの日\nⳣ₹？ https://t.co/N29qWQykhu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886384533542686720"
+          ]
+        },
+        "author_id": "1080107530347470851",
+        "conversation_id": "1886384601108709379",
+        "created_at": "2025-02-03T12:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T13:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886384601108709379"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "ツーサイドアップの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N29qWQykhu",
+              "end": 39,
+              "expanded_url": "https://x.com/shu__bii/status/1886384601108709379/photo/1",
+              "media_key": "3_1886384533542686720",
+              "start": 16,
+              "url": "https://t.co/N29qWQykhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886384601108709379",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2659,
+          "impression_count": 401110,
+          "like_count": 19405,
+          "quote_count": 7,
+          "reply_count": 82,
+          "retweet_count": 1677
+        },
+        "reply_settings": "everyone",
+        "text": "#ツーサイドアップの日\nⳣ₹？ https://t.co/N29qWQykhu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色委托/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5480,
+          "following_count": 122,
+          "like_count": 5411,
+          "listed_count": 21,
+          "media_count": 347,
+          "tweet_count": 2363
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-01T14:24:37.000Z",
+        "description": "sʜᴜʙɪɪ┊絵を描いてます。☒\nᴍᴏᴍ➱@kanzarinsan\n⚠リンク･ご依頼･ᴇᴛᴄ…➱https://t.co/05dOdvqMke",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "kanzarinsan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/shubii",
+                "end": 71,
+                "expanded_url": "http://lit.link/shubii",
+                "start": 48,
+                "url": "https://t.co/05dOdvqMke"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@shu__bii?sub_…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@shu__bii?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/AVEl57iTOI"
+              }
+            ]
+          }
+        },
+        "id": "1080107530347470851",
+        "name": "しゅびぃ 𓆩♱𓆪",
+        "pinned_tweet_id": "2046152297395388689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798207854996049920/YJEIzZJq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74510,
+          "following_count": 591,
+          "like_count": 29125,
+          "listed_count": 573,
+          "media_count": 216,
+          "tweet_count": 7951
+        },
+        "url": "https://t.co/AVEl57iTOI",
+        "username": "shu__bii",
+        "verified": true
+      }
+    ]
+  }
+}

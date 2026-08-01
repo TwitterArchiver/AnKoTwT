@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2077982529286733824"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2077982566842515649",
+    "created_at": "2026-07-17T05:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077982566842515649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tCvV7ktUG4",
+          "end": 35,
+          "expanded_url": "https://x.com/AnKoTwT/status/2077982566842515649/photo/1",
+          "media_key": "16_2077982529286733824",
+          "start": 12,
+          "url": "https://t.co/tCvV7ktUG4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077982566842515649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "全世界最爱兔兔的人来了 https://t.co/tCvV7ktUG4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2077982529286733824",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNZ6GcuagAAMnne.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNZ6GcuagAAMnne.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077982529286733824"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2077982566842515649",
+        "created_at": "2026-07-17T05:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077982566842515649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCvV7ktUG4",
+              "end": 35,
+              "expanded_url": "https://x.com/AnKoTwT/status/2077982566842515649/photo/1",
+              "media_key": "16_2077982529286733824",
+              "start": 12,
+              "url": "https://t.co/tCvV7ktUG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077982566842515649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全世界最爱兔兔的人来了 https://t.co/tCvV7ktUG4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾钱性恋 喜欢我就给我打钱 提问箱: https://t.co/aI0OTcm1s8 🐾150/33kg 接角色委托/陪丸 我有很严重的恋狗癖🦮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 90,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 67,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "🫧300/520/1314  纯绿不约不卖无线下🐈‍⬛",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5690,
+          "following_count": 147,
+          "like_count": 6928,
+          "listed_count": 19,
+          "media_count": 479,
+          "tweet_count": 3054
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

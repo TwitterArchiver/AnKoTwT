@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953775135619702784",
+        "3_1953775135615594498"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1953775144742400217",
+    "created_at": "2025-08-08T11:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T12:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953775144742400217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yJFXrWrNgr",
+          "end": 41,
+          "expanded_url": "https://x.com/AnKoTwT/status/1953775144742400217/photo/1",
+          "media_key": "3_1953775135619702784",
+          "start": 18,
+          "url": "https://t.co/yJFXrWrNgr"
+        },
+        {
+          "display_url": "pic.x.com/yJFXrWrNgr",
+          "end": 41,
+          "expanded_url": "https://x.com/AnKoTwT/status/1953775144742400217/photo/1",
+          "media_key": "3_1953775135615594498",
+          "start": 18,
+          "url": "https://t.co/yJFXrWrNgr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953775144742400217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這批生活在侵蝕老子感覺像泡福爾馬林 https://t.co/yJFXrWrNgr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953775135619702784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx00ImGaYAAUxkN.jpg",
+        "width": 1540
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953775135615594498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx00ImFbsAIlG4X.jpg",
+        "width": 1486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953775135619702784",
+            "3_1953775135615594498"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1953775144742400217",
+        "created_at": "2025-08-08T11:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953775144742400217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJFXrWrNgr",
+              "end": 41,
+              "expanded_url": "https://x.com/AnKoTwT/status/1953775144742400217/photo/1",
+              "media_key": "3_1953775135619702784",
+              "start": 18,
+              "url": "https://t.co/yJFXrWrNgr"
+            },
+            {
+              "display_url": "pic.x.com/yJFXrWrNgr",
+              "end": 41,
+              "expanded_url": "https://x.com/AnKoTwT/status/1953775144742400217/photo/1",
+              "media_key": "3_1953775135615594498",
+              "start": 18,
+              "url": "https://t.co/yJFXrWrNgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953775144742400217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這批生活在侵蝕老子感覺像泡福爾馬林 https://t.co/yJFXrWrNgr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953041382324813824/7W0TwYkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 36,
+          "like_count": 399,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 234
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

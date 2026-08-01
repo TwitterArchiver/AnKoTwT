@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977403790287630336"
+      ],
+      "media_source_tweet_id": [
+        "1977403792267338086"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1977593427224359283",
+    "created_at": "2025-10-13T04:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977593427224359283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1560593607924793344",
+          "start": 3,
+          "username": "motiti213"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kEcOCvUreE",
+          "end": 55,
+          "expanded_url": "https://x.com/motiti213/status/1977403792267338086/photo/1",
+          "media_key": "3_1977403790287630336",
+          "start": 32,
+          "url": "https://t.co/kEcOCvUreE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977593427224359283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 937
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977403792267338086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @motiti213: こっちの方がお顔自然かもしれない https://t.co/kEcOCvUreE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1141,
+        "media_key": "3_1977403790287630336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3EmRUGa8AAjSDS.jpg",
+        "width": 1294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977403790287630336"
+          ],
+          "media_source_tweet_id": [
+            "1977403792267338086"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1977593427224359283",
+        "created_at": "2025-10-13T04:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977593427224359283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560593607924793344",
+              "start": 3,
+              "username": "motiti213"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEcOCvUreE",
+              "end": 55,
+              "expanded_url": "https://x.com/motiti213/status/1977403792267338086/photo/1",
+              "media_key": "3_1977403790287630336",
+              "start": 32,
+              "url": "https://t.co/kEcOCvUreE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977593427224359283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 937
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977403792267338086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @motiti213: こっちの方がお顔自然かもしれない https://t.co/kEcOCvUreE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977403790287630336"
+          ]
+        },
+        "author_id": "1560593607924793344",
+        "conversation_id": "1977403792267338086",
+        "created_at": "2025-10-12T15:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T16:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977403792267338086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEcOCvUreE",
+              "end": 40,
+              "expanded_url": "https://x.com/motiti213/status/1977403792267338086/photo/1",
+              "media_key": "3_1977403790287630336",
+              "start": 17,
+              "url": "https://t.co/kEcOCvUreE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977403792267338086",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2902,
+          "impression_count": 202829,
+          "like_count": 19184,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 937
+        },
+        "reply_settings": "everyone",
+        "text": "こっちの方がお顔自然かもしれない https://t.co/kEcOCvUreE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡09  155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2276,
+          "following_count": 82,
+          "like_count": 1962,
+          "listed_count": 13,
+          "media_count": 134,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T11:45:00.000Z",
+        "description": "main @takeno_omoti\n\nシャドウバンに愛されすぎた女\nヘッダー琥珀糖 #_kohakutou__ さん！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 43,
+                "tag": "_kohakutou__"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "takeno_omoti"
+              }
+            ]
+          }
+        },
+        "id": "1560593607924793344",
+        "name": "さぶのおもち",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731319245684998144/-RLOX7VH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5766,
+          "following_count": 57,
+          "like_count": 2663,
+          "listed_count": 69,
+          "media_count": 331,
+          "tweet_count": 4275
+        },
+        "username": "motiti213",
+        "verified": false
+      }
+    ]
+  }
+}

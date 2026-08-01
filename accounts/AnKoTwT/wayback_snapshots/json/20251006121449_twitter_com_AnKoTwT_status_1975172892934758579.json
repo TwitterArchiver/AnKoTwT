@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975172882050560000",
+        "3_1975172881983361024",
+        "3_1975172881975005184"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1975172892934758579",
+    "created_at": "2025-10-06T12:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T13:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975172892934758579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QKemAkcZ1t",
+          "end": 31,
+          "expanded_url": "https://x.com/AnKoTwT/status/1975172892934758579/photo/1",
+          "media_key": "3_1975172882050560000",
+          "start": 8,
+          "url": "https://t.co/QKemAkcZ1t"
+        },
+        {
+          "display_url": "pic.x.com/QKemAkcZ1t",
+          "end": 31,
+          "expanded_url": "https://x.com/AnKoTwT/status/1975172892934758579/photo/1",
+          "media_key": "3_1975172881983361024",
+          "start": 8,
+          "url": "https://t.co/QKemAkcZ1t"
+        },
+        {
+          "display_url": "pic.x.com/QKemAkcZ1t",
+          "end": 31,
+          "expanded_url": "https://x.com/AnKoTwT/status/1975172892934758579/photo/1",
+          "media_key": "3_1975172881975005184",
+          "start": 8,
+          "url": "https://t.co/QKemAkcZ1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975172892934758579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "专武嘻嘻嘻嘻。 https://t.co/QKemAkcZ1t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975172882050560000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2k5RXSbsAA1oK5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975172881983361024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2k5RXCaUAAC9QO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1909,
+        "media_key": "3_1975172881975005184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2k5RXAa0AAhWV4.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975172882050560000",
+            "3_1975172881983361024",
+            "3_1975172881975005184"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1975172892934758579",
+        "created_at": "2025-10-06T12:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T13:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975172892934758579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKemAkcZ1t",
+              "end": 31,
+              "expanded_url": "https://x.com/AnKoTwT/status/1975172892934758579/photo/1",
+              "media_key": "3_1975172882050560000",
+              "start": 8,
+              "url": "https://t.co/QKemAkcZ1t"
+            },
+            {
+              "display_url": "pic.x.com/QKemAkcZ1t",
+              "end": 31,
+              "expanded_url": "https://x.com/AnKoTwT/status/1975172892934758579/photo/1",
+              "media_key": "3_1975172881983361024",
+              "start": 8,
+              "url": "https://t.co/QKemAkcZ1t"
+            },
+            {
+              "display_url": "pic.x.com/QKemAkcZ1t",
+              "end": 31,
+              "expanded_url": "https://x.com/AnKoTwT/status/1975172892934758579/photo/1",
+              "media_key": "3_1975172881975005184",
+              "start": 8,
+              "url": "https://t.co/QKemAkcZ1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975172892934758579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "专武嘻嘻嘻嘻。 https://t.co/QKemAkcZ1t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2130,
+          "following_count": 81,
+          "like_count": 1820,
+          "listed_count": 9,
+          "media_count": 128,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

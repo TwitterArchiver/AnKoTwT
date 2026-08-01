@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2045469670954971298",
+    "created_at": "2026-04-18T11:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T12:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045469670954971298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rik0ring/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/rik0ring/status/2045420282475934037",
+          "start": 7,
+          "url": "https://t.co/x7Cd6QV2ey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045469670954971298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045420282475934037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神了，我冲爆 https://t.co/x7Cd6QV2ey"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045420274703822848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLK5xoacAAAE21.jpg",
+        "width": 1432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2045469670954971298",
+        "created_at": "2026-04-18T11:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045469670954971298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rik0ring/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/rik0ring/status/2045420282475934037",
+              "start": 7,
+              "url": "https://t.co/x7Cd6QV2ey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045469670954971298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045420282475934037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神了，我冲爆 https://t.co/x7Cd6QV2ey"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045420274703822848"
+          ]
+        },
+        "author_id": "1291827298392449024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2045420282475934037",
+        "created_at": "2026-04-18T08:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045420282475934037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MWP1US9eh",
+              "end": 39,
+              "expanded_url": "https://x.com/rik0ring/status/2045420282475934037/photo/1",
+              "media_key": "3_2045420274703822848",
+              "start": 16,
+              "url": "https://t.co/5MWP1US9eh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045420282475934037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 370,
+          "impression_count": 21159,
+          "like_count": 2211,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "Ocのコスプレやってみました🐯 https://t.co/5MWP1US9eh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色委托/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5403,
+          "following_count": 122,
+          "like_count": 5283,
+          "listed_count": 21,
+          "media_count": 341,
+          "tweet_count": 2317
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T20:03:45.000Z",
+        "description": "📨CONTACT: rikoring16@gmail.com fanbox: https://t.co/YUTk0uYeqY ENG/中/日本語 OK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rik0ring.fanbox.cc",
+                "end": 62,
+                "expanded_url": "https://rik0ring.fanbox.cc/",
+                "start": 39,
+                "url": "https://t.co/YUTk0uYeqY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/40317874",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/40317874",
+                "start": 0,
+                "url": "https://t.co/rmoYfw5SUx"
+              }
+            ]
+          }
+        },
+        "id": "1291827298392449024",
+        "name": "Riko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894337707398017024/DBM5g_Us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247117,
+          "following_count": 996,
+          "like_count": 15525,
+          "listed_count": 1637,
+          "media_count": 233,
+          "tweet_count": 7853
+        },
+        "url": "https://t.co/rmoYfw5SUx",
+        "username": "rik0ring",
+        "verified": true
+      }
+    ]
+  }
+}

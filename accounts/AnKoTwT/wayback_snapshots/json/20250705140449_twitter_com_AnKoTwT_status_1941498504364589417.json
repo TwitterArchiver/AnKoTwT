@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941498493987848201",
+        "3_1941498493975355392",
+        "3_1941498493987848193"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1941498504364589417",
+    "created_at": "2025-07-05T14:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T15:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941498504364589417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nZN7yqxqSP",
+          "end": 28,
+          "expanded_url": "https://x.com/AnKoTwT/status/1941498504364589417/photo/1",
+          "media_key": "3_1941498493987848201",
+          "start": 5,
+          "url": "https://t.co/nZN7yqxqSP"
+        },
+        {
+          "display_url": "pic.x.com/nZN7yqxqSP",
+          "end": 28,
+          "expanded_url": "https://x.com/AnKoTwT/status/1941498504364589417/photo/1",
+          "media_key": "3_1941498493975355392",
+          "start": 5,
+          "url": "https://t.co/nZN7yqxqSP"
+        },
+        {
+          "display_url": "pic.x.com/nZN7yqxqSP",
+          "end": 28,
+          "expanded_url": "https://x.com/AnKoTwT/status/1941498504364589417/photo/1",
+          "media_key": "3_1941498493987848193",
+          "start": 5,
+          "url": "https://t.co/nZN7yqxqSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941498504364589417",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "saya https://t.co/nZN7yqxqSP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_1941498493987848201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGWmAIaAAkCYN-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 768,
+        "media_key": "3_1941498493975355392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGWmAFbYAAf2A3.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1083,
+        "media_key": "3_1941498493987848193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGWmAIaAAEyrZb.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941498493987848201",
+            "3_1941498493975355392",
+            "3_1941498493987848193"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1941498504364589417",
+        "created_at": "2025-07-05T14:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941498504364589417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZN7yqxqSP",
+              "end": 28,
+              "expanded_url": "https://x.com/AnKoTwT/status/1941498504364589417/photo/1",
+              "media_key": "3_1941498493987848201",
+              "start": 5,
+              "url": "https://t.co/nZN7yqxqSP"
+            },
+            {
+              "display_url": "pic.x.com/nZN7yqxqSP",
+              "end": 28,
+              "expanded_url": "https://x.com/AnKoTwT/status/1941498504364589417/photo/1",
+              "media_key": "3_1941498493975355392",
+              "start": 5,
+              "url": "https://t.co/nZN7yqxqSP"
+            },
+            {
+              "display_url": "pic.x.com/nZN7yqxqSP",
+              "end": 28,
+              "expanded_url": "https://x.com/AnKoTwT/status/1941498504364589417/photo/1",
+              "media_key": "3_1941498493987848193",
+              "start": 5,
+              "url": "https://t.co/nZN7yqxqSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941498504364589417",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "saya https://t.co/nZN7yqxqSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "梦想是想当声音好听画画好看的美少女画师@xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "负能量载体",
+        "name": "Kuko",
+        "pinned_tweet_id": "1941071597055685050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941102088856952832/Vz0x4Vc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 46
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

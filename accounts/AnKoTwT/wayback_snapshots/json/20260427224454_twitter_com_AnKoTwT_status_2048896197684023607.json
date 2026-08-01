@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048317988202479616"
+      ],
+      "media_source_tweet_id": [
+        "2048318032188146148"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2048896197684023607",
+    "created_at": "2026-04-27T22:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T23:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048896197684023607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1365798964298059778",
+          "start": 3,
+          "username": "akipeko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PFNhvin6DX",
+          "end": 43,
+          "expanded_url": "https://x.com/akipeko/status/2048318032188146148/photo/1",
+          "media_key": "3_2048317988202479616",
+          "start": 20,
+          "url": "https://t.co/PFNhvin6DX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048896197684023607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2674
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048318032188146148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akipeko: 予行練習！！ https://t.co/PFNhvin6DX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2863,
+        "media_key": "3_2048317988202479616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0WW5naAAAL0GS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048317988202479616"
+          ],
+          "media_source_tweet_id": [
+            "2048318032188146148"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2048896197684023607",
+        "created_at": "2026-04-27T22:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T23:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048896197684023607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1365798964298059778",
+              "start": 3,
+              "username": "akipeko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFNhvin6DX",
+              "end": 43,
+              "expanded_url": "https://x.com/akipeko/status/2048318032188146148/photo/1",
+              "media_key": "3_2048317988202479616",
+              "start": 20,
+              "url": "https://t.co/PFNhvin6DX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048896197684023607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2674
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048318032188146148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akipeko: 予行練習！！ https://t.co/PFNhvin6DX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048317988202479616"
+          ]
+        },
+        "author_id": "1365798964298059778",
+        "conversation_id": "2048318032188146148",
+        "created_at": "2026-04-26T08:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048318032188146148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFNhvin6DX",
+              "end": 30,
+              "expanded_url": "https://x.com/akipeko/status/2048318032188146148/photo/1",
+              "media_key": "3_2048317988202479616",
+              "start": 7,
+              "url": "https://t.co/PFNhvin6DX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048318032188146148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4862,
+          "impression_count": 514683,
+          "like_count": 41262,
+          "quote_count": 27,
+          "reply_count": 45,
+          "retweet_count": 2674
+        },
+        "reply_settings": "everyone",
+        "text": "予行練習！！ https://t.co/PFNhvin6DX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ 哔站:https://t.co/LRQvNy6qlD Fanbox :https://t.co/7pXe2XwUpC 🐾 角色委托/陪玩私♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 想要很多爱ovo 郁の提问箱: https://t.co/RacOPia7ig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 48,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 25,
+                "url": "https://t.co/LRQvNy6qlD"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 157,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 134,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5586,
+          "following_count": 124,
+          "like_count": 5615,
+          "listed_count": 23,
+          "media_count": 360,
+          "tweet_count": 2447
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T23:00:39.000Z",
+        "description": "絵を描きます 。各種リンクまとめ➡https://t.co/VLc3qi3DA7\n【FANBOX】➡https://t.co/tqwwBmTkKc\n【fantia】➡https://t.co/yIi6PIRIxN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/akipeko",
+                "end": 40,
+                "expanded_url": "http://lit.link/akipeko",
+                "start": 17,
+                "url": "https://t.co/VLc3qi3DA7"
+              },
+              {
+                "display_url": "akipeko.fanbox.cc",
+                "end": 73,
+                "expanded_url": "http://akipeko.fanbox.cc",
+                "start": 50,
+                "url": "https://t.co/tqwwBmTkKc"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/393181",
+                "end": 106,
+                "expanded_url": "https://fantia.jp/fanclubs/393181",
+                "start": 83,
+                "url": "https://t.co/yIi6PIRIxN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65882780",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65882780",
+                "start": 0,
+                "url": "https://t.co/qZtW8XW9Mo"
+              }
+            ]
+          }
+        },
+        "id": "1365798964298059778",
+        "location": "福岡→東京→福岡",
+        "name": "あきぺこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874705049768857602/S9i6xcBQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289766,
+          "following_count": 746,
+          "like_count": 2255,
+          "listed_count": 2273,
+          "media_count": 125,
+          "tweet_count": 991
+        },
+        "url": "https://t.co/qZtW8XW9Mo",
+        "username": "akipeko",
+        "verified": true
+      }
+    ]
+  }
+}

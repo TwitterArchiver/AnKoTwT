@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956691813299093504"
+      ],
+      "media_source_tweet_id": [
+        "1956691822408855632"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1956719042213097935",
+    "created_at": "2025-08-16T14:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T15:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956719042213097935"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "rurudo",
+          "probability": 0.5238,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857071874464735232",
+          "start": 3,
+          "username": "xx10Neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ezcyfHP4hw",
+          "end": 44,
+          "expanded_url": "https://x.com/xx10Neko/status/1956691822408855632/photo/1",
+          "media_key": "3_1956691813299093504",
+          "start": 21,
+          "url": "https://t.co/ezcyfHP4hw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956719042213097935",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956691822408855632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx10Neko: rurudo https://t.co/ezcyfHP4hw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956691813299093504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeQ1lKbgAAvuIZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956691813299093504"
+          ],
+          "media_source_tweet_id": [
+            "1956691822408855632"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1956719042213097935",
+        "created_at": "2025-08-16T14:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956719042213097935"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "rurudo",
+              "probability": 0.5238,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857071874464735232",
+              "start": 3,
+              "username": "xx10Neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezcyfHP4hw",
+              "end": 44,
+              "expanded_url": "https://x.com/xx10Neko/status/1956691822408855632/photo/1",
+              "media_key": "3_1956691813299093504",
+              "start": 21,
+              "url": "https://t.co/ezcyfHP4hw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956719042213097935",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956691822408855632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xx10Neko: rurudo https://t.co/ezcyfHP4hw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956691813299093504"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "conversation_id": "1956691822408855632",
+        "created_at": "2025-08-16T12:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T13:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956691822408855632"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "rurudo",
+              "probability": 0.7006,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezcyfHP4hw",
+              "end": 30,
+              "expanded_url": "https://x.com/xx10Neko/status/1956691822408855632/photo/1",
+              "media_key": "3_1956691813299093504",
+              "start": 7,
+              "url": "https://t.co/ezcyfHP4hw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956691822408855632",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 493,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "rurudo https://t.co/ezcyfHP4hw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 40,
+          "like_count": 489,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 313
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『🐾』✧Thank you for your love✧@AnKoTwT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "AnKoTwT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/DWpsPC8",
+                "end": 23,
+                "expanded_url": "http://b23.tv/DWpsPC8",
+                "start": 0,
+                "url": "https://t.co/ECi3GfL9jq"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "✟",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1934226982163939371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7151,
+          "following_count": 6,
+          "like_count": 1719,
+          "listed_count": 41,
+          "media_count": 45,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/ECi3GfL9jq",
+        "username": "xx10Neko",
+        "verified": false
+      }
+    ]
+  }
+}

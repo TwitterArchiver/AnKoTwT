@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079839880956555264"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2079839940599509399",
+    "created_at": "2026-07-22T08:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079839940599509399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IK9ORn5Yxw",
+          "end": 39,
+          "expanded_url": "https://x.com/AnKoTwT/status/2079839940599509399/video/1",
+          "media_key": "13_2079839880956555264",
+          "start": 16,
+          "url": "https://t.co/IK9ORn5Yxw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079839940599509399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前几天练习的夏天的风。让我存存 https://t.co/IK9ORn5Yxw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66803,
+        "height": 720,
+        "media_key": "13_2079839880956555264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079839880956555264/img/Uw3vS3nG_j4ep2Ro.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079839880956555264/vid/avc1/270x270/Zo7RpDOpdR4Q0aOR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079839880956555264/vid/avc1/360x360/jDxLWoAkf_lUkiNZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079839880956555264/vid/avc1/722x720/zwnj-F_ut9qv-6Gc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079839880956555264/pl/mpSFXvhlkELFl_0K.m3u8"
+          }
+        ],
+        "width": 722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079839880956555264"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2079839940599509399",
+        "created_at": "2026-07-22T08:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079839940599509399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IK9ORn5Yxw",
+              "end": 39,
+              "expanded_url": "https://x.com/AnKoTwT/status/2079839940599509399/video/1",
+              "media_key": "13_2079839880956555264",
+              "start": 16,
+              "url": "https://t.co/IK9ORn5Yxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079839940599509399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几天练习的夏天的风。让我存存 https://t.co/IK9ORn5Yxw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾提问箱: https://t.co/aI0OTcm1s8 🐾150/33kg🐾无感情纯拷打萝莉Sss 我有很严重的恋狗癖🦮爱我请多多支持我吧♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 77,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 54,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188/300/520/1314  纯绿无线下🐈‍⬛",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5722,
+          "following_count": 151,
+          "like_count": 7070,
+          "listed_count": 19,
+          "media_count": 494,
+          "tweet_count": 3095
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2071534624791253368",
+    "created_at": "2026-06-29T10:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071534624791253368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xx10neko/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/xx10neko/status/2071534212877017274",
+          "start": 4,
+          "url": "https://t.co/gp3ZAnc9a2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071534624791253368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071534212877017274",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "糖糖喵 https://t.co/gp3ZAnc9a2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071534204069048320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-RYhWbcAAKZvQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2071534624791253368",
+        "created_at": "2026-06-29T10:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071534624791253368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xx10neko/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/xx10neko/status/2071534212877017274",
+              "start": 4,
+              "url": "https://t.co/gp3ZAnc9a2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071534624791253368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071534212877017274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "糖糖喵 https://t.co/gp3ZAnc9a2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071534204069048320"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "conversation_id": "2071534212877017274",
+        "created_at": "2026-06-29T10:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071534212877017274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhNlcKJX3C",
+              "end": 23,
+              "expanded_url": "https://x.com/xx10Neko/status/2071534212877017274/photo/1",
+              "media_key": "3_2071534204069048320",
+              "start": 0,
+              "url": "https://t.co/JhNlcKJX3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071534212877017274",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/JhNlcKJX3C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾 接角色定制/陪玩 09 150/33kg 🐾 喜欢我就多多支持我吧 需要很多很多爱和钱 郁の提问箱: https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 124,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 101,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "🛰️300/520/1314/5200只回口令 纯绿^ω^",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5652,
+          "following_count": 142,
+          "like_count": 6841,
+          "listed_count": 20,
+          "media_count": 454,
+          "tweet_count": 2952
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『 🐾 』✧ Thank you for your love ✧ DM → @AnKoTwT Fanbox ：https://t.co/H8ldNw6RJ3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "AnKoTwT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://uwuneko.fanbox.cc",
+                "start": 55,
+                "url": "https://t.co/H8ldNw6RJ3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 23,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 0,
+                "url": "https://t.co/mkXLy9Ykuu"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "✟",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1934226982163939371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20480,
+          "following_count": 7,
+          "like_count": 2394,
+          "listed_count": 101,
+          "media_count": 107,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/mkXLy9Ykuu",
+        "username": "xx10Neko",
+        "verified": true
+      }
+    ]
+  }
+}

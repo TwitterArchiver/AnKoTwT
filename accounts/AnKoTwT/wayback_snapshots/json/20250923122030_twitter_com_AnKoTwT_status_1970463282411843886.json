@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970258300966182916"
+      ],
+      "media_source_tweet_id": [
+        "1970258307630997894"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1970463282411843886",
+    "created_at": "2025-09-23T12:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T13:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970463282411843886"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 18,
+          "tag": "夏が終わりそうだし今年描いた水着絵を貼ろう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1573627319717335040",
+          "start": 3,
+          "username": "notDHBWinner"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hNWdNdORUZ",
+          "end": 64,
+          "expanded_url": "https://x.com/notDHBWinner/status/1970258307630997894/photo/1",
+          "media_key": "3_1970258300966182916",
+          "start": 41,
+          "url": "https://t.co/hNWdNdORUZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970463282411843886",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1420
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970258307630997894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @notDHBWinner: #夏が終わりそうだし今年描いた水着絵を貼ろう https://t.co/hNWdNdORUZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1970258300966182916",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1fDfGDaoAQI6mI.jpg",
+        "width": 2295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970258300966182916"
+          ],
+          "media_source_tweet_id": [
+            "1970258307630997894"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1970463282411843886",
+        "created_at": "2025-09-23T12:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T13:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970463282411843886"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 18,
+              "tag": "夏が終わりそうだし今年描いた水着絵を貼ろう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573627319717335040",
+              "start": 3,
+              "username": "notDHBWinner"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNWdNdORUZ",
+              "end": 64,
+              "expanded_url": "https://x.com/notDHBWinner/status/1970258307630997894/photo/1",
+              "media_key": "3_1970258300966182916",
+              "start": 41,
+              "url": "https://t.co/hNWdNdORUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970463282411843886",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1420
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970258307630997894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @notDHBWinner: #夏が終わりそうだし今年描いた水着絵を貼ろう https://t.co/hNWdNdORUZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970258300966182916"
+          ]
+        },
+        "author_id": "1573627319717335040",
+        "conversation_id": "1970258307630997894",
+        "created_at": "2025-09-22T22:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T23:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970258307630997894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 0,
+              "tag": "夏が終わりそうだし今年描いた水着絵を貼ろう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNWdNdORUZ",
+              "end": 46,
+              "expanded_url": "https://x.com/notDHBWinner/status/1970258307630997894/photo/1",
+              "media_key": "3_1970258300966182916",
+              "start": 23,
+              "url": "https://t.co/hNWdNdORUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970258307630997894",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3449,
+          "impression_count": 233833,
+          "like_count": 22056,
+          "quote_count": 7,
+          "reply_count": 13,
+          "retweet_count": 1420
+        },
+        "reply_settings": "everyone",
+        "text": "#夏が終わりそうだし今年描いた水着絵を貼ろう https://t.co/hNWdNdORUZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 无线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 76,
+          "like_count": 1650,
+          "listed_count": 5,
+          "media_count": 108,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T10:56:25.000Z",
+        "description": "Sub account of @DHBWinner. You will see rough sketches, WIP and daily life tweets here.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "DHBWinner"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/119866463",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/119866463",
+                "start": 0,
+                "url": "https://t.co/AUHNTHpVuK"
+              }
+            ]
+          }
+        },
+        "id": "1573627319717335040",
+        "name": "momi chan",
+        "pinned_tweet_id": "1966276838797586672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965543596939243520/YLVGOjue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 441,
+          "like_count": 15188,
+          "listed_count": 13,
+          "media_count": 22,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/AUHNTHpVuK",
+        "username": "notDHBWinner",
+        "verified": false
+      }
+    ]
+  }
+}

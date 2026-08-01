@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951942339980881920"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1951942348344041609",
+    "created_at": "2025-08-03T09:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T10:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951942348344041609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tw8ssU2LJR",
+          "end": 23,
+          "expanded_url": "https://x.com/AnKoTwT/status/1951942348344041609/photo/1",
+          "media_key": "3_1951942339980881920",
+          "start": 0,
+          "url": "https://t.co/Tw8ssU2LJR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951942348344041609",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Tw8ssU2LJR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1951942339980881920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxaxN2Sa8AAjDwq.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951942339980881920"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1951942348344041609",
+        "created_at": "2025-08-03T09:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T10:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951942348344041609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tw8ssU2LJR",
+              "end": 23,
+              "expanded_url": "https://x.com/AnKoTwT/status/1951942348344041609/photo/1",
+              "media_key": "3_1951942339980881920",
+              "start": 0,
+              "url": "https://t.co/Tw8ssU2LJR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951942348344041609",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Tw8ssU2LJR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 27,
+          "like_count": 349,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 187
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

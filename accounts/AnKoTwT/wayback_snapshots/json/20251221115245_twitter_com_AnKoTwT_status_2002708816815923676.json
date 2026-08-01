@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002705850847432704"
+      ],
+      "media_source_tweet_id": [
+        "2002705858208358803"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2002708816815923676",
+    "created_at": "2025-12-21T11:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T12:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002708816815923676"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "卡提希娅",
+          "probability": 0.4526,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857071874464735232",
+          "start": 3,
+          "username": "xx10Neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I8TRIothSJ",
+          "end": 42,
+          "expanded_url": "https://x.com/xx10Neko/status/2002705858208358803/photo/1",
+          "media_key": "3_2002705850847432704",
+          "start": 19,
+          "url": "https://t.co/I8TRIothSJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002708816815923676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002705858208358803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx10Neko: 卡提希娅 https://t.co/I8TRIothSJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002705850847432704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sKXE1bkAA2nve.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002705850847432704"
+          ],
+          "media_source_tweet_id": [
+            "2002705858208358803"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2002708816815923676",
+        "created_at": "2025-12-21T11:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T12:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002708816815923676"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "卡提希娅",
+              "probability": 0.4526,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857071874464735232",
+              "start": 3,
+              "username": "xx10Neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8TRIothSJ",
+              "end": 42,
+              "expanded_url": "https://x.com/xx10Neko/status/2002705858208358803/photo/1",
+              "media_key": "3_2002705850847432704",
+              "start": 19,
+              "url": "https://t.co/I8TRIothSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002708816815923676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002705858208358803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xx10Neko: 卡提希娅 https://t.co/I8TRIothSJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002705850847432704"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "conversation_id": "2002705858208358803",
+        "created_at": "2025-12-21T11:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T12:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002705858208358803"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "卡提希娅",
+              "probability": 0.345,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8TRIothSJ",
+              "end": 28,
+              "expanded_url": "https://x.com/xx10Neko/status/2002705858208358803/photo/1",
+              "media_key": "3_2002705850847432704",
+              "start": 5,
+              "url": "https://t.co/I8TRIothSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002705858208358803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 84,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "卡提希娅 https://t.co/I8TRIothSJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱: https://t.co/aI0OTcltCA ↓hedao ♡150/33kg 喜欢我就多支持我吧 钱能让我幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 83,
+                "url": "https://t.co/aI0OTcltCA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4119,
+          "following_count": 87,
+          "like_count": 3573,
+          "listed_count": 20,
+          "media_count": 209,
+          "tweet_count": 1410
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『 🐾 』✧ Thank you for your love ✧ DM → @AnKoTwT Fanbox ：https://t.co/H8ldNw6jTv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "AnKoTwT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://uwuneko.fanbox.cc",
+                "start": 55,
+                "url": "https://t.co/H8ldNw6jTv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/Bmor5RT",
+                "end": 23,
+                "expanded_url": "http://b23.tv/Bmor5RT",
+                "start": 0,
+                "url": "https://t.co/tvsEv4Yv84"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "✟",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1983187709738004751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15538,
+          "following_count": 7,
+          "like_count": 2110,
+          "listed_count": 77,
+          "media_count": 55,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/tvsEv4Yv84",
+        "username": "xx10Neko",
+        "verified": false
+      }
+    ]
+  }
+}

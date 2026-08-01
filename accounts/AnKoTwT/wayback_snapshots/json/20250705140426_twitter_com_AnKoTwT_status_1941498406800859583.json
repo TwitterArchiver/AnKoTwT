@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940796883733217280"
+      ],
+      "media_source_tweet_id": [
+        "1940796913017933909"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1941498406800859583",
+    "created_at": "2025-07-05T14:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T15:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941498406800859583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1132331744441450496",
+          "start": 3,
+          "username": "ddd1doran"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n8q258QumZ",
+          "end": 46,
+          "expanded_url": "https://x.com/ddd1doran/status/1940796913017933909/photo/1",
+          "media_key": "3_1940796883733217280",
+          "start": 23,
+          "url": "https://t.co/n8q258QumZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941498406800859583",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 489
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940796913017933909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ddd1doran: 捕まっちゃった https://t.co/n8q258QumZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1447,
+        "media_key": "3_1940796883733217280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu8Ye6QagAADPf-.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940796883733217280"
+          ],
+          "media_source_tweet_id": [
+            "1940796913017933909"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1941498406800859583",
+        "created_at": "2025-07-05T14:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941498406800859583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1132331744441450496",
+              "start": 3,
+              "username": "ddd1doran"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8q258QumZ",
+              "end": 46,
+              "expanded_url": "https://x.com/ddd1doran/status/1940796913017933909/photo/1",
+              "media_key": "3_1940796883733217280",
+              "start": 23,
+              "url": "https://t.co/n8q258QumZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941498406800859583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 489
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940796913017933909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ddd1doran: 捕まっちゃった https://t.co/n8q258QumZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940796883733217280"
+          ]
+        },
+        "author_id": "1132331744441450496",
+        "conversation_id": "1940796913017933909",
+        "created_at": "2025-07-03T15:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T16:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940796913017933909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8q258QumZ",
+              "end": 31,
+              "expanded_url": "https://x.com/ddd1doran/status/1940796913017933909/photo/1",
+              "media_key": "3_1940796883733217280",
+              "start": 8,
+              "url": "https://t.co/n8q258QumZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940796913017933909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 925,
+          "impression_count": 138027,
+          "like_count": 7129,
+          "quote_count": 17,
+          "reply_count": 4,
+          "retweet_count": 489
+        },
+        "reply_settings": "everyone",
+        "text": "捕まっちゃった https://t.co/n8q258QumZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "梦想是想当声音好听画画好看的美少女画师@xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "负能量载体",
+        "name": "Kuko",
+        "pinned_tweet_id": "1941071597055685050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941102088856952832/Vz0x4Vc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 45
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-25T17:05:00.000Z",
+        "description": "趣味",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=10088001",
+                "start": 0,
+                "url": "https://t.co/rj7vjzggju"
+              }
+            ]
+          }
+        },
+        "id": "1132331744441450496",
+        "location": "ngro左右固定一攻一受神聖婚姻",
+        "name": "Doran",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793290378805968896/QcwJLAFH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147949,
+          "following_count": 94,
+          "like_count": 6550,
+          "listed_count": 702,
+          "media_count": 989,
+          "tweet_count": 1603
+        },
+        "url": "https://t.co/rj7vjzggju",
+        "username": "ddd1doran",
+        "verified": false
+      }
+    ]
+  }
+}

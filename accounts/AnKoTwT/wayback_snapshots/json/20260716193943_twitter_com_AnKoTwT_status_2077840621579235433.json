@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077840609516351488",
+        "3_2077840609470226432"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077840621579235433",
+    "created_at": "2026-07-16T19:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T20:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077840621579235433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/60XyLb6JXG",
+          "end": 68,
+          "expanded_url": "https://x.com/AnKoTwT/status/2077840621579235433/photo/1",
+          "media_key": "3_2077840609516351488",
+          "start": 45,
+          "url": "https://t.co/60XyLb6JXG"
+        },
+        {
+          "display_url": "pic.x.com/60XyLb6JXG",
+          "end": 68,
+          "expanded_url": "https://x.com/AnKoTwT/status/2077840621579235433/photo/1",
+          "media_key": "3_2077840609470226432",
+          "start": 45,
+          "url": "https://t.co/60XyLb6JXG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077840621579235433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈哈哈哦雾草。我本来准备挂一局三角洲刷战令，结果随便摸了个容器出了个她妈的大红！ https://t.co/60XyLb6JXG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2077840609516351488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNX5BoYacAA-ueZ.jpg",
+        "width": 1697
+      },
+      {
+        "height": 957,
+        "media_key": "3_2077840609470226432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNX5BoNaoAA_p3I.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077840609516351488",
+            "3_2077840609470226432"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077840621579235433",
+        "created_at": "2026-07-16T19:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077840621579235433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/60XyLb6JXG",
+              "end": 68,
+              "expanded_url": "https://x.com/AnKoTwT/status/2077840621579235433/photo/1",
+              "media_key": "3_2077840609516351488",
+              "start": 45,
+              "url": "https://t.co/60XyLb6JXG"
+            },
+            {
+              "display_url": "pic.x.com/60XyLb6JXG",
+              "end": 68,
+              "expanded_url": "https://x.com/AnKoTwT/status/2077840621579235433/photo/1",
+              "media_key": "3_2077840609470226432",
+              "start": 45,
+              "url": "https://t.co/60XyLb6JXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077840621579235433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈哈哦雾草。我本来准备挂一局三角洲刷战令，结果随便摸了个容器出了个她妈的大红！ https://t.co/60XyLb6JXG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾钱性恋 喜欢我就给我打钱 提问箱: https://t.co/aI0OTcm1s8 🐾150/33kg 接角色委托/陪丸 我有很严重的恋狗癖🦮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 90,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 67,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "🫧300/520/1314  纯绿不约不卖无线下🐈‍⬛",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5692,
+          "following_count": 147,
+          "like_count": 6928,
+          "listed_count": 19,
+          "media_count": 478,
+          "tweet_count": 3073
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1958239621713691022",
+    "created_at": "2025-08-20T18:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T19:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958239621713691022"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1958239621713691022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次每次每次每次每次都這樣，停不下來，我真的好難受，為什麼要這樣，我覺得我做什麼都是錯的，好難受，改變不了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1958239621713691022",
+        "created_at": "2025-08-20T18:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T19:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958239621713691022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958239621713691022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次每次每次每次每次都這樣，停不下來，我真的好難受，為什麼要這樣，我覺得我做什麼都是錯的，好難受，改變不了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "美少女重度依赖@xx10Neko//提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 21,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 50,
+          "like_count": 796,
+          "listed_count": 5,
+          "media_count": 47,
+          "tweet_count": 369
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

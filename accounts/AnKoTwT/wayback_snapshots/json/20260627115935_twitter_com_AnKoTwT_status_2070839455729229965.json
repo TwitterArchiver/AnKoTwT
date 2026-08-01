@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070340672604045312"
+      ],
+      "media_source_tweet_id": [
+        "2070340688059957546"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2070839455729229965",
+    "created_at": "2026-06-27T11:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070839455729229965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1393645120147230720",
+          "start": 3,
+          "username": "yoruseh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9FcadKmzeD",
+          "end": 36,
+          "expanded_url": "https://x.com/yoruseh/status/2070340688059957546/video/1",
+          "media_key": "13_2070340672604045312",
+          "start": 13,
+          "url": "https://t.co/9FcadKmzeD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070839455729229965",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1974
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070340688059957546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoruseh: https://t.co/9FcadKmzeD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9208,
+        "height": 720,
+        "media_key": "13_2070340672604045312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070340672604045312/img/1xeJqrBHtsHhsws-.jpg",
+        "public_metrics": {
+          "view_count": 58797
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070340672604045312/vid/avc1/368x270/AwCowCY6LWmT66SZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070340672604045312/vid/avc1/490x360/DV41bRMFZF5ciAl3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070340672604045312/vid/avc1/982x720/Ze27BQtjA1bPbipj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070340672604045312/pl/fg5IcXWLHzK3Z2rR.m3u8"
+          }
+        ],
+        "width": 982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070340672604045312"
+          ],
+          "media_source_tweet_id": [
+            "2070340688059957546"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2070839455729229965",
+        "created_at": "2026-06-27T11:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070839455729229965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1393645120147230720",
+              "start": 3,
+              "username": "yoruseh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9FcadKmzeD",
+              "end": 36,
+              "expanded_url": "https://x.com/yoruseh/status/2070340688059957546/video/1",
+              "media_key": "13_2070340672604045312",
+              "start": 13,
+              "url": "https://t.co/9FcadKmzeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070839455729229965",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1974
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070340688059957546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoruseh: https://t.co/9FcadKmzeD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070340672604045312"
+          ]
+        },
+        "author_id": "1393645120147230720",
+        "conversation_id": "2070340688059957546",
+        "created_at": "2026-06-26T02:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070340688059957546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9FcadKmzeD",
+              "end": 23,
+              "expanded_url": "https://x.com/yoruseh/status/2070340688059957546/video/1",
+              "media_key": "13_2070340672604045312",
+              "start": 0,
+              "url": "https://t.co/9FcadKmzeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070340688059957546",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2415,
+          "impression_count": 160459,
+          "like_count": 15770,
+          "quote_count": 12,
+          "reply_count": 7,
+          "retweet_count": 1974
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9FcadKmzeD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾 接角色定制/陪玩 09 150/33kg 🐾 喜欢我就多多支持我吧 需要很多很多爱和钱 郁の提问箱: https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 124,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 101,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "🛰️300/520/1314/5200只回口令 纯绿^ω^",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5658,
+          "following_count": 143,
+          "like_count": 6832,
+          "listed_count": 20,
+          "media_count": 449,
+          "tweet_count": 2929
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T19:11:22.000Z",
+        "description": "https://t.co/HBeY3Wz0Do",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/yoruseh",
+                "end": 23,
+                "expanded_url": "http://vgen.co/yoruseh",
+                "start": 0,
+                "url": "https://t.co/HBeY3Wz0Do"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yoruseh",
+                "end": 23,
+                "expanded_url": "http://instagram.com/yoruseh",
+                "start": 0,
+                "url": "https://t.co/No0n23GNNi"
+              }
+            ]
+          }
+        },
+        "id": "1393645120147230720",
+        "location": "the devil's pancreas",
+        "name": "yoru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928479647614074880/jMoFOELo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18263,
+          "following_count": 752,
+          "like_count": 67,
+          "listed_count": 107,
+          "media_count": 102,
+          "tweet_count": 347
+        },
+        "url": "https://t.co/No0n23GNNi",
+        "username": "yoruseh",
+        "verified": false
+      }
+    ]
+  }
+}

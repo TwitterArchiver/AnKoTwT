@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953751799770333184"
+      ],
+      "media_source_tweet_id": [
+        "1953751804967113124"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1954240034217062504",
+    "created_at": "2025-08-09T17:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T18:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954240034217062504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1650212905533448193",
+          "start": 3,
+          "username": "ultrazerofog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1mOhMUrCxH",
+          "end": 62,
+          "expanded_url": "https://x.com/ultrazerofog/status/1953751804967113124/photo/1",
+          "media_key": "3_1953751799770333184",
+          "start": 39,
+          "url": "https://t.co/1mOhMUrCxH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954240034217062504",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1006
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953751804967113124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ultrazerofog: he/him princess core https://t.co/1mOhMUrCxH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1129,
+        "media_key": "3_1953751799770333184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0e6RSXQAAkEbK.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953751799770333184"
+          ],
+          "media_source_tweet_id": [
+            "1953751804967113124"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1954240034217062504",
+        "created_at": "2025-08-09T17:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T18:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954240034217062504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650212905533448193",
+              "start": 3,
+              "username": "ultrazerofog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mOhMUrCxH",
+              "end": 62,
+              "expanded_url": "https://x.com/ultrazerofog/status/1953751804967113124/photo/1",
+              "media_key": "3_1953751799770333184",
+              "start": 39,
+              "url": "https://t.co/1mOhMUrCxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954240034217062504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1006
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953751804967113124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ultrazerofog: he/him princess core https://t.co/1mOhMUrCxH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953751799770333184"
+          ]
+        },
+        "author_id": "1650212905533448193",
+        "conversation_id": "1953751804967113124",
+        "created_at": "2025-08-08T09:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T10:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953751804967113124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mOhMUrCxH",
+              "end": 44,
+              "expanded_url": "https://x.com/ultrazerofog/status/1953751804967113124/photo/1",
+              "media_key": "3_1953751799770333184",
+              "start": 21,
+              "url": "https://t.co/1mOhMUrCxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953751804967113124",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 418,
+          "impression_count": 65426,
+          "like_count": 6473,
+          "quote_count": 32,
+          "reply_count": 45,
+          "retweet_count": 1006
+        },
+        "reply_settings": "everyone",
+        "text": "he/him princess core https://t.co/1mOhMUrCxH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953041382324813824/7W0TwYkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 41,
+          "like_count": 422,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 249
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T19:00:21.000Z",
+        "description": "shedtwtㅣhe/him ㅣ21ㅣeng/ger | open dms",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ultrazerofog.straw.page",
+                "end": 23,
+                "expanded_url": "http://ultrazerofog.straw.page",
+                "start": 0,
+                "url": "https://t.co/tg81u8a4Rh"
+              }
+            ]
+          }
+        },
+        "id": "1650212905533448193",
+        "location": "under 17 dni pls",
+        "name": "quinn ! ⋆⭒˚.⋆",
+        "pinned_tweet_id": "1932428448791724274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651512336543252480/86Snw404_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 122,
+          "like_count": 3347,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 1375
+        },
+        "url": "https://t.co/tg81u8a4Rh",
+        "username": "ultrazerofog",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954826299194945536",
+        "3_1954826299232686080"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1954826307918762379",
+    "created_at": "2025-08-11T08:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T09:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954826307918762379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OWrrIU9vpi",
+          "end": 42,
+          "expanded_url": "https://x.com/AnKoTwT/status/1954826307918762379/photo/1",
+          "media_key": "3_1954826299194945536",
+          "start": 19,
+          "url": "https://t.co/OWrrIU9vpi"
+        },
+        {
+          "display_url": "pic.x.com/OWrrIU9vpi",
+          "end": 42,
+          "expanded_url": "https://x.com/AnKoTwT/status/1954826307918762379/photo/1",
+          "media_key": "3_1954826299232686080",
+          "start": 19,
+          "url": "https://t.co/OWrrIU9vpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954826307918762379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最喜欢的两张（太懒了，只拍了两张） https://t.co/OWrrIU9vpi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954826299194945536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDwKXkbMAAUP05.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1954826299232686080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDwKXtbEAASlKU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954826299194945536",
+            "3_1954826299232686080"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1954826307918762379",
+        "created_at": "2025-08-11T08:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T09:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954826307918762379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWrrIU9vpi",
+              "end": 42,
+              "expanded_url": "https://x.com/AnKoTwT/status/1954826307918762379/photo/1",
+              "media_key": "3_1954826299194945536",
+              "start": 19,
+              "url": "https://t.co/OWrrIU9vpi"
+            },
+            {
+              "display_url": "pic.x.com/OWrrIU9vpi",
+              "end": 42,
+              "expanded_url": "https://x.com/AnKoTwT/status/1954826307918762379/photo/1",
+              "media_key": "3_1954826299232686080",
+              "start": 19,
+              "url": "https://t.co/OWrrIU9vpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954826307918762379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最喜欢的两张（太懒了，只拍了两张） https://t.co/OWrrIU9vpi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953041382324813824/7W0TwYkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 41,
+          "like_count": 425,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 258
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

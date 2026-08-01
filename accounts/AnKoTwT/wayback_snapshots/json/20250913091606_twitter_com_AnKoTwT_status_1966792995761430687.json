@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966792986832105475"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1966792995761430687",
+    "created_at": "2025-09-13T09:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T10:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966792995761430687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7afg1e0qyQ",
+          "end": 23,
+          "expanded_url": "https://x.com/AnKoTwT/status/1966792995761430687/photo/1",
+          "media_key": "3_1966792986832105475",
+          "start": 0,
+          "url": "https://t.co/7afg1e0qyQ"
+        },
+        {
+          "display_url": "x.com/circuslunar/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/circuslunar/status/1966262694199308633",
+          "start": 24,
+          "url": "https://t.co/uv9VP81mWV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966792995761430687",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966262694199308633",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/7afg1e0qyQ https://t.co/uv9VP81mWV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966792986832105475",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0tzzQ7bcAMQbzo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 350,
+        "media_key": "3_1966262688897708033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0mRf3LaMAEzOTl.jpg",
+        "width": 367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966792986832105475"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1966792995761430687",
+        "created_at": "2025-09-13T09:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T10:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966792995761430687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7afg1e0qyQ",
+              "end": 23,
+              "expanded_url": "https://x.com/AnKoTwT/status/1966792995761430687/photo/1",
+              "media_key": "3_1966792986832105475",
+              "start": 0,
+              "url": "https://t.co/7afg1e0qyQ"
+            },
+            {
+              "display_url": "x.com/circuslunar/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/circuslunar/status/1966262694199308633",
+              "start": 24,
+              "url": "https://t.co/uv9VP81mWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966792995761430687",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966262694199308633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/7afg1e0qyQ https://t.co/uv9VP81mWV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966262688897708033"
+          ]
+        },
+        "author_id": "2889580220",
+        "conversation_id": "1966262694199308633",
+        "created_at": "2025-09-11T22:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T23:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966262694199308633"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "アズレン乳アイコン界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2cbWaU6mEh",
+              "end": 36,
+              "expanded_url": "https://x.com/CircusLunar/status/1966262694199308633/photo/1",
+              "media_key": "3_1966262688897708033",
+              "start": 13,
+              "url": "https://t.co/2cbWaU6mEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966262694199308633",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2560,
+          "impression_count": 322161,
+          "like_count": 11989,
+          "quote_count": 37,
+          "reply_count": 9,
+          "retweet_count": 464
+        },
+        "reply_settings": "verified",
+        "text": "#アズレン乳アイコン界隈 https://t.co/2cbWaU6mEh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚提问箱https://t.co/aI0OTcm1s8 👾重度网瘾宅 欢迎女孩子扩列🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 43,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966626659660165120/crmIFmDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 70,
+          "like_count": 1360,
+          "listed_count": 5,
+          "media_count": 92,
+          "tweet_count": 592
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-04T09:53:01.000Z",
+        "description": "アズレン@ブレスト鯖でお楽しみ中🤗\n\n耳っ娘っていいよね\nとてもいいよね\n\n日本酒🍶と焼酎は嗜む程度に",
+        "id": "2889580220",
+        "location": "🌾🌾 🌾🌾 🌾🐺💨🌾🌾🌾🌾",
+        "name": "琴愛",
+        "pinned_tweet_id": "1954113409839956144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966032231769792512/LEweKyk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 1647,
+          "like_count": 39107,
+          "listed_count": 6,
+          "media_count": 2936,
+          "tweet_count": 8984
+        },
+        "username": "CircusLunar",
+        "verified": false
+      }
+    ]
+  }
+}

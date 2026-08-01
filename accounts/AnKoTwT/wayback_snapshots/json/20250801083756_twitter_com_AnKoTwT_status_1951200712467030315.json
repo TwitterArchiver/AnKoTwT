@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951200705135648770"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1951200712467030315",
+    "created_at": "2025-08-01T08:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T09:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951200712467030315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TpEyY4f2eF",
+          "end": 48,
+          "expanded_url": "https://x.com/AnKoTwT/status/1951200712467030315/photo/1",
+          "media_key": "3_1951200705135648770",
+          "start": 25,
+          "url": "https://t.co/TpEyY4f2eF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951200712467030315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看我自己做的属性图，萌晕了ଘ៸៸᳐⦁⩊⦁៸៸᳐ଓ https://t.co/TpEyY4f2eF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_1951200705135648770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxQOtBMaIAItPnN.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951200705135648770"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1951200712467030315",
+        "created_at": "2025-08-01T08:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T09:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951200712467030315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TpEyY4f2eF",
+              "end": 48,
+              "expanded_url": "https://x.com/AnKoTwT/status/1951200712467030315/photo/1",
+              "media_key": "3_1951200705135648770",
+              "start": 25,
+              "url": "https://t.co/TpEyY4f2eF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951200712467030315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看我自己做的属性图，萌晕了ଘ៸៸᳐⦁⩊⦁៸៸᳐ଓ https://t.co/TpEyY4f2eF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 26,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 173
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

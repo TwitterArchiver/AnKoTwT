@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961139108128198663"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1961139116172792115",
+    "created_at": "2025-08-28T18:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T19:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961139116172792115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/svjSW9Tf8y",
+          "end": 79,
+          "expanded_url": "https://x.com/AnKoTwT/status/1961139116172792115/photo/1",
+          "media_key": "3_1961139108128198663",
+          "start": 56,
+          "url": "https://t.co/svjSW9Tf8y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961139116172792115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下播，上三角洲收菜，但是却收到了礼物（好满足，开心死了）嗯，果然我太喜欢太喜欢惊喜了！！！！真的好开心的感觉。 https://t.co/svjSW9Tf8y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1961139108128198663",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzddoNcbkAcWkhl.jpg",
+        "width": 1546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961139108128198663"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961139116172792115",
+        "created_at": "2025-08-28T18:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T19:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961139116172792115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/svjSW9Tf8y",
+              "end": 79,
+              "expanded_url": "https://x.com/AnKoTwT/status/1961139116172792115/photo/1",
+              "media_key": "3_1961139108128198663",
+              "start": 56,
+              "url": "https://t.co/svjSW9Tf8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961139116172792115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下播，上三角洲收菜，但是却收到了礼物（好满足，开心死了）嗯，果然我太喜欢太喜欢惊喜了！！！！真的好开心的感觉。 https://t.co/svjSW9Tf8y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚提问箱https://t.co/aI0OTcm1s8 👾重度网瘾宅 欢迎女孩子扩列🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 43,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960566808773320705/RcoY_p4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 63,
+          "like_count": 991,
+          "listed_count": 4,
+          "media_count": 67,
+          "tweet_count": 458
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

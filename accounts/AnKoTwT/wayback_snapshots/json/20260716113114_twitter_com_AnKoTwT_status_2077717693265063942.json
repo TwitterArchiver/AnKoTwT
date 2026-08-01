@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2077437418874245498",
+    "created_at": "2026-07-16T11:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077717693265063942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2012837062693761024",
+          "start": 0,
+          "username": "kmxiivix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077717693265063942",
+    "in_reply_to_user_id": "2012837062693761024",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077437418874245498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@kmxiivix So sosososososososo beautiful."
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077437418874245498].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077437418874245498",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077437418874245498"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2077437418874245498",
+        "created_at": "2026-07-16T11:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077717693265063942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012837062693761024",
+              "start": 0,
+              "username": "kmxiivix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077717693265063942",
+        "in_reply_to_user_id": "2012837062693761024",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077437418874245498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@kmxiivix So sosososososososo beautiful."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾钱性恋 喜欢我就给我打钱 提问箱: https://t.co/aI0OTcm1s8 150/33kg接角色委托 我只是个怕寂寞想被爱的小孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 90,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 67,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友位300/520/1314  纯绿无线下🐈‍⬛",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5689,
+          "following_count": 146,
+          "like_count": 6870,
+          "listed_count": 19,
+          "media_count": 476,
+          "tweet_count": 3064
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T10:38:59.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/5791202216",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/5791202216",
+                "start": 0,
+                "url": "https://t.co/q610i15hct"
+              }
+            ]
+          }
+        },
+        "id": "2012837062693761024",
+        "name": "사장",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077477344789643264/o4c1-4mb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 8,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/q610i15hct",
+        "username": "kmxiivix",
+        "verified": false
+      }
+    ]
+  }
+}

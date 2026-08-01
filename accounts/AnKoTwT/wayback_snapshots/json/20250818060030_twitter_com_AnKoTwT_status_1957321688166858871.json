@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957321677639196672"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1957321688166858871",
+    "created_at": "2025-08-18T06:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T07:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957321688166858871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZwkN5Hy8US",
+          "end": 28,
+          "expanded_url": "https://x.com/AnKoTwT/status/1957321688166858871/photo/1",
+          "media_key": "3_1957321677639196672",
+          "start": 5,
+          "url": "https://t.co/ZwkN5Hy8US"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957321688166858871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要乐死 https://t.co/ZwkN5Hy8US"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957321677639196672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GynNsgrbIAA_9ma.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957321677639196672"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1957321688166858871",
+        "created_at": "2025-08-18T06:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T07:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957321688166858871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZwkN5Hy8US",
+              "end": 28,
+              "expanded_url": "https://x.com/AnKoTwT/status/1957321688166858871/photo/1",
+              "media_key": "3_1957321677639196672",
+              "start": 5,
+              "url": "https://t.co/ZwkN5Hy8US"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957321688166858871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要乐死 https://t.co/ZwkN5Hy8US"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "美少女重度依赖 @xx10Neko   // 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 49,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 26,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 43,
+          "like_count": 644,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 333
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2042563255110131826",
+    "created_at": "2026-04-10T11:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042563255110131826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1754795826713686016",
+          "start": 3,
+          "username": "xxxxinTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042563255110131826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042362472028651969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxxinTvT: 好绝望好崩溃 我怎么16岁了 我不想再长大了 明明已经16岁也只会躲在房间里 甚至连吃饭也不会 完全一无是处 不敢出去找工作 不做任何改变 一直打字无病呻吟 连伤口也割不出来 也没有人和我玩 我不知道该怎么社交 明明躲在房间里上网 结果互联网上也没…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2042563255110131826",
+        "created_at": "2026-04-10T11:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042563255110131826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1754795826713686016",
+              "start": 3,
+              "username": "xxxxinTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042563255110131826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042362472028651969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxxxinTvT: 好绝望好崩溃 我怎么16岁了 我不想再长大了 明明已经16岁也只会躲在房间里 甚至连吃饭也不会 完全一无是处 不敢出去找工作 不做任何改变 一直打字无病呻吟 连伤口也割不出来 也没有人和我玩 我不知道该怎么社交 明明躲在房间里上网 结果互联网上也没…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754795826713686016",
+        "conversation_id": "2042362472028651969",
+        "created_at": "2026-04-09T22:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T23:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042362472028651969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042362472028651969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4267,
+          "like_count": 140,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "好绝望好崩溃 我怎么16岁了 我不想再长大了 明明已经16岁也只会躲在房间里 甚至连吃饭也不会 完全一无是处 不敢出去找工作 不做任何改变 一直打字无病呻吟 连伤口也割不出来 也没有人和我玩 我不知道该怎么社交 明明躲在房间里上网 结果互联网上也没有朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色举牌/定制/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5360,
+          "following_count": 122,
+          "like_count": 5023,
+          "listed_count": 22,
+          "media_count": 325,
+          "tweet_count": 2188
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T09:15:12.000Z",
+        "description": "乞丐@killkillovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "killkillovo"
+              }
+            ]
+          }
+        },
+        "id": "1754795826713686016",
+        "name": "xxxxin",
+        "pinned_tweet_id": "1935684341797167406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840479748897849344/7GMzuxFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4833,
+          "following_count": 582,
+          "like_count": 25108,
+          "listed_count": 5,
+          "media_count": 51,
+          "tweet_count": 9438
+        },
+        "username": "xxxxinTvT",
+        "verified": false
+      }
+    ]
+  }
+}

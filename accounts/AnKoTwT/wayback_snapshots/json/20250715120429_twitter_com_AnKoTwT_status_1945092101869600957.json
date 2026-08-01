@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945092086270926848"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1309059220717756416",
+          "name": "魔女の旅々"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431299952718712833",
+          "name": "The Journey of Elaina"
+        }
+      }
+    ],
+    "conversation_id": "1945092101869600957",
+    "created_at": "2025-07-15T12:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T13:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945092101869600957"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 3,
+          "tag": "イレイナ"
+        },
+        {
+          "end": 15,
+          "start": 9,
+          "tag": "魔女の旅々"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DXSAqc5fyN",
+          "end": 39,
+          "expanded_url": "https://x.com/AnKoTwT/status/1945092101869600957/photo/1",
+          "media_key": "3_1945092086270926848",
+          "start": 16,
+          "url": "https://t.co/DXSAqc5fyN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945092101869600957",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "萌王\n#イレイナ #魔女の旅々 https://t.co/DXSAqc5fyN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945092086270926848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv5a8mmaIAALbuN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945092086270926848"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1309059220717756416",
+              "name": "魔女の旅々"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431299952718712833",
+              "name": "The Journey of Elaina"
+            }
+          }
+        ],
+        "conversation_id": "1945092101869600957",
+        "created_at": "2025-07-15T12:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T13:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945092101869600957"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "イレイナ"
+            },
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "魔女の旅々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DXSAqc5fyN",
+              "end": 39,
+              "expanded_url": "https://x.com/AnKoTwT/status/1945092101869600957/photo/1",
+              "media_key": "3_1945092086270926848",
+              "start": 16,
+              "url": "https://t.co/DXSAqc5fyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945092101869600957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌王\n#イレイナ #魔女の旅々 https://t.co/DXSAqc5fyN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "梦想是想当声音好听画画好看的美少女画师♡@xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "家里蹲໒꒰ྀིㅇㅁㅇ꒱ྀི১",
+        "name": "Kuko",
+        "pinned_tweet_id": "1944022809841479847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941102088856952832/Vz0x4Vc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 1,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 71
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

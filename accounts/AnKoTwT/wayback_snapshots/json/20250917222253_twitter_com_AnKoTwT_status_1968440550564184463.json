@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968306480450519040"
+      ],
+      "media_source_tweet_id": [
+        "1968306483709579535"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1968440550564184463",
+    "created_at": "2025-09-17T22:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T23:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968440550564184463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426509590133239814",
+          "start": 3,
+          "username": "raki_kr_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gekABNAwqk",
+          "end": 42,
+          "expanded_url": "https://x.com/raki_kr_/status/1968306483709579535/photo/1",
+          "media_key": "3_1968306480450519040",
+          "start": 19,
+          "url": "https://t.co/gekABNAwqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968440550564184463",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 581
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968306483709579535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @raki_kr_: ミカ✨️ https://t.co/gekABNAwqk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1466,
+        "media_key": "3_1968306480450519040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DUUMBaQAAI_vA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968306480450519040"
+          ],
+          "media_source_tweet_id": [
+            "1968306483709579535"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1968440550564184463",
+        "created_at": "2025-09-17T22:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T23:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968440550564184463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426509590133239814",
+              "start": 3,
+              "username": "raki_kr_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gekABNAwqk",
+              "end": 42,
+              "expanded_url": "https://x.com/raki_kr_/status/1968306483709579535/photo/1",
+              "media_key": "3_1968306480450519040",
+              "start": 19,
+              "url": "https://t.co/gekABNAwqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968440550564184463",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 581
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968306483709579535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @raki_kr_: ミカ✨️ https://t.co/gekABNAwqk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968306480450519040"
+          ]
+        },
+        "author_id": "1426509590133239814",
+        "conversation_id": "1968306483709579535",
+        "created_at": "2025-09-17T13:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968306483709579535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gekABNAwqk",
+              "end": 28,
+              "expanded_url": "https://x.com/raki_kr_/status/1968306483709579535/photo/1",
+              "media_key": "3_1968306480450519040",
+              "start": 5,
+              "url": "https://t.co/gekABNAwqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968306483709579535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 610,
+          "impression_count": 52966,
+          "like_count": 4524,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 581
+        },
+        "reply_settings": "everyone",
+        "text": "ミカ✨️ https://t.co/gekABNAwqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 75,
+          "like_count": 1500,
+          "listed_count": 5,
+          "media_count": 101,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T11:42:53.000Z",
+        "description": "Contact : rakii2803@gmail.com / DM\n수강생 모집중\nhttps://t.co/xbDaG3Ziex",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.naver.com/raki0223/22338…",
+                "end": 66,
+                "expanded_url": "https://blog.naver.com/raki0223/223385353152",
+                "start": 43,
+                "url": "https://t.co/xbDaG3Ziex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65052956",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65052956",
+                "start": 0,
+                "url": "https://t.co/8SrWVRfndQ"
+              }
+            ]
+          }
+        },
+        "id": "1426509590133239814",
+        "location": "Don't use my artwork.",
+        "name": "Raki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776768080464777216/Qy6SDr_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139009,
+          "following_count": 739,
+          "like_count": 2073,
+          "listed_count": 818,
+          "media_count": 131,
+          "tweet_count": 1657
+        },
+        "url": "https://t.co/8SrWVRfndQ",
+        "username": "raki_kr_",
+        "verified": false
+      }
+    ]
+  }
+}

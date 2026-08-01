@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1980257378621898787",
+    "created_at": "2025-10-20T12:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T13:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980257378621898787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zanya_001/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/zanya_001/status/1980219945591181464",
+          "start": 24,
+          "url": "https://t.co/EZBwHQXy4O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980257378621898787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980219945591181464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我最近特别喜欢她，真的特别特别漂亮而且好戳xp https://t.co/EZBwHQXy4O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980219580636188672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3snN4kX0AAq9DS.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1980257378621898787",
+        "created_at": "2025-10-20T12:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T13:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980257378621898787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zanya_001/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/zanya_001/status/1980219945591181464",
+              "start": 24,
+              "url": "https://t.co/EZBwHQXy4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980257378621898787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980219945591181464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最近特别喜欢她，真的特别特别漂亮而且好戳xp https://t.co/EZBwHQXy4O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980219580636188672"
+          ]
+        },
+        "author_id": "1489560134011351040",
+        "conversation_id": "1980219945591181464",
+        "created_at": "2025-10-20T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980219945591181464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2f0ENcdjHA",
+              "end": 34,
+              "expanded_url": "https://x.com/ZANYA_001/status/1980219945591181464/photo/1",
+              "media_key": "3_1980219580636188672",
+              "start": 11,
+              "url": "https://t.co/2f0ENcdjHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980219945591181464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 470,
+          "impression_count": 49480,
+          "like_count": 5458,
+          "quote_count": 9,
+          "reply_count": 51,
+          "retweet_count": 918
+        },
+        "reply_settings": "everyone",
+        "text": "50日目✨\nEND! https://t.co/2f0ENcdjHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡宅  155/33kg 喜欢我就多支持我吧 提问箱https://t.co/QmqVGVcRVz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku",
+                "end": 63,
+                "expanded_url": "https://ngl.link/ankoku",
+                "start": 40,
+                "url": "https://t.co/QmqVGVcRVz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 83,
+          "like_count": 2086,
+          "listed_count": 13,
+          "media_count": 145,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T11:23:12.000Z",
+        "description": "殘夜（ザンヤ） 絵を描きます！ ヒマリ大好き no AI \nFANBOX - https://t.co/UzrmMJHoEg \nPIXIV - https://t.co/XlfRUl79XQ \n\n✉︎z8a8n8y8a@gmail.com(業様のみ)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zanya.fanbox.cc",
+                "end": 62,
+                "expanded_url": "https://zanya.fanbox.cc/",
+                "start": 39,
+                "url": "https://t.co/UzrmMJHoEg"
+              },
+              {
+                "display_url": "pixiv.net/users/90875712",
+                "end": 95,
+                "expanded_url": "https://www.pixiv.net/users/90875712",
+                "start": 72,
+                "url": "https://t.co/XlfRUl79XQ"
+              }
+            ]
+          }
+        },
+        "id": "1489560134011351040",
+        "name": "殘夜 ZANYA✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930914716144271360/Ax-nGRd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141228,
+          "following_count": 449,
+          "like_count": 5438,
+          "listed_count": 830,
+          "media_count": 239,
+          "tweet_count": 1494
+        },
+        "username": "ZANYA_001",
+        "verified": true
+      }
+    ]
+  }
+}

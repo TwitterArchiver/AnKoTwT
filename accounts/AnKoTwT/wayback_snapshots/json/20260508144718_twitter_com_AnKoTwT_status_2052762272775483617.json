@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10040165566",
+          "name": "ご注文はうさぎですか??"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1294476284609720320",
+          "name": "Is the Order a Rabbit?"
+        }
+      }
+    ],
+    "conversation_id": "2052762272775483617",
+    "created_at": "2026-05-08T14:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052762272775483617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xx10neko/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/xx10neko/status/2052761794897432929",
+          "start": 20,
+          "url": "https://t.co/zXOGv2ENmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052762272775483617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052761794897432929",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁来关注这个小郁郁(ᐢᴖ ·̫ ᴖᐢ) https://t.co/zXOGv2ENmd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052761739108990977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzf7PwawAE9qv0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10040165566",
+              "name": "ご注文はうさぎですか??"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294476284609720320",
+              "name": "Is the Order a Rabbit?"
+            }
+          }
+        ],
+        "conversation_id": "2052762272775483617",
+        "created_at": "2026-05-08T14:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052762272775483617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xx10neko/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/xx10neko/status/2052761794897432929",
+              "start": 20,
+              "url": "https://t.co/zXOGv2ENmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052762272775483617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052761794897432929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁来关注这个小郁郁(ᐢᴖ ·̫ ᴖᐢ) https://t.co/zXOGv2ENmd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052761739108990977"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10040165566",
+              "name": "ご注文はうさぎですか??"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294476284609720320",
+              "name": "Is the Order a Rabbit?"
+            }
+          }
+        ],
+        "conversation_id": "2052761794897432929",
+        "created_at": "2026-05-08T14:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052761794897432929"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 2,
+              "tag": "ご注文はうさぎですか"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "香風智乃"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ma7O9G90s",
+              "end": 44,
+              "expanded_url": "https://x.com/xx10Neko/status/2052761794897432929/photo/1",
+              "media_key": "3_2052761739108990977",
+              "start": 21,
+              "url": "https://t.co/7ma7O9G90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052761794897432929",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💙\n#ご注文はうさぎですか \n#香風智乃 https://t.co/7ma7O9G90s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN Fanbox :https://t.co/7pXe2XwUpC 🐾 角色定制/陪玩私♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 想要很多很多爱 提问箱: https://t.co/RacOPia7ig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 79,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 56,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 153,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 130,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列Q188/V520只回口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5655,
+          "following_count": 131,
+          "like_count": 6097,
+          "listed_count": 23,
+          "media_count": 388,
+          "tweet_count": 2561
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『 🐾 』✧ Thank you for your love ✧ DM → @AnKoTwT Fanbox ：https://t.co/H8ldNw6RJ3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "AnKoTwT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://uwuneko.fanbox.cc",
+                "start": 55,
+                "url": "https://t.co/H8ldNw6RJ3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 23,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 0,
+                "url": "https://t.co/mkXLy9Ykuu"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "✟",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1934226982163939371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19869,
+          "following_count": 7,
+          "like_count": 2373,
+          "listed_count": 102,
+          "media_count": 94,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/mkXLy9Ykuu",
+        "username": "xx10Neko",
+        "verified": true
+      }
+    ]
+  }
+}

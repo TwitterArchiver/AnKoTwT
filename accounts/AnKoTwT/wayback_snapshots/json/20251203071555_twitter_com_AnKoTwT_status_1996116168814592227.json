@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996068900627513346"
+      ],
+      "media_source_tweet_id": [
+        "1996068970462629995"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1996116168814592227",
+    "created_at": "2025-12-03T07:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T08:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996116168814592227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621109540828880898",
+          "start": 3,
+          "username": "nagakiraS2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vuDuhriuOC",
+          "end": 50,
+          "expanded_url": "https://x.com/nagakiraS2/status/1996068970462629995/photo/1",
+          "media_key": "3_1996068900627513346",
+          "start": 27,
+          "url": "https://t.co/vuDuhriuOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996116168814592227",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 412
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996068970462629995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nagakiraS2: 트리니티 핑크~!! https://t.co/vuDuhriuOC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_1996068900627513346",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7N2FukbgAIKwJ1.jpg",
+        "width": 2150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996068900627513346"
+          ],
+          "media_source_tweet_id": [
+            "1996068970462629995"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1996116168814592227",
+        "created_at": "2025-12-03T07:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T08:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996116168814592227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621109540828880898",
+              "start": 3,
+              "username": "nagakiraS2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuDuhriuOC",
+              "end": 50,
+              "expanded_url": "https://x.com/nagakiraS2/status/1996068970462629995/photo/1",
+              "media_key": "3_1996068900627513346",
+              "start": 27,
+              "url": "https://t.co/vuDuhriuOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996116168814592227",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 412
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996068970462629995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nagakiraS2: 트리니티 핑크~!! https://t.co/vuDuhriuOC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996068900627513346"
+          ]
+        },
+        "author_id": "1621109540828880898",
+        "conversation_id": "1996068970462629995",
+        "created_at": "2025-12-03T04:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T05:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996068970462629995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuDuhriuOC",
+              "end": 34,
+              "expanded_url": "https://x.com/nagakiraS2/status/1996068970462629995/photo/1",
+              "media_key": "3_1996068900627513346",
+              "start": 11,
+              "url": "https://t.co/vuDuhriuOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996068970462629995",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 17624,
+          "like_count": 1844,
+          "quote_count": 12,
+          "reply_count": 7,
+          "retweet_count": 412
+        },
+        "reply_settings": "everyone",
+        "text": "트리니티 핑크~!! https://t.co/vuDuhriuOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱:https://t.co/RacOPi9zsI ↓hedao ♡150/33kg 喜欢我就多支持我吧 钱能让我幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPi9zsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3888,
+          "following_count": 88,
+          "like_count": 3328,
+          "listed_count": 20,
+          "media_count": 200,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T11:33:41.000Z",
+        "description": "mail - nagakiras2@gmail.com ask : https://t.co/7et1iUqTEJ 인형계 @nagakiraS2S2 성인/// 블.아 / 블..이리 / 1999 / 림 / 모비 / 마비 / 프세카..각종 장르계.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "nagakiraS2S2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4720202459",
+                "end": 57,
+                "expanded_url": "http://pushoong.com/ask/4720202459",
+                "start": 34,
+                "url": "https://t.co/7et1iUqTEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621109540828880898",
+        "location": "집",
+        "name": "나가 𝕟𝕒𝕘𝕒 / 火曜日 東ノ27a",
+        "pinned_tweet_id": "1988216911520583932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802305403843452928/Wf0mYePV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31228,
+          "following_count": 908,
+          "like_count": 119606,
+          "listed_count": 166,
+          "media_count": 1406,
+          "tweet_count": 11834
+        },
+        "username": "nagakiraS2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1952798758275870786",
+    "created_at": "2025-08-05T18:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T19:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952798758275870786"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1952798758275870786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近没有在QQ里面废话了，更多在这个小号上面（）qq加了蛮多舰长，感觉一直发泄负能量不太好，还是希望大家看到阳光直播打游戏的小偶像！（只是臭底边）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1952798758275870786",
+        "created_at": "2025-08-05T18:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T19:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952798758275870786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952798758275870786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近没有在QQ里面废话了，更多在这个小号上面（）qq加了蛮多舰长，感觉一直发泄负能量不太好，还是希望大家看到阳光直播打游戏的小偶像！（只是臭底边）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 29,
+          "like_count": 376,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 205
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1954827623760343066",
+    "created_at": "2025-08-11T08:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T09:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954827623760343066"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1954827623760343066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天出租cos服遇到个特好笑的事，我都说了我这衣服假毛还没造型好不出租，只租衣服配饰，着急可以看看其它家，结果那妹子跟我说能不能加急明天给她做好出租给她，我请问我是你的专属加急单免费毛娘吗，又不给我加急费和假毛造型费。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1954827623760343066",
+        "created_at": "2025-08-11T08:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T09:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954827623760343066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954827623760343066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天出租cos服遇到个特好笑的事，我都说了我这衣服假毛还没造型好不出租，只租衣服配饰，着急可以看看其它家，结果那妹子跟我说能不能加急明天给她做好出租给她，我请问我是你的专属加急单免费毛娘吗，又不给我加急费和假毛造型费。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953041382324813824/7W0TwYkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 41,
+          "like_count": 425,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 260
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

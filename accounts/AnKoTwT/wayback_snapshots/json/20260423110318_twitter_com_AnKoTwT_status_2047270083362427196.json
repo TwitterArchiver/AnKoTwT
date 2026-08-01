@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      }
+    ],
+    "conversation_id": "2047270083362427196",
+    "created_at": "2026-04-23T11:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047270083362427196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hely_kuroli/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/hely_kuroli/status/2046984876541260222",
+          "start": 6,
+          "url": "https://t.co/tG75iComaB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047270083362427196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046984876541260222",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "我喜欢这个 https://t.co/tG75iComaB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22105,
+        "height": 1080,
+        "media_key": "13_2046978347817959424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046978347817959424/img/hxXhgHu1ou6g_CkS.jpg",
+        "public_metrics": {
+          "view_count": 11196
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046978347817959424/vid/avc1/320x320/LPOhGfRfH3zHQFqT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046978347817959424/vid/avc1/540x540/JZtoTEk0lAXyLcxY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046978347817959424/vid/avc1/720x720/mpEvHRuafvo6jKGK.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046978347817959424/pl/GS7Gv4RNUdzHH5v2.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2047270083362427196",
+        "created_at": "2026-04-23T11:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047270083362427196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hely_kuroli/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/hely_kuroli/status/2046984876541260222",
+              "start": 6,
+              "url": "https://t.co/tG75iComaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047270083362427196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046984876541260222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "我喜欢这个 https://t.co/tG75iComaB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046978347817959424"
+          ]
+        },
+        "author_id": "1898612702823829504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2046984876541260222",
+        "created_at": "2026-04-22T16:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046984876541260222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "Live2D"
+            },
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "Live2DWIP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0XlRX2jrnG",
+              "end": 59,
+              "expanded_url": "https://x.com/Hely_Kuroli/status/2046984876541260222/video/1",
+              "media_key": "13_2046978347817959424",
+              "start": 36,
+              "url": "https://t.co/0XlRX2jrnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046984876541260222",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 610,
+          "impression_count": 38282,
+          "like_count": 2979,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "Cute little face\n#Live2D #Live2DWIP https://t.co/0XlRX2jrnG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ 哔站:https://t.co/LRQvNy6qlD Fanbox :https://t.co/7pXe2XwUpC 🐾 角色委托/陪玩私♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 想要很多爱ovo 郁の提问箱: https://t.co/RacOPia7ig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 48,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 25,
+                "url": "https://t.co/LRQvNy6qlD"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 157,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 134,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5489,
+          "following_count": 122,
+          "like_count": 5466,
+          "listed_count": 21,
+          "media_count": 355,
+          "tweet_count": 2399
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T05:52:06.000Z",
+        "description": "Live2d Rigger丨中文/English丨Commissions open",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/Hely_kuroli",
+                "end": 23,
+                "expanded_url": "https://vgen.co/Hely_kuroli",
+                "start": 0,
+                "url": "https://t.co/dptAEjU12C"
+              }
+            ]
+          }
+        },
+        "id": "1898612702823829504",
+        "name": "Hely❤️‍🩹Live2D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973796124638261248/r7o5vQBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 138,
+          "like_count": 1912,
+          "listed_count": 8,
+          "media_count": 96,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/dptAEjU12C",
+        "username": "Hely_Kuroli",
+        "verified": false
+      }
+    ]
+  }
+}

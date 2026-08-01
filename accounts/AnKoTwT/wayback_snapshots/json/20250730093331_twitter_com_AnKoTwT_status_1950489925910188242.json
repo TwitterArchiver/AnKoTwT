@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1950489925910188242",
+    "created_at": "2025-07-30T09:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T10:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950489925910188242"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950489925910188242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得我今年就这样了，明年尝试一下学化妆然后把衣柜的常服这些拿出来搭配一下，尝试一下做穿搭（）我也想接小裙子寄拍合作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1950489925910188242",
+        "created_at": "2025-07-30T09:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T10:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950489925910188242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950489925910188242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我今年就这样了，明年尝试一下学化妆然后把衣柜的常服这些拿出来搭配一下，尝试一下做穿搭（）我也想接小裙子寄拍合作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱我活在自己的世界里♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 1,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 148
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

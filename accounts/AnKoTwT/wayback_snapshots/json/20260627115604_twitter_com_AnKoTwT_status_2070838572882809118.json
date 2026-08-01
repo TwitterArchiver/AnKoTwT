@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070838491437785088"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2070838572882809118",
+    "created_at": "2026-06-27T11:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070838572882809118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5z3xGYeoa9",
+          "end": 34,
+          "expanded_url": "https://x.com/AnKoTwT/status/2070838572882809118/video/1",
+          "media_key": "13_2070838491437785088",
+          "start": 11,
+          "url": "https://t.co/5z3xGYeoa9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070838572882809118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只能看着我一个人喔？ https://t.co/5z3xGYeoa9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11818,
+        "height": 1280,
+        "media_key": "13_2070838491437785088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070838491437785088/img/ntwFQlw1HVpMxhrN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070838491437785088/vid/avc1/320x568/ZeQvzmvcbXLMu6qV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070838491437785088/vid/avc1/480x852/9YMZ6NDCetVp9lVB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070838491437785088/vid/avc1/720x1280/6-H29JRPZZgH1AAJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070838491437785088/pl/NPEFbr9oLw_a8nwF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070838491437785088"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2070838572882809118",
+        "created_at": "2026-06-27T11:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070838572882809118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5z3xGYeoa9",
+              "end": 34,
+              "expanded_url": "https://x.com/AnKoTwT/status/2070838572882809118/video/1",
+              "media_key": "13_2070838491437785088",
+              "start": 11,
+              "url": "https://t.co/5z3xGYeoa9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070838572882809118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只能看着我一个人喔？ https://t.co/5z3xGYeoa9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾 接角色定制/陪玩 09 150/33kg 🐾 喜欢我就多多支持我吧 需要很多很多爱和钱 郁の提问箱: https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 124,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 101,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "🛰️300/520/1314/5200只回口令 纯绿^ω^",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5658,
+          "following_count": 143,
+          "like_count": 6825,
+          "listed_count": 20,
+          "media_count": 449,
+          "tweet_count": 2928
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

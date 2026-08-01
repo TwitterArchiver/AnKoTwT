@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1995953052277506385",
+    "created_at": "2025-12-02T21:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T22:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995975198336844000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1267553304310984704",
+          "start": 0,
+          "username": "Lifan9231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995975198336844000",
+    "in_reply_to_user_id": "1267553304310984704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995974478636220423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lifan9231 我最喜欢冰雪天使，近期最爱用皇家公主💅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1995953052277506385",
+        "created_at": "2025-12-02T21:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T22:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995975198336844000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1267553304310984704",
+              "start": 0,
+              "username": "Lifan9231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995975198336844000",
+        "in_reply_to_user_id": "1267553304310984704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995974478636220423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lifan9231 我最喜欢冰雪天使，近期最爱用皇家公主💅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1267553304310984704",
+        "conversation_id": "1995953052277506385",
+        "created_at": "2025-12-02T21:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T22:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995974478636220423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995974478636220423",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995953052277506385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 不如龙族天使一根"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱:https://t.co/RacOPi9zsI ↓hedao ♡150/33kg 喜欢我就多支持我吧 钱能让我幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPi9zsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3889,
+          "following_count": 88,
+          "like_count": 3326,
+          "listed_count": 20,
+          "media_count": 199,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-01T20:27:19.000Z",
+        "description": "要谁爱你，你才不孤独",
+        "id": "1267553304310984704",
+        "location": "木卫六",
+        "name": "槐诗",
+        "pinned_tweet_id": "1916406747331276809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923994649615585280/3kglHM0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 281,
+          "like_count": 416,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 2151
+        },
+        "username": "Lifan9231",
+        "verified": false
+      }
+    ]
+  }
+}

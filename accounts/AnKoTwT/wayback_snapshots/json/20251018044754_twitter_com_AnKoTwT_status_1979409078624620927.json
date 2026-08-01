@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1979409078624620927",
+    "created_at": "2025-10-18T04:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T05:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979409078624620927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sedatedyui/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/sedatedyui/status/1978933940619465162",
+          "start": 9,
+          "url": "https://t.co/TKzfy2yvNq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979409078624620927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978933940619465162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我努力赚钱的目标 https://t.co/TKzfy2yvNq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978933902258380801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3aV5jYWoAESU6w.jpg",
+        "width": 1818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1979409078624620927",
+        "created_at": "2025-10-18T04:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T05:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979409078624620927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sedatedyui/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/sedatedyui/status/1978933940619465162",
+              "start": 9,
+              "url": "https://t.co/TKzfy2yvNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979409078624620927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978933940619465162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我努力赚钱的目标 https://t.co/TKzfy2yvNq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978933902258380801"
+          ]
+        },
+        "author_id": "1962639607142436864",
+        "conversation_id": "1978933940619465162",
+        "created_at": "2025-10-16T21:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T22:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978933940619465162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/41uMaFxrtt",
+              "end": 23,
+              "expanded_url": "https://x.com/sedatedyui/status/1978933940619465162/photo/1",
+              "media_key": "3_1978933902258380801",
+              "start": 0,
+              "url": "https://t.co/41uMaFxrtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978933940619465162",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 452,
+          "impression_count": 46162,
+          "like_count": 3968,
+          "quote_count": 31,
+          "reply_count": 1,
+          "retweet_count": 302
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/41uMaFxrtt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡宅  155/33kg 喜欢我就多支持我吧 提问箱https://t.co/QmqVGVcRVz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku",
+                "end": 63,
+                "expanded_url": "https://ngl.link/ankoku",
+                "start": 40,
+                "url": "https://t.co/QmqVGVcRVz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2455,
+          "following_count": 82,
+          "like_count": 2032,
+          "listed_count": 13,
+          "media_count": 142,
+          "tweet_count": 936
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T22:12:10.000Z",
+        "description": "⠀ ⠀⠀𓂋 ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀ ⠀ ⠀ ⠀ ʚ ૮꒰っ˕ -｡꒱১ ɞ | 𝟤𝟣. ᰔ 𝗌𝗁𝖾／𝗁𝖾𝗋. ‹𝟥 ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀— » 𝗁𝗂𝗌 𝗌𝗎𝖼𝖼𝗎𝖻𝗎𝗌. 𓆩 ♡ 𓆪",
+        "id": "1962639607142436864",
+        "location": "˚ ʚ ♡ ɞ ˚ ~ 𝗁𝗂𝗌 𝗅𝖺𝗉. 🩹",
+        "name": "ᛪ༙ິ┊ 𝖸 𝗎 𝗂 '🩸",
+        "pinned_tweet_id": "1972250083916996987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971056495451164672/xBAtI0Nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 61,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "sedatedyui",
+        "verified": false
+      }
+    ]
+  }
+}

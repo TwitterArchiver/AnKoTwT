@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2024695701322813914",
+    "created_at": "2026-02-21T00:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T01:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025008089016242340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1614515878737113090",
+          "start": 0,
+          "username": "Sakichan_desuwa"
+        },
+        {
+          "end": 26,
+          "id": "1857071874464735232",
+          "start": 17,
+          "username": "xx10Neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025008089016242340",
+    "in_reply_to_user_id": "1614515878737113090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024774689747509655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakichan_desuwa @xx10Neko 稀饭你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2024695701322813914",
+        "created_at": "2026-02-21T00:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025008089016242340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1614515878737113090",
+              "start": 0,
+              "username": "Sakichan_desuwa"
+            },
+            {
+              "end": 26,
+              "id": "1857071874464735232",
+              "start": 17,
+              "username": "xx10Neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025008089016242340",
+        "in_reply_to_user_id": "1614515878737113090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024774689747509655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakichan_desuwa @xx10Neko 稀饭你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614515878737113090",
+        "conversation_id": "2024695701322813914",
+        "created_at": "2026-02-20T09:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T10:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024774689747509655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1857071874464735232",
+              "start": 0,
+              "username": "xx10Neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024774689747509655",
+        "in_reply_to_user_id": "1857071874464735232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024695701322813914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx10Neko 如此美丽的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUzB5O Fanbox:https://t.co/7pXe2XwUpC 提问箱:     https://t.co/RacOPia7ig ↓hedao ♡09 150/33kg 喜欢我就多支持我吧o3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUzB5O"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下不卖原",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4519,
+          "following_count": 100,
+          "like_count": 3792,
+          "listed_count": 23,
+          "media_count": 241,
+          "tweet_count": 1683
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T06:53:59.000Z",
+        "description": "＊INTP/INFP丨♪Res quas amo:E̴R̷R̵O̴R̶ ̵N̷O̵N̵E̸丨⚠️せいしんびょう",
+        "id": "1614515878737113090",
+        "location": "Utopia",
+        "name": "伪人小祥desuwa",
+        "pinned_tweet_id": "1931292817017418065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929590920930095104/rRnZuYk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 2582,
+          "like_count": 14514,
+          "listed_count": 13,
+          "media_count": 111,
+          "tweet_count": 2453
+        },
+        "username": "Sakichan_desuwa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『 🐾 』✧ Thank you for your love ✧ DM → @AnKoTwT Fanbox ：https://t.co/H8ldNw6jTv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "AnKoTwT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://uwuneko.fanbox.cc",
+                "start": 55,
+                "url": "https://t.co/H8ldNw6jTv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/Bmor5RT",
+                "end": 23,
+                "expanded_url": "http://b23.tv/Bmor5RT",
+                "start": 0,
+                "url": "https://t.co/tvsEv4Yv84"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "✟",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1934226982163939371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18529,
+          "following_count": 7,
+          "like_count": 2129,
+          "listed_count": 98,
+          "media_count": 70,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/tvsEv4Yv84",
+        "username": "xx10Neko",
+        "verified": true
+      }
+    ]
+  }
+}

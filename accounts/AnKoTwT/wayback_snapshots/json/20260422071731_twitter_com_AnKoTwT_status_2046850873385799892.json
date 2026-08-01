@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2046847127557726301",
+    "created_at": "2026-04-22T07:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046850873385799892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046850873385799892",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046847127557726301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 我也很讨厌这种人😱难道我不睡觉我不做自己的事吗，就时时刻刻盯着手机秒回消息，咋可能。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2046847111170580480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfcmlrbYAAK4AX.jpg",
+        "width": 530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2046847127557726301",
+        "created_at": "2026-04-22T07:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046850873385799892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046850873385799892",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046847127557726301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 我也很讨厌这种人😱难道我不睡觉我不做自己的事吗，就时时刻刻盯着手机秒回消息，咋可能。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046847111170580480"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "conversation_id": "2046847127557726301",
+        "created_at": "2026-04-22T07:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046847127557726301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gOiwx3eook",
+              "end": 115,
+              "expanded_url": "https://x.com/doll7799/status/2046847127557726301/photo/1",
+              "media_key": "3_2046847111170580480",
+              "start": 92,
+              "url": "https://t.co/gOiwx3eook"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046847127557726301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种可以不要来加我行吗😂😂我两天没睡觉还爬起来上早八，正常人这个时候不都睡觉了又不是故意不回的这么高敏感就别来加我好吗，我根本不在乎别人回不回我消息，我现在肚子痛的浑身发冷，又来气我 https://t.co/gOiwx3eook"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站:https://t.co/LRQvNy6qlD Fanbox :https://t.co/7pXe2XwUpC 🐾 角色委托/陪玩私♡ 09 150 / 33kg 喜欢我就多支持我叭ovo  郁郁 の 专属提问箱: https://t.co/RacOPia7ig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 47,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 24,
+                "url": "https://t.co/LRQvNy6qlD"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 79,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 56,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 155,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 132,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5481,
+          "following_count": 122,
+          "like_count": 5418,
+          "listed_count": 21,
+          "media_count": 347,
+          "tweet_count": 2365
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/34943724…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/3494372435823118",
+                "start": 0,
+                "url": "https://t.co/7Xlu3pAhG1"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52聊一辈子天谢谢",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4659,
+          "following_count": 8,
+          "like_count": 1703,
+          "listed_count": 19,
+          "media_count": 187,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/7Xlu3pAhG1",
+        "username": "doll7799",
+        "verified": false
+      }
+    ]
+  }
+}

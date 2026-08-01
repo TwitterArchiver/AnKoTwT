@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1949911863468433786",
+    "created_at": "2025-07-28T19:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T20:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949911863468433786"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949911863468433786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关键是普通照片也就算了....我当时发给她的泳装照只是想让她参考一下上身效果，结果被她拿去挂平台出二手...我真无语了....也没经过我的允许....明明是比较私密的照片，我真烦。感觉这种人没脑子也没情商。没礼貌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1949911863468433786",
+        "created_at": "2025-07-28T19:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T20:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949911863468433786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949911863468433786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关键是普通照片也就算了....我当时发给她的泳装照只是想让她参考一下上身效果，结果被她拿去挂平台出二手...我真无语了....也没经过我的允许....明明是比较私密的照片，我真烦。感觉这种人没脑子也没情商。没礼貌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱我活在自己的世界里♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 1,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 125
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2052496981084545126",
+    "created_at": "2026-05-07T21:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T22:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052496981084545126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2033549131797733376",
+          "start": 3,
+          "username": "nini_incrypto_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052496981084545126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052380441563295932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nini_incrypto_: 结束无聊生活可以做的事清单：\n\n1.步行一公里去买咖啡\n2. 走一条没走过的路下班\n3. 去菜市场买新鲜的瓜果蔬菜\n4.运动健身\n5. 听18岁时爱听的歌\n6. 去公园呆上20分钟\n7. 想象彩票中了一千万\n8. 和亲近的人/小动物久久拥…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2052496981084545126",
+        "created_at": "2026-05-07T21:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T22:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052496981084545126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2033549131797733376",
+              "start": 3,
+              "username": "nini_incrypto_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052496981084545126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052380441563295932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nini_incrypto_: 结束无聊生活可以做的事清单：\n\n1.步行一公里去买咖啡\n2. 走一条没走过的路下班\n3. 去菜市场买新鲜的瓜果蔬菜\n4.运动健身\n5. 听18岁时爱听的歌\n6. 去公园呆上20分钟\n7. 想象彩票中了一千万\n8. 和亲近的人/小动物久久拥…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033549131797733376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2052380441563295932",
+        "created_at": "2026-05-07T13:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052380441563295932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052380441563295932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "结束无聊生活可以做的事清单：\n\n1.步行一公里去买咖啡\n2. 走一条没走过的路下班\n3. 去菜市场买新鲜的瓜果蔬菜\n4.运动健身\n5. 听18岁时爱听的歌\n6. 去公园呆上20分钟\n7. 想象彩票中了一千万\n8. 和亲近的人/小动物久久拥抱\n9. 随机坐上一辆公交车\n10.写诗/小作文，表达情绪\n11. 去电影院连着看两三部电影\n12.制定旅行计划\n13. 去图书馆读书，做工整漂亮的摘抄\n14. 在草地上奔跑\n15. 戴着耳机走在人行道上，播放影视剧OST\n16. 睡觉，做奇怪的梦\n17. 去看演唱会\n18. 迷你逃跑，去陌生的街道或者去住隔壁市的酒店，把自己从熟悉的环境里抽离出来\n19. 去大型超市，规定自己只能买一件商品，这样能精挑细选很久\n20. 去开在大学附近的小吃一条街\n21. 赞美别人\n22. 泡澡\n23. 睡一大觉"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 17386,
+          "like_count": 478,
+          "quote_count": 9,
+          "reply_count": 152,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "结束无聊生活可以做的事清单：\n\n1.步行一公里去买咖啡\n2. 走一条没走过的路下班\n3. 去菜市场买新鲜的瓜果蔬菜\n4.运动健身\n5. 听18岁时爱听的歌\n6. 去公园呆上20分钟\n7. 想象彩票中了一千万\n8. 和亲近的人/小动物久久拥抱\n9. 随机坐上一辆公交车\n10.写诗/小作文，表达情绪\n11. 去电影院连着看两三部电影"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN Fanbox :https://t.co/7pXe2XwUpC 🐾 角色定制/陪玩私♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 想要很多很多爱 提问箱: https://t.co/RacOPia7ig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 79,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 56,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 153,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 130,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列Q188/V520只回口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5649,
+          "following_count": 129,
+          "like_count": 6063,
+          "listed_count": 23,
+          "media_count": 388,
+          "tweet_count": 2552
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:26:02.000Z",
+        "description": "07大二在读｜crypto➕ai\nWeb3 创作者｜@CHAINISLE_ZH 生态成员\n网红孵化机构/商务合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "CHAINISLE_ZH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nini.onchain",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nini.onchain",
+                "start": 0,
+                "url": "https://t.co/8nWRHsGEY6"
+              }
+            ]
+          }
+        },
+        "id": "2033549131797733376",
+        "name": "nini",
+        "pinned_tweet_id": "2051631314575761488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035875407359262720/qVUpg1XW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2763,
+          "following_count": 974,
+          "like_count": 10164,
+          "listed_count": 10,
+          "media_count": 70,
+          "tweet_count": 2822
+        },
+        "url": "https://t.co/8nWRHsGEY6",
+        "username": "nini_incrypto_",
+        "verified": true
+      }
+    ]
+  }
+}

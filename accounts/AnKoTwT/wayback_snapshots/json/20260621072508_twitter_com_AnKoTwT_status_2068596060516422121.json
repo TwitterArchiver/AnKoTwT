@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068410084900917248"
+      ],
+      "media_source_tweet_id": [
+        "2068410176731004951"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2068596060516422121",
+    "created_at": "2026-06-21T07:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068596060516422121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "744403174035857408",
+          "start": 3,
+          "username": "miannawzays"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0LpllEKNVL",
+          "end": 40,
+          "expanded_url": "https://x.com/miannawzays/status/2068410176731004951/photo/1",
+          "media_key": "3_2068410084900917248",
+          "start": 17,
+          "url": "https://t.co/0LpllEKNVL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068596060516422121",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 409
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068410176731004951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miannawzays: https://t.co/0LpllEKNVL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1311,
+        "media_key": "3_2068410084900917248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLR4A2ha0AA0qCc.jpg",
+        "width": 3494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068410084900917248"
+          ],
+          "media_source_tweet_id": [
+            "2068410176731004951"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2068596060516422121",
+        "created_at": "2026-06-21T07:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068596060516422121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "744403174035857408",
+              "start": 3,
+              "username": "miannawzays"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LpllEKNVL",
+              "end": 40,
+              "expanded_url": "https://x.com/miannawzays/status/2068410176731004951/photo/1",
+              "media_key": "3_2068410084900917248",
+              "start": 17,
+              "url": "https://t.co/0LpllEKNVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068596060516422121",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 409
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068410176731004951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miannawzays: https://t.co/0LpllEKNVL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068410084900917248"
+          ]
+        },
+        "author_id": "744403174035857408",
+        "conversation_id": "2068410176731004951",
+        "created_at": "2026-06-20T19:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068410176731004951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LpllEKNVL",
+              "end": 23,
+              "expanded_url": "https://x.com/miannawzays/status/2068410176731004951/photo/1",
+              "media_key": "3_2068410084900917248",
+              "start": 0,
+              "url": "https://t.co/0LpllEKNVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068410176731004951",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 23604,
+          "like_count": 2474,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 409
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0LpllEKNVL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾 接角色定制/陪玩 09 150/33kg 🐾 喜欢我就多多支持我吧 需要很多很多爱和钱 郁の提问箱: https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 124,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 101,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "🛰️300/520/1314/5200只回口令 纯绿^ω^",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5619,
+          "following_count": 143,
+          "like_count": 6777,
+          "listed_count": 20,
+          "media_count": 435,
+          "tweet_count": 2867
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-19T05:35:22.000Z",
+        "description": "ojiisan be drawing anything. \ncomms CLOSED.\n18+ |\nhttps://t.co/TqPjtBU4YD \nhttps://t.co/uiGYtZMh6V\nhttps://t.co/EAP23LVo3o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lyrinne.bsky.social",
+                "end": 73,
+                "expanded_url": "http://lyrinne.bsky.social",
+                "start": 50,
+                "url": "https://t.co/TqPjtBU4YD"
+              },
+              {
+                "display_url": "pixiv.net/users/13708393",
+                "end": 98,
+                "expanded_url": "http://pixiv.net/users/13708393",
+                "start": 75,
+                "url": "https://t.co/uiGYtZMh6V"
+              },
+              {
+                "display_url": "twitch.tv/lyrinne",
+                "end": 122,
+                "expanded_url": "http://twitch.tv/lyrinne",
+                "start": 99,
+                "url": "https://t.co/EAP23LVo3o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/XLwmEuM0dIw",
+                "end": 23,
+                "expanded_url": "https://youtu.be/XLwmEuM0dIw",
+                "start": 0,
+                "url": "https://t.co/c3bOSQyjyR"
+              }
+            ]
+          }
+        },
+        "id": "744403174035857408",
+        "location": "pfp: @fallenshadow_YT ",
+        "name": "lyrinne",
+        "pinned_tweet_id": "2051052970637467804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795194880169533445/cjrT6hbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49937,
+          "following_count": 4878,
+          "like_count": 391359,
+          "listed_count": 291,
+          "media_count": 7044,
+          "tweet_count": 148484
+        },
+        "url": "https://t.co/c3bOSQyjyR",
+        "username": "miannawzays",
+        "verified": false
+      }
+    ]
+  }
+}

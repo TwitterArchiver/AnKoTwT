@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967566224570867713"
+      ],
+      "media_source_tweet_id": [
+        "1967566232661684583"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1967811765502353677",
+    "created_at": "2025-09-16T04:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T05:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967811765502353677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945405867257720832",
+          "start": 3,
+          "username": "kgrn_12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6KHpA5FfzW",
+          "end": 40,
+          "expanded_url": "https://x.com/kgrn_12/status/1967566232661684583/photo/1",
+          "media_key": "3_1967566224570867713",
+          "start": 17,
+          "url": "https://t.co/6KHpA5FfzW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967811765502353677",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 192
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967566232661684583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kgrn_12: プラナ https://t.co/6KHpA5FfzW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967566224570867713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04zDn-aYAEev5g.jpg",
+        "width": 1083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967566224570867713"
+          ],
+          "media_source_tweet_id": [
+            "1967566232661684583"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1967811765502353677",
+        "created_at": "2025-09-16T04:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T05:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967811765502353677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945405867257720832",
+              "start": 3,
+              "username": "kgrn_12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KHpA5FfzW",
+              "end": 40,
+              "expanded_url": "https://x.com/kgrn_12/status/1967566232661684583/photo/1",
+              "media_key": "3_1967566224570867713",
+              "start": 17,
+              "url": "https://t.co/6KHpA5FfzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967811765502353677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 192
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967566232661684583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kgrn_12: プラナ https://t.co/6KHpA5FfzW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967566224570867713"
+          ]
+        },
+        "author_id": "1945405867257720832",
+        "conversation_id": "1967566232661684583",
+        "created_at": "2025-09-15T12:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T13:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967566232661684583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KHpA5FfzW",
+              "end": 27,
+              "expanded_url": "https://x.com/kgrn_12/status/1967566232661684583/photo/1",
+              "media_key": "3_1967566224570867713",
+              "start": 4,
+              "url": "https://t.co/6KHpA5FfzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967566232661684583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 13514,
+          "like_count": 1460,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "プラナ https://t.co/6KHpA5FfzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 74,
+          "like_count": 1452,
+          "listed_count": 5,
+          "media_count": 97,
+          "tweet_count": 646
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T08:52:43.000Z",
+        "description": "お絵描き大好きです。よろしくお願いします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/114320797",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/114320797",
+                "start": 0,
+                "url": "https://t.co/Vcr4sNK9tM"
+              }
+            ]
+          }
+        },
+        "id": "1945405867257720832",
+        "name": "こぐれに",
+        "pinned_tweet_id": "1959242131777991065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967484312254877696/yCysvV7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 44,
+          "like_count": 390,
+          "listed_count": 12,
+          "media_count": 15,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/Vcr4sNK9tM",
+        "username": "kgrn_12",
+        "verified": false
+      }
+    ]
+  }
+}

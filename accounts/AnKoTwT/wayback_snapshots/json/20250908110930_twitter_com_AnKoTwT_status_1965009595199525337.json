@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1964985392333213805",
+    "created_at": "2025-09-08T11:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T12:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965009595199525337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "764385193348083712",
+          "start": 0,
+          "username": "00IRIYA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965009595199525337",
+    "in_reply_to_user_id": "764385193348083712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964995375183589414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@00IRIYA00 我想成为魔女！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1964985392333213805",
+        "created_at": "2025-09-08T11:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T12:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965009595199525337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "764385193348083712",
+              "start": 0,
+              "username": "00IRIYA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965009595199525337",
+        "in_reply_to_user_id": "764385193348083712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964995375183589414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@00IRIYA00 我想成为魔女！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "764385193348083712",
+        "conversation_id": "1964985392333213805",
+        "created_at": "2025-09-08T10:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T11:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964995375183589414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964995375183589414",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964985392333213805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 超可愛的💓💓💓💓\n底下的墊子加上黑貓（其實妳是魔女吧🤔）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚提问箱https://t.co/aI0OTcm1s8 👾重度网瘾宅 欢迎女孩子扩列🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 43,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960566808773320705/RcoY_p4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 67,
+          "like_count": 1223,
+          "listed_count": 5,
+          "media_count": 79,
+          "tweet_count": 535
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-13T08:56:46.000Z",
+        "description": "",
+        "id": "764385193348083712",
+        "location": "台灣",
+        "name": "魂魄夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870067567177691136/2IMGRKKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 169,
+          "like_count": 141166,
+          "listed_count": 9,
+          "media_count": 669,
+          "tweet_count": 51197
+        },
+        "username": "00IRIYA00",
+        "verified": false
+      }
+    ]
+  }
+}

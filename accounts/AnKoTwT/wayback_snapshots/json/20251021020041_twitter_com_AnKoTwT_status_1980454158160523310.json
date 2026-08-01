@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1980257378621898787",
+    "created_at": "2025-10-21T02:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980454158160523310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1846739759085113346",
+          "start": 0,
+          "username": "twilightversu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980454158160523310",
+    "in_reply_to_user_id": "1846739759085113346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980390649888481584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twilightversu 💓💓💓她真的超漂亮~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1980257378621898787",
+        "created_at": "2025-10-21T02:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980454158160523310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1846739759085113346",
+              "start": 0,
+              "username": "twilightversu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980454158160523310",
+        "in_reply_to_user_id": "1846739759085113346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980390649888481584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twilightversu 💓💓💓她真的超漂亮~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846739759085113346",
+        "conversation_id": "1980257378621898787",
+        "created_at": "2025-10-20T21:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T22:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980390649888481584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980390649888481584",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980257378621898787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 品味好好。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡宅  155/33kg 喜欢我就多支持我吧 提问箱https://t.co/QmqVGVcRVz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku",
+                "end": 63,
+                "expanded_url": "https://ngl.link/ankoku",
+                "start": 40,
+                "url": "https://t.co/QmqVGVcRVz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2550,
+          "following_count": 83,
+          "like_count": 2112,
+          "listed_count": 14,
+          "media_count": 145,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T02:27:50.000Z",
+        "description": "脸这种没长的东西再怎么说也拍不出来丨灿星者@rainsluvkwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "rainsluvkwi"
+              }
+            ]
+          }
+        },
+        "id": "1846739759085113346",
+        "location": "尾椎骨公城",
+        "name": "数缺白夜",
+        "pinned_tweet_id": "1904071136884969834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976984817960206337/h3X100Yn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8025,
+          "following_count": 769,
+          "like_count": 18673,
+          "listed_count": 35,
+          "media_count": 85,
+          "tweet_count": 4066
+        },
+        "username": "twilightversu",
+        "verified": false
+      }
+    ]
+  }
+}

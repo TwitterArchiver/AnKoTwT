@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946505112387559424"
+      ],
+      "media_source_tweet_id": [
+        "1946505115013402798"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1946797073686495524",
+    "created_at": "2025-07-20T04:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T05:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946797073686495524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1347346597902831617",
+          "start": 3,
+          "username": "ssskuang_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vzvkkn2MNI",
+          "end": 38,
+          "expanded_url": "https://x.com/ssskuang_/status/1946505115013402798/photo/1",
+          "media_key": "3_1946505112387559424",
+          "start": 15,
+          "url": "https://t.co/Vzvkkn2MNI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946797073686495524",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 457
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946505115013402798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ssskuang_: https://t.co/Vzvkkn2MNI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946505112387559424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwNgFjFXoAAmbrj.jpg",
+        "width": 1351
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946505112387559424"
+          ],
+          "media_source_tweet_id": [
+            "1946505115013402798"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1946797073686495524",
+        "created_at": "2025-07-20T04:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T05:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946797073686495524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1347346597902831617",
+              "start": 3,
+              "username": "ssskuang_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vzvkkn2MNI",
+              "end": 38,
+              "expanded_url": "https://x.com/ssskuang_/status/1946505115013402798/photo/1",
+              "media_key": "3_1946505112387559424",
+              "start": 15,
+              "url": "https://t.co/Vzvkkn2MNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946797073686495524",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 457
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946505115013402798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ssskuang_: https://t.co/Vzvkkn2MNI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946505112387559424"
+          ]
+        },
+        "author_id": "1347346597902831617",
+        "conversation_id": "1946505115013402798",
+        "created_at": "2025-07-19T09:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T10:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946505115013402798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vzvkkn2MNI",
+              "end": 23,
+              "expanded_url": "https://x.com/ssskuang_/status/1946505115013402798/photo/1",
+              "media_key": "3_1946505112387559424",
+              "start": 0,
+              "url": "https://t.co/Vzvkkn2MNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946505115013402798",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 868,
+          "impression_count": 99579,
+          "like_count": 8195,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 457
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Vzvkkn2MNI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱观测世界ing♱@xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "家里蹲໒꒰ྀིㅇㅁㅇ꒱ྀི১",
+        "name": "Kuko",
+        "pinned_tweet_id": "1944022809841479847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941102088856952832/Vz0x4Vc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 1,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 77
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-08T00:57:24.000Z",
+        "description": "只会中文 \n随便画点，感谢喜欢\n🚫禁止ai学习以及无授权转载",
+        "id": "1347346597902831617",
+        "name": "氵沰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872025368896696320/WzOgWHra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80308,
+          "following_count": 436,
+          "like_count": 603,
+          "listed_count": 565,
+          "media_count": 262,
+          "tweet_count": 545
+        },
+        "username": "ssskuang_",
+        "verified": false
+      }
+    ]
+  }
+}

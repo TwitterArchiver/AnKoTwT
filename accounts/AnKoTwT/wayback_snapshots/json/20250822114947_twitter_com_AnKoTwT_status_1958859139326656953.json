@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958538263259758592"
+      ],
+      "media_source_tweet_id": [
+        "1958538274076807578"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1958859139326656953",
+    "created_at": "2025-08-22T11:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T12:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958859139326656953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909553877739085825",
+          "start": 3,
+          "username": "TOKYO8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qeEsDedEVa",
+          "end": 42,
+          "expanded_url": "https://x.com/TOKYO8964/status/1958538274076807578/photo/1",
+          "media_key": "3_1958538263259758592",
+          "start": 19,
+          "url": "https://t.co/qeEsDedEVa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958859139326656953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958538274076807578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOKYO8964: 何意味 https://t.co/qeEsDedEVa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1958538263259758592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy4gLHSbwAAfDiu.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958538263259758592"
+          ],
+          "media_source_tweet_id": [
+            "1958538274076807578"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1958859139326656953",
+        "created_at": "2025-08-22T11:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T12:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958859139326656953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909553877739085825",
+              "start": 3,
+              "username": "TOKYO8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qeEsDedEVa",
+              "end": 42,
+              "expanded_url": "https://x.com/TOKYO8964/status/1958538274076807578/photo/1",
+              "media_key": "3_1958538263259758592",
+              "start": 19,
+              "url": "https://t.co/qeEsDedEVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958859139326656953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958538274076807578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOKYO8964: 何意味 https://t.co/qeEsDedEVa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958538263259758592"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1958538274076807578",
+        "created_at": "2025-08-21T14:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T15:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958538274076807578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qeEsDedEVa",
+              "end": 27,
+              "expanded_url": "https://x.com/TOKYO8964/status/1958538274076807578/photo/1",
+              "media_key": "3_1958538263259758592",
+              "start": 4,
+              "url": "https://t.co/qeEsDedEVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958538274076807578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 51799,
+          "like_count": 564,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/qeEsDedEVa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚提问箱https://t.co/aI0OTcm1s8 👾重度网瘾宅 欢迎女孩子扩列🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 43,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 53,
+          "like_count": 865,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 393
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "🇯🇵日本東京｜🌊自由民主｜🏳️‍⚧️07男娘｜♀取向女｜🏳️‍🌈友跨友同｜🍯包蜜｜🍀雏草姬｜舞萌痴｜管人痴｜轻度键政｜纯搞抽象乐子人 日本語勉强中 喜欢看番玩galgame和打各种音游二游 欢迎友好交流 极端魔怔人会b 时不时更新奇异搞笑幽默抽象TV和女装照 扩列交友互fo请私信 @heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 141,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象イェーガー",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953825203810971648/2LWXQbw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6524,
+          "following_count": 636,
+          "like_count": 740,
+          "listed_count": 30,
+          "media_count": 440,
+          "tweet_count": 726
+        },
+        "username": "TOKYO8964",
+        "verified": true
+      }
+    ]
+  }
+}

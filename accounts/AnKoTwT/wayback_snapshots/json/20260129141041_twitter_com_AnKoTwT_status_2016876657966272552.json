@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016876638898966530",
+        "3_2016876638898966529",
+        "3_2016876638903160837",
+        "3_2016876638907281408"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016876657966272552",
+    "created_at": "2026-01-29T14:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T15:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016876657966272552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B8NMyH0oeN",
+          "end": 36,
+          "expanded_url": "https://x.com/AnKoTwT/status/2016876657966272552/photo/1",
+          "media_key": "3_2016876638898966530",
+          "start": 13,
+          "url": "https://t.co/B8NMyH0oeN"
+        },
+        {
+          "display_url": "pic.x.com/B8NMyH0oeN",
+          "end": 36,
+          "expanded_url": "https://x.com/AnKoTwT/status/2016876657966272552/photo/1",
+          "media_key": "3_2016876638898966529",
+          "start": 13,
+          "url": "https://t.co/B8NMyH0oeN"
+        },
+        {
+          "display_url": "pic.x.com/B8NMyH0oeN",
+          "end": 36,
+          "expanded_url": "https://x.com/AnKoTwT/status/2016876657966272552/photo/1",
+          "media_key": "3_2016876638903160837",
+          "start": 13,
+          "url": "https://t.co/B8NMyH0oeN"
+        },
+        {
+          "display_url": "pic.x.com/B8NMyH0oeN",
+          "end": 36,
+          "expanded_url": "https://x.com/AnKoTwT/status/2016876657966272552/photo/1",
+          "media_key": "3_2016876638907281408",
+          "start": 13,
+          "url": "https://t.co/B8NMyH0oeN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016876657966272552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们知道我有多喜欢小陈吗 https://t.co/B8NMyH0oeN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2016876638898966530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1ingFbUAIVFsQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2016876638898966529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1ingFbUAE3Er0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2016876638903160837",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1ingGbUAUcg0s.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2016876638907281408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1ingHaMAA-y0j.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016876638898966530",
+            "3_2016876638898966529",
+            "3_2016876638903160837",
+            "3_2016876638907281408"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016876657966272552",
+        "created_at": "2026-01-29T14:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016876657966272552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8NMyH0oeN",
+              "end": 36,
+              "expanded_url": "https://x.com/AnKoTwT/status/2016876657966272552/photo/1",
+              "media_key": "3_2016876638898966530",
+              "start": 13,
+              "url": "https://t.co/B8NMyH0oeN"
+            },
+            {
+              "display_url": "pic.x.com/B8NMyH0oeN",
+              "end": 36,
+              "expanded_url": "https://x.com/AnKoTwT/status/2016876657966272552/photo/1",
+              "media_key": "3_2016876638898966529",
+              "start": 13,
+              "url": "https://t.co/B8NMyH0oeN"
+            },
+            {
+              "display_url": "pic.x.com/B8NMyH0oeN",
+              "end": 36,
+              "expanded_url": "https://x.com/AnKoTwT/status/2016876657966272552/photo/1",
+              "media_key": "3_2016876638903160837",
+              "start": 13,
+              "url": "https://t.co/B8NMyH0oeN"
+            },
+            {
+              "display_url": "pic.x.com/B8NMyH0oeN",
+              "end": 36,
+              "expanded_url": "https://x.com/AnKoTwT/status/2016876657966272552/photo/1",
+              "media_key": "3_2016876638907281408",
+              "start": 13,
+              "url": "https://t.co/B8NMyH0oeN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016876657966272552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道我有多喜欢小陈吗 https://t.co/B8NMyH0oeN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUzB5O Fanbox:https://t.co/7pXe2XwUpC 提问箱: https://t.co/aI0OTcm1s8  ↓hedao ♡09 150/33kg 喜欢我就多支持我吧o3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUzB5O"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 83,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下不卖原",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4214,
+          "following_count": 94,
+          "like_count": 3738,
+          "listed_count": 22,
+          "media_count": 233,
+          "tweet_count": 1631
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

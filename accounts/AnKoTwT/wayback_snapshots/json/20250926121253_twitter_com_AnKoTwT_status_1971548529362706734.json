@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971528501460451329"
+      ],
+      "media_source_tweet_id": [
+        "1971528512168485229"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1971548529362706734",
+    "created_at": "2025-09-26T12:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T13:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971548529362706734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291827298392449024",
+          "start": 3,
+          "username": "rik0ring"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iu94swD0yY",
+          "end": 40,
+          "expanded_url": "https://x.com/rik0ring/status/1971528512168485229/photo/1",
+          "media_key": "3_1971528501460451329",
+          "start": 17,
+          "url": "https://t.co/iu94swD0yY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971548529362706734",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 540
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971528512168485229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @rik0ring: 🐯🤍 https://t.co/iu94swD0yY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1508,
+        "media_key": "3_1971528501460451329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1xGufobwAEibm1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971528501460451329"
+          ],
+          "media_source_tweet_id": [
+            "1971528512168485229"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1971548529362706734",
+        "created_at": "2025-09-26T12:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T13:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971548529362706734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291827298392449024",
+              "start": 3,
+              "username": "rik0ring"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iu94swD0yY",
+              "end": 40,
+              "expanded_url": "https://x.com/rik0ring/status/1971528512168485229/photo/1",
+              "media_key": "3_1971528501460451329",
+              "start": 17,
+              "url": "https://t.co/iu94swD0yY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971548529362706734",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 540
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971528512168485229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @rik0ring: 🐯🤍 https://t.co/iu94swD0yY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971528501460451329"
+          ]
+        },
+        "author_id": "1291827298392449024",
+        "conversation_id": "1971528512168485229",
+        "created_at": "2025-09-26T10:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T11:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971528512168485229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iu94swD0yY",
+              "end": 26,
+              "expanded_url": "https://x.com/rik0ring/status/1971528512168485229/photo/1",
+              "media_key": "3_1971528501460451329",
+              "start": 3,
+              "url": "https://t.co/iu94swD0yY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971528512168485229",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1045,
+          "impression_count": 51491,
+          "like_count": 4986,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 540
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "🐯🤍 https://t.co/iu94swD0yY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 77,
+          "like_count": 1748,
+          "listed_count": 5,
+          "media_count": 115,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T20:03:45.000Z",
+        "description": "📨CONTACT: rikoring16@gmail.com fanbox: https://t.co/YUTk0uYMgw ENG/中/日本語 OK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rik0ring.fanbox.cc",
+                "end": 62,
+                "expanded_url": "https://rik0ring.fanbox.cc/",
+                "start": 39,
+                "url": "https://t.co/YUTk0uYMgw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/40317874",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/40317874",
+                "start": 0,
+                "url": "https://t.co/rmoYfw6qK5"
+              }
+            ]
+          }
+        },
+        "id": "1291827298392449024",
+        "name": "Riko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894337707398017024/DBM5g_Us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241749,
+          "following_count": 996,
+          "like_count": 14636,
+          "listed_count": 1610,
+          "media_count": 216,
+          "tweet_count": 7786
+        },
+        "url": "https://t.co/rmoYfw6qK5",
+        "username": "rik0ring",
+        "verified": true
+      }
+    ]
+  }
+}

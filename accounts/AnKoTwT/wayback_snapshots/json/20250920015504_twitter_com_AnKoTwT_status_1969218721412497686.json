@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1969048214658482197",
+    "created_at": "2025-09-20T01:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T02:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969218721412497686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750117039497216000",
+          "start": 0,
+          "username": "lantern_shark_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969218721412497686",
+    "in_reply_to_user_id": "1750117039497216000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969048214658482197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lantern_shark_ 我喜欢你我喜欢你我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6534,
+        "height": 1280,
+        "media_key": "13_1969048138100178944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969048138100178944/img/LleFyCwv4NuJGQ59.jpg",
+        "public_metrics": {
+          "view_count": 28906
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969048138100178944/vid/avc1/320x568/ER-4iDdzNJJFo_eK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969048138100178944/vid/avc1/480x852/VCzgoGJct5lH0Az7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969048138100178944/vid/avc1/720x1280/sUUXpuyLWIO1F7FR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969048138100178944/pl/aSPwjPjF2IH5oI49.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1969048214658482197",
+        "created_at": "2025-09-20T01:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T02:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969218721412497686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750117039497216000",
+              "start": 0,
+              "username": "lantern_shark_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969218721412497686",
+        "in_reply_to_user_id": "1750117039497216000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969048214658482197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lantern_shark_ 我喜欢你我喜欢你我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969048138100178944"
+          ]
+        },
+        "author_id": "1750117039497216000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1430659526965948422",
+              "name": "Fate/kaleid liner Prisma Illya"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1430659526965948422",
+              "name": "Fate/kaleid liner Prisma Illya"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          }
+        ],
+        "conversation_id": "1969048214658482197",
+        "created_at": "2025-09-19T14:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T15:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969048214658482197"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "プリズマイリヤ"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "イリヤ"
+            },
+            {
+              "end": 30,
+              "start": 14,
+              "tag": "fatekaleidliner"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTbUpKmZj5",
+              "end": 54,
+              "expanded_url": "https://x.com/lantern_shark_/status/1969048214658482197/video/1",
+              "media_key": "13_1969048138100178944",
+              "start": 31,
+              "url": "https://t.co/cTbUpKmZj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969048214658482197",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1578,
+          "impression_count": 91815,
+          "like_count": 6112,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "#プリズマイリヤ\n#イリヤ\n#fatekaleidliner https://t.co/cTbUpKmZj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 无线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 75,
+          "like_count": 1551,
+          "listed_count": 5,
+          "media_count": 104,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T11:23:20.000Z",
+        "description": "中国人 偶尔出cos偶尔画画 cosplay/illustration ブルアカ/アズールレーン好き 成人済み",
+        "id": "1750117039497216000",
+        "name": "灯笼鲨片",
+        "pinned_tweet_id": "1873006533812142288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886478995648372736/u4R4xYhD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12544,
+          "following_count": 277,
+          "like_count": 935,
+          "listed_count": 66,
+          "media_count": 103,
+          "tweet_count": 440
+        },
+        "username": "lantern_shark_",
+        "verified": false
+      }
+    ]
+  }
+}

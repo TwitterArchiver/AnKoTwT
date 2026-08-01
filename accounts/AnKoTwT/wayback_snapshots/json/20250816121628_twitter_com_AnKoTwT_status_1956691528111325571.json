@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956400559910711301"
+      ],
+      "media_source_tweet_id": [
+        "1956400566621655511"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1956691528111325571",
+    "created_at": "2025-08-16T12:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T13:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956691528111325571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704678798816673793",
+          "start": 3,
+          "username": "PAKIRUCHANG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TCFGeFZvmu",
+          "end": 40,
+          "expanded_url": "https://x.com/PAKIRUCHANG/status/1956400566621655511/photo/1",
+          "media_key": "3_1956400559910711301",
+          "start": 17,
+          "url": "https://t.co/TCFGeFZvmu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956691528111325571",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956400566621655511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PAKIRUCHANG: https://t.co/TCFGeFZvmu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1482,
+        "media_key": "3_1956400559910711301",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyaH8ZvacAU8YV1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956400559910711301"
+          ],
+          "media_source_tweet_id": [
+            "1956400566621655511"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1956691528111325571",
+        "created_at": "2025-08-16T12:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T13:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956691528111325571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704678798816673793",
+              "start": 3,
+              "username": "PAKIRUCHANG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCFGeFZvmu",
+              "end": 40,
+              "expanded_url": "https://x.com/PAKIRUCHANG/status/1956400566621655511/photo/1",
+              "media_key": "3_1956400559910711301",
+              "start": 17,
+              "url": "https://t.co/TCFGeFZvmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956691528111325571",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956400566621655511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PAKIRUCHANG: https://t.co/TCFGeFZvmu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956400559910711301"
+          ]
+        },
+        "author_id": "1704678798816673793",
+        "conversation_id": "1956400566621655511",
+        "created_at": "2025-08-15T17:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T18:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956400566621655511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCFGeFZvmu",
+              "end": 23,
+              "expanded_url": "https://x.com/PAKIRUCHANG/status/1956400566621655511/photo/1",
+              "media_key": "3_1956400559910711301",
+              "start": 0,
+              "url": "https://t.co/TCFGeFZvmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956400566621655511",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 11086,
+          "like_count": 949,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TCFGeFZvmu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 40,
+          "like_count": 488,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 312
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T02:08:20.000Z",
+        "description": "オリキャラお絵描きマンです。依頼停止中❌詳細はこちらから→https://t.co/bpwG0yOOrM skeb停止中→ https://t.co/amJLrtih8P 連絡先→PAKIRUCHANG@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/PAKIRUCHANG",
+                "end": 52,
+                "expanded_url": "https://lit.link/PAKIRUCHANG",
+                "start": 29,
+                "url": "https://t.co/bpwG0yOOrM"
+              },
+              {
+                "display_url": "skeb.jp/@PAKIRUCHANG",
+                "end": 85,
+                "expanded_url": "https://skeb.jp/@PAKIRUCHANG",
+                "start": 62,
+                "url": "https://t.co/amJLrtih8P"
+              }
+            ]
+          }
+        },
+        "id": "1704678798816673793",
+        "location": "作業中4件",
+        "name": "猫浄土",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879087184877404160/KCgeIu3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14036,
+          "following_count": 134,
+          "like_count": 15158,
+          "listed_count": 66,
+          "media_count": 261,
+          "tweet_count": 5111
+        },
+        "username": "PAKIRUCHANG",
+        "verified": false
+      }
+    ]
+  }
+}

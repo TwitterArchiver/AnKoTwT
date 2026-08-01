@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2040815951026020393",
+    "created_at": "2026-04-05T15:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040815951026020393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ufydw/status/2…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/ufydw/status/2040642666090877192",
+          "start": 15,
+          "url": "https://t.co/B8mo2NCuec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040815951026020393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040642666090877192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直都很自卑，自卑且自負。 https://t.co/B8mo2NCuec"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2040815951026020393",
+        "created_at": "2026-04-05T15:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040815951026020393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ufydw/status/2…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ufydw/status/2040642666090877192",
+              "start": 15,
+              "url": "https://t.co/B8mo2NCuec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040815951026020393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040642666090877192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直都很自卑，自卑且自負。 https://t.co/B8mo2NCuec"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530228194699145218",
+        "conversation_id": "2040642666090877192",
+        "created_at": "2026-04-05T04:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T05:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040642666090877192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040642666090877192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想体验那种，无论怎样都不会感到自卑的人生，自信的感觉真的好棒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUzB5O Fanbox:https://t.co/7pXe2XwUpC 匿名提问箱: https://t.co/aI0OTcm1s8 角色定制/举牌私 ♡09 150/33kg 喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUzB5O"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 108,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 85,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5410,
+          "following_count": 121,
+          "like_count": 4837,
+          "listed_count": 22,
+          "media_count": 315,
+          "tweet_count": 2107
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T16:43:39.000Z",
+        "description": "瞎鸡掰玩玩",
+        "id": "1530228194699145218",
+        "name": "是个好人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803261079507836928/ie_Qg7LF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7903,
+          "following_count": 398,
+          "like_count": 15274,
+          "listed_count": 23,
+          "media_count": 118,
+          "tweet_count": 924
+        },
+        "username": "UfYdw",
+        "verified": false
+      }
+    ]
+  }
+}

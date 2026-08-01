@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051089385635086336",
+        "3_2051089385651924992",
+        "3_2051089385664430080"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051089400050888775",
+    "created_at": "2026-05-03T23:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T00:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051089400050888775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tgA9rcFFb1",
+          "end": 130,
+          "expanded_url": "https://x.com/AnKoTwT/status/2051089400050888775/photo/1",
+          "media_key": "3_2051089385635086336",
+          "start": 107,
+          "url": "https://t.co/tgA9rcFFb1"
+        },
+        {
+          "display_url": "pic.x.com/tgA9rcFFb1",
+          "end": 130,
+          "expanded_url": "https://x.com/AnKoTwT/status/2051089400050888775/photo/1",
+          "media_key": "3_2051089385651924992",
+          "start": 107,
+          "url": "https://t.co/tgA9rcFFb1"
+        },
+        {
+          "display_url": "pic.x.com/tgA9rcFFb1",
+          "end": 130,
+          "expanded_url": "https://x.com/AnKoTwT/status/2051089400050888775/photo/1",
+          "media_key": "3_2051089385664430080",
+          "start": 107,
+          "url": "https://t.co/tgA9rcFFb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051089400050888775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "捏了忍野忍，我岛上的第三个居民=ᗜωᗜ=\n小忍最可爱了！！！！我爱你一辈子啊啊啊啊啊请和我一直一直一直一直一直在一起吧。就是头发根本没合适的。画了下刘海还是感觉不对劲，原本的假发不知道为什么盖不住，好讨厌！！！！ https://t.co/tgA9rcFFb1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2051089385635086336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbu7dlagAAunRo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2051089385651924992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbu7dpbcAAPIo4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2051089385664430080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbu7dsaQAAxPqZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051089385635086336",
+            "3_2051089385651924992",
+            "3_2051089385664430080"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051089400050888775",
+        "created_at": "2026-05-03T23:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T00:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051089400050888775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tgA9rcFFb1",
+              "end": 130,
+              "expanded_url": "https://x.com/AnKoTwT/status/2051089400050888775/photo/1",
+              "media_key": "3_2051089385635086336",
+              "start": 107,
+              "url": "https://t.co/tgA9rcFFb1"
+            },
+            {
+              "display_url": "pic.x.com/tgA9rcFFb1",
+              "end": 130,
+              "expanded_url": "https://x.com/AnKoTwT/status/2051089400050888775/photo/1",
+              "media_key": "3_2051089385651924992",
+              "start": 107,
+              "url": "https://t.co/tgA9rcFFb1"
+            },
+            {
+              "display_url": "pic.x.com/tgA9rcFFb1",
+              "end": 130,
+              "expanded_url": "https://x.com/AnKoTwT/status/2051089400050888775/photo/1",
+              "media_key": "3_2051089385664430080",
+              "start": 107,
+              "url": "https://t.co/tgA9rcFFb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051089400050888775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "捏了忍野忍，我岛上的第三个居民=ᗜωᗜ=\n小忍最可爱了！！！！我爱你一辈子啊啊啊啊啊请和我一直一直一直一直一直在一起吧。就是头发根本没合适的。画了下刘海还是感觉不对劲，原本的假发不知道为什么盖不住，好讨厌！！！！ https://t.co/tgA9rcFFb1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN Fanbox :https://t.co/7pXe2XwUpC 🐾 角色定制/陪玩私♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 想要很多爱 提问箱: https://t.co/RacOPia7ig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 48,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 25,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 152,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 129,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列Q188/V520只回口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5643,
+          "following_count": 129,
+          "like_count": 5903,
+          "listed_count": 22,
+          "media_count": 383,
+          "tweet_count": 2527
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

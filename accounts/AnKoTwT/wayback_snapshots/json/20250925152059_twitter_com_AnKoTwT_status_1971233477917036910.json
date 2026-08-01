@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970814496768987136"
+      ],
+      "media_source_tweet_id": [
+        "1970814502846579042"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1971233477917036910",
+    "created_at": "2025-09-25T15:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T16:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971233477917036910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1939306919434588161",
+          "start": 3,
+          "username": "ABC__9972"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WDmXQddgAW",
+          "end": 38,
+          "expanded_url": "https://x.com/ABC__9972/status/1970814502846579042/photo/1",
+          "media_key": "3_1970814496768987136",
+          "start": 15,
+          "url": "https://t.co/WDmXQddgAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971233477917036910",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1842
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970814502846579042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ABC__9972: https://t.co/WDmXQddgAW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1097,
+        "media_key": "3_1970814496768987136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1m9V84bEAAYG6Z.jpg",
+        "width": 1951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970814496768987136"
+          ],
+          "media_source_tweet_id": [
+            "1970814502846579042"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1971233477917036910",
+        "created_at": "2025-09-25T15:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T16:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971233477917036910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1939306919434588161",
+              "start": 3,
+              "username": "ABC__9972"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDmXQddgAW",
+              "end": 38,
+              "expanded_url": "https://x.com/ABC__9972/status/1970814502846579042/photo/1",
+              "media_key": "3_1970814496768987136",
+              "start": 15,
+              "url": "https://t.co/WDmXQddgAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971233477917036910",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1842
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970814502846579042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ABC__9972: https://t.co/WDmXQddgAW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970814496768987136"
+          ]
+        },
+        "author_id": "1939306919434588161",
+        "conversation_id": "1970814502846579042",
+        "created_at": "2025-09-24T11:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T12:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970814502846579042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDmXQddgAW",
+              "end": 23,
+              "expanded_url": "https://x.com/ABC__9972/status/1970814502846579042/photo/1",
+              "media_key": "3_1970814496768987136",
+              "start": 0,
+              "url": "https://t.co/WDmXQddgAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970814502846579042",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1337,
+          "impression_count": 198776,
+          "like_count": 15814,
+          "quote_count": 55,
+          "reply_count": 4,
+          "retweet_count": 1842
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WDmXQddgAW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 77,
+          "like_count": 1711,
+          "listed_count": 5,
+          "media_count": 114,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T12:56:27.000Z",
+        "description": "@lfazcg7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "lfazcg7"
+              }
+            ]
+          }
+        },
+        "id": "1939306919434588161",
+        "name": "こまる",
+        "pinned_tweet_id": "1953783256421142671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940387106909462528/6SAqKxGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 14,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 97
+        },
+        "username": "ABC__9972",
+        "verified": false
+      }
+    ]
+  }
+}

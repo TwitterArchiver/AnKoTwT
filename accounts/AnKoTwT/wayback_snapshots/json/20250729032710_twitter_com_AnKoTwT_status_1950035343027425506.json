@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949833162332471296"
+      ],
+      "media_source_tweet_id": [
+        "1949833171081572420"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1950035343027425506",
+    "created_at": "2025-07-29T03:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T04:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950035343027425506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826266351792754688",
+          "start": 3,
+          "username": "hqcuu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h2LRnYavk3",
+          "end": 35,
+          "expanded_url": "https://x.com/hqcuu_/status/1949833171081572420/photo/1",
+          "media_key": "3_1949833162332471296",
+          "start": 12,
+          "url": "https://t.co/h2LRnYavk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950035343027425506",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949833171081572420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hqcuu_: https://t.co/h2LRnYavk3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1949833162332471296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw8y7jQagAAcCkS.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949833162332471296"
+          ],
+          "media_source_tweet_id": [
+            "1949833171081572420"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1950035343027425506",
+        "created_at": "2025-07-29T03:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T04:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950035343027425506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826266351792754688",
+              "start": 3,
+              "username": "hqcuu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2LRnYavk3",
+              "end": 35,
+              "expanded_url": "https://x.com/hqcuu_/status/1949833171081572420/photo/1",
+              "media_key": "3_1949833162332471296",
+              "start": 12,
+              "url": "https://t.co/h2LRnYavk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950035343027425506",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949833171081572420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hqcuu_: https://t.co/h2LRnYavk3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949833162332471296"
+          ]
+        },
+        "author_id": "1826266351792754688",
+        "conversation_id": "1949833171081572420",
+        "created_at": "2025-07-28T14:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T15:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949833171081572420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2LRnYavk3",
+              "end": 23,
+              "expanded_url": "https://x.com/hqcuu_/status/1949833171081572420/photo/1",
+              "media_key": "3_1949833162332471296",
+              "start": 0,
+              "url": "https://t.co/h2LRnYavk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949833171081572420",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 20410,
+          "like_count": 1154,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/h2LRnYavk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱我活在自己的世界里♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 1,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 128
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T14:33:30.000Z",
+        "description": "ᴅᴇꜱᴋꜱᴇᴛᴜᴘ / ᴘᴄ ʙᴜɪʟᴅ / ʜᴀɴᴅᴍᴀᴅᴇ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hqcu",
+                "end": 23,
+                "expanded_url": "https://lit.link/hqcu",
+                "start": 0,
+                "url": "https://t.co/bCcW9jClHl"
+              }
+            ]
+          }
+        },
+        "id": "1826266351792754688",
+        "location": "JP",
+        "name": "ᐡᴗ ᴗᶻ𝗓",
+        "pinned_tweet_id": "1943965137041600718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901637312800600064/uUktnBCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 116,
+          "like_count": 549,
+          "listed_count": 9,
+          "media_count": 48,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/bCcW9jClHl",
+        "username": "hqcuu_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956697888907767808"
+      ],
+      "media_source_tweet_id": [
+        "1956697896083927280"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1956969748484534722",
+    "created_at": "2025-08-17T06:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T07:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956969748484534722"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "金剛力也像"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683794543064530944",
+          "start": 3,
+          "username": "94Z4Woxtl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RtbsTw96kM",
+          "end": 45,
+          "expanded_url": "https://x.com/94Z4Woxtl/status/1956697896083927280/photo/1",
+          "media_key": "3_1956697888907767808",
+          "start": 22,
+          "url": "https://t.co/RtbsTw96kM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956969748484534722",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 966
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956697896083927280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @94Z4Woxtl: #金剛力也像 https://t.co/RtbsTw96kM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1795,
+        "media_key": "3_1956697888907767808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeWXOkasAA1E9L.jpg",
+        "width": 1238
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956697888907767808"
+          ],
+          "media_source_tweet_id": [
+            "1956697896083927280"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1956969748484534722",
+        "created_at": "2025-08-17T06:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T07:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956969748484534722"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "金剛力也像"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683794543064530944",
+              "start": 3,
+              "username": "94Z4Woxtl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtbsTw96kM",
+              "end": 45,
+              "expanded_url": "https://x.com/94Z4Woxtl/status/1956697896083927280/photo/1",
+              "media_key": "3_1956697888907767808",
+              "start": 22,
+              "url": "https://t.co/RtbsTw96kM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956969748484534722",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 966
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956697896083927280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @94Z4Woxtl: #金剛力也像 https://t.co/RtbsTw96kM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956697888907767808"
+          ]
+        },
+        "author_id": "1683794543064530944",
+        "conversation_id": "1956697896083927280",
+        "created_at": "2025-08-16T12:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T13:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956697896083927280"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "金剛力也像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtbsTw96kM",
+              "end": 30,
+              "expanded_url": "https://x.com/94Z4Woxtl/status/1956697896083927280/photo/1",
+              "media_key": "3_1956697888907767808",
+              "start": 7,
+              "url": "https://t.co/RtbsTw96kM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956697896083927280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 995,
+          "impression_count": 122390,
+          "like_count": 11422,
+          "quote_count": 17,
+          "reply_count": 0,
+          "retweet_count": 966
+        },
+        "reply_settings": "everyone",
+        "text": "#金剛力也像 https://t.co/RtbsTw96kM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 41,
+          "like_count": 570,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 326
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T11:01:34.000Z",
+        "description": "うぇぶぼ▶︎ https://t.co/ieQgelENPp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/2fv59nch4…",
+                "end": 30,
+                "expanded_url": "https://wavebox.me/wave/2fv59nch4xqwqp2y/",
+                "start": 7,
+                "url": "https://t.co/ieQgelENPp"
+              }
+            ]
+          }
+        },
+        "id": "1683794543064530944",
+        "name": "おみそすする",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724006378891804672/J-T5o0hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5216,
+          "following_count": 101,
+          "like_count": 4171,
+          "listed_count": 35,
+          "media_count": 30,
+          "tweet_count": 69
+        },
+        "username": "94Z4Woxtl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1967135020101103992",
+    "created_at": "2025-09-14T08:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T09:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967137868004176184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "764385193348083712",
+          "start": 0,
+          "username": "00IRIYA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967137868004176184",
+    "in_reply_to_user_id": "764385193348083712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967136229709033978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@00IRIYA00 这里空气确实很好，很适合散步( ˘•ω•˘ )哎但我好想快点回家拆快递，快递特别多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1967135020101103992",
+        "created_at": "2025-09-14T08:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T09:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967137868004176184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "764385193348083712",
+              "start": 0,
+              "username": "00IRIYA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967137868004176184",
+        "in_reply_to_user_id": "764385193348083712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967136229709033978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@00IRIYA00 这里空气确实很好，很适合散步( ˘•ω•˘ )哎但我好想快点回家拆快递，快递特别多。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "764385193348083712",
+        "conversation_id": "1967135020101103992",
+        "created_at": "2025-09-14T07:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T08:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967136229709033978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967136229709033978",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967135020101103992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 請不要難過，在放鬆心情一天，呼吸新鮮空氣，明天就快快樂樂回家(⁠⊃⁠｡⁠•́⁠‿⁠•̀⁠｡⁠)⁠⊃❤️❤️\n　^  ＿  ^\n（´・ω・)つ ＿ ^\n（つ　 /(・ω・。)\n  しーＪ　(nnノ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚匿名提问箱https://t.co/aI0OTcm1s8 👾09 155/31kg    接角色委托",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 68,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 45,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 71,
+          "like_count": 1410,
+          "listed_count": 5,
+          "media_count": 92,
+          "tweet_count": 608
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-13T08:56:46.000Z",
+        "description": "",
+        "id": "764385193348083712",
+        "location": "台灣",
+        "name": "魂魄夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870067567177691136/2IMGRKKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 168,
+          "like_count": 141519,
+          "listed_count": 9,
+          "media_count": 676,
+          "tweet_count": 51422
+        },
+        "username": "00IRIYA00",
+        "verified": false
+      }
+    ]
+  }
+}

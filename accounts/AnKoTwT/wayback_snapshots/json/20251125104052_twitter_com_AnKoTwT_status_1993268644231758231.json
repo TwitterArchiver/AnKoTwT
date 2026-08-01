@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992915492601004032"
+      ],
+      "media_source_tweet_id": [
+        "1992915497923543106"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1993268644231758231",
+    "created_at": "2025-11-25T10:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993268644231758231"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 16,
+          "tag": "三連休はフォロワーさんが増えるらしい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1124851446124388352",
+          "start": 3,
+          "username": "abcdeaabcz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MCcL5vRvaB",
+          "end": 75,
+          "expanded_url": "https://x.com/abcdeaabcz/status/1992915497923543106/photo/1",
+          "media_key": "3_1992915492601004032",
+          "start": 52,
+          "url": "https://t.co/MCcL5vRvaB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993268644231758231",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 301
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992915497923543106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abcdeaabcz: #三連休はフォロワーさんが増えるらしい \n白い女の子をよく描いてます! https://t.co/MCcL5vRvaB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992915492601004032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hCFOPbAAAZ5ij.jpg",
+        "width": 1292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992915492601004032"
+          ],
+          "media_source_tweet_id": [
+            "1992915497923543106"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993268644231758231",
+        "created_at": "2025-11-25T10:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993268644231758231"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 16,
+              "tag": "三連休はフォロワーさんが増えるらしい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1124851446124388352",
+              "start": 3,
+              "username": "abcdeaabcz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCcL5vRvaB",
+              "end": 75,
+              "expanded_url": "https://x.com/abcdeaabcz/status/1992915497923543106/photo/1",
+              "media_key": "3_1992915492601004032",
+              "start": 52,
+              "url": "https://t.co/MCcL5vRvaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993268644231758231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 301
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992915497923543106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abcdeaabcz: #三連休はフォロワーさんが増えるらしい \n白い女の子をよく描いてます! https://t.co/MCcL5vRvaB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992915492601004032"
+          ]
+        },
+        "author_id": "1124851446124388352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992915497923543106",
+        "created_at": "2025-11-24T11:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T12:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992915497923543106"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "三連休はフォロワーさんが増えるらしい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCcL5vRvaB",
+              "end": 59,
+              "expanded_url": "https://x.com/abcdeaabcz/status/1992915497923543106/photo/1",
+              "media_key": "3_1992915492601004032",
+              "start": 36,
+              "url": "https://t.co/MCcL5vRvaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992915497923543106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 371,
+          "impression_count": 50429,
+          "like_count": 3348,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 301
+        },
+        "reply_settings": "everyone",
+        "text": "#三連休はフォロワーさんが増えるらしい \n白い女の子をよく描いてます! https://t.co/MCcL5vRvaB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱:https://t.co/RacOPi9zsI ↓hedao ♡150/33kg 喜欢我就多支持我吧 钱能让我幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPi9zsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3802,
+          "following_count": 89,
+          "like_count": 3103,
+          "listed_count": 21,
+          "media_count": 193,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-05T01:40:58.000Z",
+        "description": "フリーのイラストレーターです。可愛い女の子が好き！ご依頼✉️ ▷ abcdeaabcz@gmail.com (現在企業様のご依頼をお引き受けしています) | サブ ▷ @abcdeaabcz2 | @AstralVliver 代表 | 京都芸術大学非常勤講師",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "abcdeaabcz2"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "AstralVliver"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2083821",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/2083821",
+                "start": 0,
+                "url": "https://t.co/BWB9Tfhjaj"
+              }
+            ]
+          }
+        },
+        "id": "1124851446124388352",
+        "location": "お仕事のイラストはハイライトにて…　×AI学習禁止×",
+        "name": "ゆぅ🐩",
+        "pinned_tweet_id": "1918973438867169592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961032986146779136/BLnwYc8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89075,
+          "following_count": 765,
+          "like_count": 25223,
+          "listed_count": 709,
+          "media_count": 237,
+          "tweet_count": 16750
+        },
+        "url": "https://t.co/BWB9Tfhjaj",
+        "username": "abcdeaabcz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1976317459314639132",
+    "created_at": "2025-10-09T16:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T17:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976318049327452388"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1976318049327452388",
+    "in_reply_to_user_id": "1934978221470277632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976317459314639132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后面我出去集训了，对他也没感觉了，他来找我说现在还愿意和他在一起吗，但明明当时我追了他蛮久，都不松口，满口都是什么未来，前途什么的，现在才想起我来，未免也太搞笑了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1976317459314639132",
+        "created_at": "2025-10-09T16:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T17:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976318049327452388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976318049327452388",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976317459314639132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后面我出去集训了，对他也没感觉了，他来找我说现在还愿意和他在一起吗，但明明当时我追了他蛮久，都不松口，满口都是什么未来，前途什么的，现在才想起我来，未免也太搞笑了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1976317459314639132",
+        "created_at": "2025-10-09T16:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T17:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976317459314639132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976317459314639132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得第一次喜欢的人才算是初恋，虽然我们没在一起，我记得他成绩特别好，总是年级前几，还教我学习，给我做笔记，对我特别好，而且也是我主动去追他的，老是给他写小纸条，上面写着各种各样的逗他。但他觉得学习和前途最重要，现在想起来感觉这人挺成熟的，想得还蛮久远，而我应该也只是一时新鲜感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡09  155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 81,
+          "like_count": 1896,
+          "listed_count": 13,
+          "media_count": 133,
+          "tweet_count": 857
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

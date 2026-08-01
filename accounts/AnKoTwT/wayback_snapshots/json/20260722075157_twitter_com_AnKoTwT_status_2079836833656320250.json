@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2079836833656320250",
+    "created_at": "2026-07-22T07:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079836833656320250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xx10neko/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xx10neko/status/2079823854248288586",
+          "start": 9,
+          "url": "https://t.co/bMPcm4oHPO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079836833656320250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079823854248288586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢这个小黄瓜 https://t.co/bMPcm4oHPO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079823843154354176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0ExBaaYAAnqSr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2079836833656320250",
+        "created_at": "2026-07-22T07:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079836833656320250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xx10neko/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xx10neko/status/2079823854248288586",
+              "start": 9,
+              "url": "https://t.co/bMPcm4oHPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079836833656320250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079823854248288586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢这个小黄瓜 https://t.co/bMPcm4oHPO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079823843154354176"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "conversation_id": "2079823854248288586",
+        "created_at": "2026-07-22T07:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079823854248288586"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "Avemujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NB0HAgXTZI",
+              "end": 34,
+              "expanded_url": "https://x.com/xx10Neko/status/2079823854248288586/photo/1",
+              "media_key": "3_2079823843154354176",
+              "start": 11,
+              "url": "https://t.co/NB0HAgXTZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079823854248288586",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 535,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "#Avemujica https://t.co/NB0HAgXTZI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾提问箱: https://t.co/aI0OTcm1s8 🐾150/33kg🐾无感情纯拷打萝莉Sss 我有很严重的恋狗癖🦮爱我请多多支持我吧♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 77,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 54,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188/300/520/1314  纯绿无线下🐈‍⬛",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5722,
+          "following_count": 151,
+          "like_count": 7070,
+          "listed_count": 19,
+          "media_count": 493,
+          "tweet_count": 3094
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『 🐾 』✧ Thank you for your love ✧ DM → @AnKoTwT Fanbox ：https://t.co/H8ldNw6RJ3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "AnKoTwT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://uwuneko.fanbox.cc",
+                "start": 55,
+                "url": "https://t.co/H8ldNw6RJ3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/oS5nE5tp1e"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "✟",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1934226982163939371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20770,
+          "following_count": 7,
+          "like_count": 2404,
+          "listed_count": 101,
+          "media_count": 112,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/oS5nE5tp1e",
+        "username": "xx10Neko",
+        "verified": true
+      }
+    ]
+  }
+}

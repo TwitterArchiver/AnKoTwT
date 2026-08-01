@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1956192838640918671",
+    "created_at": "2025-08-15T03:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T04:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956192838640918671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shuuukifan1gou…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/shuuukifan1gou/status/1955937178468671985",
+          "start": 11,
+          "url": "https://t.co/74Sd9YUV3W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956192838640918671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955937178468671985",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的好喜欢这种感觉 https://t.co/74Sd9YUV3W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2028,
+        "media_key": "3_1955937152061333507",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyTieg-a4AMhmmO.jpg",
+        "width": 1521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1956192838640918671",
+        "created_at": "2025-08-15T03:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T04:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956192838640918671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuuukifan1gou…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/shuuukifan1gou/status/1955937178468671985",
+              "start": 11,
+              "url": "https://t.co/74Sd9YUV3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956192838640918671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955937178468671985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的好喜欢这种感觉 https://t.co/74Sd9YUV3W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955937152061333507"
+          ]
+        },
+        "author_id": "1847392653547327488",
+        "conversation_id": "1955937178468671985",
+        "created_at": "2025-08-14T10:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955937178468671985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSA8wUgZhf",
+              "end": 45,
+              "expanded_url": "https://x.com/shuuukifan1gou/status/1955937178468671985/photo/1",
+              "media_key": "3_1955937152061333507",
+              "start": 22,
+              "url": "https://t.co/pSA8wUgZhf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955937178468671985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1155,
+          "impression_count": 95141,
+          "like_count": 5336,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "えっくすさいきん厳しいからただのせーふく！ https://t.co/pSA8wUgZhf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱美少女重度依赖♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 37,
+          "like_count": 476,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 294
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T21:42:05.000Z",
+        "description": "あっちであげれなかったやつあげていきます /コスプレ/アイドルVTuberかわいい子すっき",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pont.co/u/shishuki",
+                "end": 23,
+                "expanded_url": "https://pont.co/u/shishuki",
+                "start": 0,
+                "url": "https://t.co/vrlM9vtJUt"
+              }
+            ]
+          }
+        },
+        "id": "1847392653547327488",
+        "name": "ししゅき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847393456836300800/ff8E2Lsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8771,
+          "following_count": 35,
+          "like_count": 54,
+          "listed_count": 25,
+          "media_count": 1,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/vrlM9vtJUt",
+        "username": "shuuukifan1gou",
+        "verified": false
+      }
+    ]
+  }
+}

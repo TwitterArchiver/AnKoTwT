@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042937881338257408"
+      ],
+      "media_source_tweet_id": [
+        "2042937888455954674"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2042981732639822232",
+    "created_at": "2026-04-11T15:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042981732639822232"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 43,
+          "tag": "majoh"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1842096170107338754",
+          "start": 3,
+          "username": "hotjellyfishnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lZlWHFk92A",
+          "end": 73,
+          "expanded_url": "https://x.com/hotjellyfishnya/status/2042937888455954674/photo/1",
+          "media_key": "3_2042937881338257408",
+          "start": 50,
+          "url": "https://t.co/lZlWHFk92A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042981732639822232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042937888455954674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hotjellyfishnya: 搭配天才来的\n不说谁知道这个拖尾是我自搭的\n#majoh https://t.co/lZlWHFk92A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042937881338257408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFn5LdtbIAAazgB.jpg",
+        "width": 1490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042937881338257408"
+          ],
+          "media_source_tweet_id": [
+            "2042937888455954674"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2042981732639822232",
+        "created_at": "2026-04-11T15:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042981732639822232"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 43,
+              "tag": "majoh"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1842096170107338754",
+              "start": 3,
+              "username": "hotjellyfishnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZlWHFk92A",
+              "end": 73,
+              "expanded_url": "https://x.com/hotjellyfishnya/status/2042937888455954674/photo/1",
+              "media_key": "3_2042937881338257408",
+              "start": 50,
+              "url": "https://t.co/lZlWHFk92A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042981732639822232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042937888455954674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hotjellyfishnya: 搭配天才来的\n不说谁知道这个拖尾是我自搭的\n#majoh https://t.co/lZlWHFk92A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042937881338257408"
+          ]
+        },
+        "author_id": "1842096170107338754",
+        "conversation_id": "2042937888455954674",
+        "created_at": "2026-04-11T12:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042937888455954674"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "majoh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZlWHFk92A",
+              "end": 52,
+              "expanded_url": "https://x.com/hotjellyfishnya/status/2042937888455954674/photo/1",
+              "media_key": "3_2042937881338257408",
+              "start": 29,
+              "url": "https://t.co/lZlWHFk92A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042937888455954674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 397,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "搭配天才来的\n不说谁知道这个拖尾是我自搭的\n#majoh https://t.co/lZlWHFk92A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色举牌/定制/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5339,
+          "following_count": 122,
+          "like_count": 5048,
+          "listed_count": 22,
+          "media_count": 326,
+          "tweet_count": 2209
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T06:55:47.000Z",
+        "description": "喜欢温柔礼貌的小宅宅\n172/47日留\n中文 | 日本語 | English",
+        "id": "1842096170107338754",
+        "location": "🚪200图包/520聊天 只想攒钱考研 私信废话多拉黑",
+        "name": "火热的小水母",
+        "pinned_tweet_id": "2023305373076390398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995700593068048388/U6hsaGrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7030,
+          "following_count": 318,
+          "like_count": 1101,
+          "listed_count": 28,
+          "media_count": 99,
+          "tweet_count": 288
+        },
+        "username": "hotjellyfishnya",
+        "verified": false
+      }
+    ]
+  }
+}

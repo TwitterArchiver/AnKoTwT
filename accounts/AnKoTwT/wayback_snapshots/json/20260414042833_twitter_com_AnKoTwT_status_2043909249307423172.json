@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043433538746286080"
+      ],
+      "media_source_tweet_id": [
+        "2043433543250878852"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043909249307423172",
+    "created_at": "2026-04-14T04:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043909249307423172"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 43,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027543101120909313",
+          "start": 3,
+          "username": "egomaiid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VBOYlf8VCu",
+          "end": 94,
+          "expanded_url": "https://x.com/egomaiid/status/2043433543250878852/photo/1",
+          "media_key": "3_2043433538746286080",
+          "start": 71,
+          "url": "https://t.co/VBOYlf8VCu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043909249307423172",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 182
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043433543250878852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @egomaiid: ♡⸝⸝ setup reveal ୨୧ ⠂⠂\n˚₊‧꒰ა #NEEDY_GIRL_OVERDOSE ໒꒱ ‧₊˚ https://t.co/VBOYlf8VCu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1613,
+        "media_key": "3_2043433538746286080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFu7-hcXgAAxDbi.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043433538746286080"
+          ],
+          "media_source_tweet_id": [
+            "2043433543250878852"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043909249307423172",
+        "created_at": "2026-04-14T04:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043909249307423172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 43,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027543101120909313",
+              "start": 3,
+              "username": "egomaiid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VBOYlf8VCu",
+              "end": 94,
+              "expanded_url": "https://x.com/egomaiid/status/2043433543250878852/photo/1",
+              "media_key": "3_2043433538746286080",
+              "start": 71,
+              "url": "https://t.co/VBOYlf8VCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043909249307423172",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043433543250878852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @egomaiid: ♡⸝⸝ setup reveal ୨୧ ⠂⠂\n˚₊‧꒰ა #NEEDY_GIRL_OVERDOSE ໒꒱ ‧₊˚ https://t.co/VBOYlf8VCu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043433538746286080"
+          ]
+        },
+        "author_id": "2027543101120909313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043433543250878852",
+        "created_at": "2026-04-12T20:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T21:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043433543250878852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 29,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VBOYlf8VCu",
+              "end": 80,
+              "expanded_url": "https://x.com/egomaiid/status/2043433543250878852/photo/1",
+              "media_key": "3_2043433538746286080",
+              "start": 57,
+              "url": "https://t.co/VBOYlf8VCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043433543250878852",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 12289,
+          "like_count": 1788,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "♡⸝⸝ setup reveal ୨୧ ⠂⠂\n˚₊‧꒰ა #NEEDY_GIRL_OVERDOSE ໒꒱ ‧₊˚ https://t.co/VBOYlf8VCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色委托/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5351,
+          "following_count": 121,
+          "like_count": 5119,
+          "listed_count": 22,
+          "media_count": 332,
+          "tweet_count": 2257
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T00:35:38.000Z",
+        "description": "⋆.𐙚 𝒊𝒏𝒕𝒆𝒓𝒏𝒆𝒕 𝒂𝒏𝒈𝒆𝒍\n\n↪ art shop",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "acggoods.com/store/egomaid",
+                "end": 23,
+                "expanded_url": "https://acggoods.com/store/egomaid",
+                "start": 0,
+                "url": "https://t.co/lcMRlifsMj"
+              }
+            ]
+          }
+        },
+        "id": "2027543101120909313",
+        "name": "꒰ა egomaid | NGO SALE IN BIO 🎀",
+        "pinned_tweet_id": "2043011863160541413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038273261130162176/8rESeLnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 105,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/lcMRlifsMj",
+        "username": "egomaiid",
+        "verified": false
+      }
+    ]
+  }
+}

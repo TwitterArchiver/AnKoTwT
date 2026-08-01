@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1949341677887336754",
+    "created_at": "2025-07-27T05:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T06:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949341677887336754"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949341677887336754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呵呵，这个月简直是我最勤快的一个月，我每天都在搓假毛和做衣服，从未如此勤勉我的天，简直感动到落泪，就为了赚点衣服钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1949341677887336754",
+        "created_at": "2025-07-27T05:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T06:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949341677887336754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949341677887336754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵，这个月简直是我最勤快的一个月，我每天都在搓假毛和做衣服，从未如此勤勉我的天，简直感动到落泪，就为了赚点衣服钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱我活在自己的世界里♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "天国໒꒰ྀིㅇㅁㅇ꒱ྀི১",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949095635065741603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949096018278248448/0sjN4vPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 1,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 100
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

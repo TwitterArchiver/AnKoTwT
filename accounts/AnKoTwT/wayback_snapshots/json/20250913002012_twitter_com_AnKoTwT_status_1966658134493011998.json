@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1966658134493011998",
+    "created_at": "2025-09-13T00:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T01:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966658134493011998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ankotwt/status…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/ankotwt/status/1966641898971332910",
+          "start": 32,
+          "url": "https://t.co/L8y1kD41FN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966658134493011998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966641898971332910",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊补充一下，还有要乐奈的。最近东西买太多了，差点没想起来。 https://t.co/L8y1kD41FN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966641891140923396",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0rqYVnbcAQWu4o.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1966658134493011998",
+        "created_at": "2025-09-13T00:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T01:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966658134493011998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ankotwt/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/ankotwt/status/1966641898971332910",
+              "start": 32,
+              "url": "https://t.co/L8y1kD41FN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966658134493011998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966641898971332910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊补充一下，还有要乐奈的。最近东西买太多了，差点没想起来。 https://t.co/L8y1kD41FN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966641891140923396"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1966641898971332910",
+        "created_at": "2025-09-12T23:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T00:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966641898971332910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMDXDOBZ9A",
+              "end": 63,
+              "expanded_url": "https://x.com/AnKoTwT/status/1966641898971332910/photo/1",
+              "media_key": "3_1966641891140923396",
+              "start": 40,
+              "url": "https://t.co/FMDXDOBZ9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966641898971332910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又有cos灵感了，到时候拍点照片or视频，目前手上有睦，soyo，祥子假发。 https://t.co/FMDXDOBZ9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚提问箱https://t.co/aI0OTcm1s8 👾重度网瘾宅 欢迎女孩子扩列🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 43,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966626659660165120/crmIFmDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 70,
+          "like_count": 1357,
+          "listed_count": 5,
+          "media_count": 91,
+          "tweet_count": 590
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

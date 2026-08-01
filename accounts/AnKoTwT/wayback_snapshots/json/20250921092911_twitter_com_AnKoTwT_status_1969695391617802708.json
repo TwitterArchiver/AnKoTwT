@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969689499728048128"
+      ],
+      "media_source_tweet_id": [
+        "1969689508258992625"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1969695391617802708",
+    "created_at": "2025-09-21T09:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T10:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969695391617802708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1869385835403177984",
+          "start": 3,
+          "username": "chucruimuny"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OEwDufKQYC",
+          "end": 40,
+          "expanded_url": "https://x.com/chucruimuny/status/1969689508258992625/photo/1",
+          "media_key": "3_1969689499728048128",
+          "start": 17,
+          "url": "https://t.co/OEwDufKQYC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969695391617802708",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969689508258992625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @chucruimuny: https://t.co/OEwDufKQYC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_1969689499728048128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1W-KgUbcAAkCXv.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969689499728048128"
+          ],
+          "media_source_tweet_id": [
+            "1969689508258992625"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1969695391617802708",
+        "created_at": "2025-09-21T09:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T10:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969695391617802708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1869385835403177984",
+              "start": 3,
+              "username": "chucruimuny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OEwDufKQYC",
+              "end": 40,
+              "expanded_url": "https://x.com/chucruimuny/status/1969689508258992625/photo/1",
+              "media_key": "3_1969689499728048128",
+              "start": 17,
+              "url": "https://t.co/OEwDufKQYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969695391617802708",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969689508258992625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @chucruimuny: https://t.co/OEwDufKQYC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969689499728048128"
+          ]
+        },
+        "author_id": "1869385835403177984",
+        "conversation_id": "1969689508258992625",
+        "created_at": "2025-09-21T09:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T10:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969689508258992625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OEwDufKQYC",
+              "end": 23,
+              "expanded_url": "https://x.com/chucruimuny/status/1969689508258992625/photo/1",
+              "media_key": "3_1969689499728048128",
+              "start": 0,
+              "url": "https://t.co/OEwDufKQYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969689508258992625",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 136,
+          "like_count": 15,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/OEwDufKQYC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 无线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 75,
+          "like_count": 1561,
+          "listed_count": 5,
+          "media_count": 105,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T14:14:58.000Z",
+        "description": "",
+        "id": "1869385835403177984",
+        "location": "17",
+        "name": "ֶָ֢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955940502311968768/hmVhwGnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 13,
+          "like_count": 267,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 58
+        },
+        "username": "chucruimuny",
+        "verified": false
+      }
+    ]
+  }
+}

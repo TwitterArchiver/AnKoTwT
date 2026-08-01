@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1987477516282708450",
+    "created_at": "2025-11-09T16:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T17:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987554351058223208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673483271299301376",
+          "start": 0,
+          "username": "cocoyoutoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987554351058223208",
+    "in_reply_to_user_id": "1673483271299301376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987491251546116468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cocoyoutoo 借你吉言♪(^∇^*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1987477516282708450",
+        "created_at": "2025-11-09T16:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T17:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987554351058223208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673483271299301376",
+              "start": 0,
+              "username": "cocoyoutoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987554351058223208",
+        "in_reply_to_user_id": "1673483271299301376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987491251546116468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cocoyoutoo 借你吉言♪(^∇^*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673483271299301376",
+        "conversation_id": "1987477516282708450",
+        "created_at": "2025-11-09T12:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987491251546116468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987491251546116468",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 379,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987477516282708450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 会越来越好的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUzB5O Fanbox:https://t.co/7pXe2XwUpC 提问箱:https://t.co/RacOPia7ig ↓hedao ♡150/33kg 喜欢我就多支持我吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUzB5O"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987053673621618688/app4HbBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3721,
+          "following_count": 86,
+          "like_count": 2755,
+          "listed_count": 20,
+          "media_count": 177,
+          "tweet_count": 1155
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T00:08:12.000Z",
+        "description": "フォローしてくれてありがと 🎀 @qiqichidanta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "qiqichidanta"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/kekexinsuiban",
+                "end": 23,
+                "expanded_url": "http://patreon.com/kekexinsuiban",
+                "start": 0,
+                "url": "https://t.co/gutLuiZLkV"
+              }
+            ]
+          }
+        },
+        "id": "1673483271299301376",
+        "name": "coco",
+        "pinned_tweet_id": "1782442832789451217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907554524094672897/r3mx2934_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35718,
+          "following_count": 95,
+          "like_count": 9686,
+          "listed_count": 132,
+          "media_count": 178,
+          "tweet_count": 931
+        },
+        "url": "https://t.co/gutLuiZLkV",
+        "username": "cocoyoutoo",
+        "verified": true
+      }
+    ]
+  }
+}

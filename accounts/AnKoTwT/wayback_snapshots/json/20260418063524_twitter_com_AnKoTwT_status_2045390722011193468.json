@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2045390722011193468",
+    "created_at": "2026-04-18T06:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045390722011193468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiumianqi/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xiumianqi/status/2045368870408798235",
+          "start": 5,
+          "url": "https://t.co/uampgZigHq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045390722011193468",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045368870408798235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢死了 https://t.co/uampgZigHq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045368861948784640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKcJKMaMAAcPId.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045368861940387840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKcJKKaEAAn4t7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2045368861944659968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKcJKLbQAA8Deb.jpg",
+        "width": 1440
+      },
+      {
+        "height": 817,
+        "media_key": "3_2045368861990756353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKcJKWaoAEmUKx.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2045390722011193468",
+        "created_at": "2026-04-18T06:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045390722011193468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiumianqi/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xiumianqi/status/2045368870408798235",
+              "start": 5,
+              "url": "https://t.co/uampgZigHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045390722011193468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045368870408798235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢死了 https://t.co/uampgZigHq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045368861948784640",
+            "3_2045368861940387840",
+            "3_2045368861944659968",
+            "3_2045368861990756353"
+          ]
+        },
+        "author_id": "1546369501503135744",
+        "conversation_id": "2045368870408798235",
+        "created_at": "2026-04-18T05:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045368870408798235"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 8,
+              "tag": "umineko"
+            },
+            {
+              "end": 29,
+              "start": 17,
+              "tag": "erikafurudo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NODtBZTIMI",
+              "end": 53,
+              "expanded_url": "https://x.com/xiumianqi/status/2045368870408798235/photo/1",
+              "media_key": "3_2045368861948784640",
+              "start": 30,
+              "url": "https://t.co/NODtBZTIMI"
+            },
+            {
+              "display_url": "pic.x.com/NODtBZTIMI",
+              "end": 53,
+              "expanded_url": "https://x.com/xiumianqi/status/2045368870408798235/photo/1",
+              "media_key": "3_2045368861940387840",
+              "start": 30,
+              "url": "https://t.co/NODtBZTIMI"
+            },
+            {
+              "display_url": "pic.x.com/NODtBZTIMI",
+              "end": 53,
+              "expanded_url": "https://x.com/xiumianqi/status/2045368870408798235/photo/1",
+              "media_key": "3_2045368861944659968",
+              "start": 30,
+              "url": "https://t.co/NODtBZTIMI"
+            },
+            {
+              "display_url": "pic.x.com/NODtBZTIMI",
+              "end": 53,
+              "expanded_url": "https://x.com/xiumianqi/status/2045368870408798235/photo/1",
+              "media_key": "3_2045368861990756353",
+              "start": 30,
+              "url": "https://t.co/NODtBZTIMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045368870408798235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 150,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "知性的侦探小姐\n#umineko #erikafurudo https://t.co/NODtBZTIMI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛哔站: https://t.co/byvGyl9ykQ Fanbox :https://t.co/7pXe2XwUpC 🐾提问箱: https://t.co/aI0OTcm1s8 🐾角色委托/陪玩私♡09 150/33kg喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/8DB6wjN",
+                "end": 48,
+                "expanded_url": "https://b23.tv/8DB6wjN",
+                "start": 25,
+                "url": "https://t.co/byvGyl9ykQ"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 80,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 57,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 110,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 87,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5404,
+          "following_count": 122,
+          "like_count": 5278,
+          "listed_count": 20,
+          "media_count": 341,
+          "tweet_count": 2313
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T05:43:39.000Z",
+        "description": "",
+        "id": "1546369501503135744",
+        "name": "7xmq7",
+        "pinned_tweet_id": "2025133673130184754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006698954671411200/AiMud0bn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 81,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 97
+        },
+        "username": "xiumianqi",
+        "verified": false
+      }
+    ]
+  }
+}

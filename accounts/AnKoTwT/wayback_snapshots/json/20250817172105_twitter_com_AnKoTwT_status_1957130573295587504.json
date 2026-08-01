@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1850526782099005441"
+      ],
+      "media_source_tweet_id": [
+        "1850526787471847749"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1957130573295587504",
+    "created_at": "2025-08-17T17:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T18:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957130573295587504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721382620964233216",
+          "start": 3,
+          "username": "ebiri_q"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ScUTf12UP",
+          "end": 49,
+          "expanded_url": "https://x.com/ebiri_q/status/1850526787471847749/photo/1",
+          "media_key": "3_1850526782099005441",
+          "start": 26,
+          "url": "https://t.co/1ScUTf12UP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957130573295587504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 674
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850526787471847749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ebiri_q: 私を置いて、行かないで。 https://t.co/1ScUTf12UP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1850526782099005441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga5kTcZboAEyktf.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850526782099005441"
+          ],
+          "media_source_tweet_id": [
+            "1850526787471847749"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1957130573295587504",
+        "created_at": "2025-08-17T17:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T18:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957130573295587504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721382620964233216",
+              "start": 3,
+              "username": "ebiri_q"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ScUTf12UP",
+              "end": 49,
+              "expanded_url": "https://x.com/ebiri_q/status/1850526787471847749/photo/1",
+              "media_key": "3_1850526782099005441",
+              "start": 26,
+              "url": "https://t.co/1ScUTf12UP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957130573295587504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 674
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850526787471847749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ebiri_q: 私を置いて、行かないで。 https://t.co/1ScUTf12UP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850526782099005441"
+          ]
+        },
+        "author_id": "1721382620964233216",
+        "conversation_id": "1850526787471847749",
+        "created_at": "2024-10-27T13:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T14:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850526787471847749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ScUTf12UP",
+              "end": 36,
+              "expanded_url": "https://x.com/ebiri_q/status/1850526787471847749/photo/1",
+              "media_key": "3_1850526782099005441",
+              "start": 13,
+              "url": "https://t.co/1ScUTf12UP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850526787471847749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1017,
+          "impression_count": 533923,
+          "like_count": 13776,
+          "quote_count": 42,
+          "reply_count": 24,
+          "retweet_count": 674
+        },
+        "reply_settings": "everyone",
+        "text": "私を置いて、行かないで。 https://t.co/1ScUTf12UP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "美少女重度依赖 @xx10Neko   // 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 49,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 26,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956116534868545536/QBQ7DaYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 41,
+          "like_count": 630,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 330
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:23:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/ebina_tyan",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/ebina_tyan",
+                "start": 0,
+                "url": "https://t.co/MXGcQCQiNk"
+              }
+            ]
+          }
+        },
+        "id": "1721382620964233216",
+        "name": "脳死",
+        "pinned_tweet_id": "1850526787471847749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817599667812859904/H42b8qUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9720,
+          "following_count": 68,
+          "like_count": 1425,
+          "listed_count": 24,
+          "media_count": 57,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/MXGcQCQiNk",
+        "username": "ebiri_q",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2078851296300581162",
+    "created_at": "2026-07-19T14:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078851296300581162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247769753097101318",
+          "start": 3,
+          "username": "X09COTCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078851296300581162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078471318757072899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X09COTCC: 我不吸毒，没有在青少年时期怀孕，小时候没有惹麻烦，我是一个好孩子，好好学习，成绩优异，即便如此，我还是疯了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2078851296300581162",
+        "created_at": "2026-07-19T14:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078851296300581162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247769753097101318",
+              "start": 3,
+              "username": "X09COTCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078851296300581162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078471318757072899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @X09COTCC: 我不吸毒，没有在青少年时期怀孕，小时候没有惹麻烦，我是一个好孩子，好好学习，成绩优异，即便如此，我还是疯了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247769753097101318",
+        "conversation_id": "2078471318757072899",
+        "created_at": "2026-07-18T13:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078471318757072899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078471318757072899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11974,
+          "like_count": 361,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我不吸毒，没有在青少年时期怀孕，小时候没有惹麻烦，我是一个好孩子，好好学习，成绩优异，即便如此，我还是疯了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾钱性恋 喜欢我就给我打钱 提问箱: https://t.co/aI0OTcm1s8 🐾150/33kg 接角色委托/陪丸 我有很严重的恋狗癖🦮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 90,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 67,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "🫧300/520/1314  纯绿不约不卖无线下🐈‍⬛",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5704,
+          "following_count": 147,
+          "like_count": 6977,
+          "listed_count": 19,
+          "media_count": 488,
+          "tweet_count": 3073
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T06:15:29.000Z",
+        "description": "I STRAY JUST LIKE A DOG ADDICTED TO THAT HEAVY FUCKING",
+        "id": "1247769753097101318",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "太阳瓜",
+        "pinned_tweet_id": "1842967681949106335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071191146970353665/GxgeGKiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8084,
+          "following_count": 1961,
+          "like_count": 180403,
+          "listed_count": 23,
+          "media_count": 1473,
+          "tweet_count": 50673
+        },
+        "url": "",
+        "username": "X09COTCC",
+        "verified": false
+      }
+    ]
+  }
+}

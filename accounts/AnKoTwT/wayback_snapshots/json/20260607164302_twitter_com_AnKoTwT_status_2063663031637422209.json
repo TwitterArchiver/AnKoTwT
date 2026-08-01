@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2063663031637422209",
+    "created_at": "2026-06-07T16:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063663031637422209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tenshichizumi/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/tenshichizumi/status/2063523269106717138",
+          "start": 3,
+          "url": "https://t.co/Jxkz0WSp5h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063663031637422209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063523269106717138",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "喜欢 https://t.co/Jxkz0WSp5h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063523255798132736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMbd9ea8AAL4L6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2063663031637422209",
+        "created_at": "2026-06-07T16:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063663031637422209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tenshichizumi/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/tenshichizumi/status/2063523269106717138",
+              "start": 3,
+              "url": "https://t.co/Jxkz0WSp5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063663031637422209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063523269106717138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "喜欢 https://t.co/Jxkz0WSp5h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063523255798132736"
+          ]
+        },
+        "author_id": "1644243488110936064",
+        "conversation_id": "2063523269106717138",
+        "created_at": "2026-06-07T07:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063523269106717138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ihTzIw3yq",
+              "end": 27,
+              "expanded_url": "https://x.com/TENSHIChizumi/status/2063523269106717138/photo/1",
+              "media_key": "3_2063523255798132736",
+              "start": 4,
+              "url": "https://t.co/7ihTzIw3yq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063523269106717138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 9869,
+          "like_count": 980,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "说喜欢 https://t.co/7ihTzIw3yq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 🐾 接角色定制/陪玩♡ 09 150/33kg 🐾 喜欢我就多多支持我叭 需要很多很多爱和钱 郁の提问箱: https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 125,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 102,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿可陪聊 不约不卖不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5622,
+          "following_count": 140,
+          "like_count": 6518,
+          "listed_count": 20,
+          "media_count": 417,
+          "tweet_count": 2755
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T07:41:06.000Z",
+        "description": "女生 中国人 无定位 存在的理由是爱我的人。 X仅此一个账号。无r18内容无tg 任何问题过门回复望理解",
+        "id": "1644243488110936064",
+        "location": "🚪520/5200/9999",
+        "name": "YuliaSss",
+        "pinned_tweet_id": "2013700244031115407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011768249156059145/1Gm-UIDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75289,
+          "following_count": 188,
+          "like_count": 524,
+          "listed_count": 330,
+          "media_count": 149,
+          "tweet_count": 334
+        },
+        "username": "TENSHIChizumi",
+        "verified": false
+      }
+    ]
+  }
+}

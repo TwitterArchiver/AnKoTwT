@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944015968310837248"
+      ],
+      "media_source_tweet_id": [
+        "1944015977827774888"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1309059220717756416",
+          "name": "魔女の旅々"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431299952718712833",
+          "name": "The Journey of Elaina"
+        }
+      }
+    ],
+    "conversation_id": "1944304840131412112",
+    "created_at": "2025-07-13T07:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T08:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944304840131412112"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "イレイナ"
+        },
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "魔女の旅々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857071874464735232",
+          "start": 3,
+          "username": "xx10Neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ybdkyZB20n",
+          "end": 64,
+          "expanded_url": "https://x.com/xx10Neko/status/1944015977827774888/photo/1",
+          "media_key": "3_1944015968310837248",
+          "start": 41,
+          "url": "https://t.co/ybdkyZB20n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944304840131412112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944015977827774888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx10Neko: 私が一番かわいいです^ ^\n#イレイナ #魔女の旅々 https://t.co/ybdkyZB20n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944015968310837248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvqIOSzawAA1ndG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944015968310837248"
+          ],
+          "media_source_tweet_id": [
+            "1944015977827774888"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1309059220717756416",
+              "name": "魔女の旅々"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431299952718712833",
+              "name": "The Journey of Elaina"
+            }
+          }
+        ],
+        "conversation_id": "1944304840131412112",
+        "created_at": "2025-07-13T07:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T08:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944304840131412112"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "イレイナ"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "魔女の旅々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857071874464735232",
+              "start": 3,
+              "username": "xx10Neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybdkyZB20n",
+              "end": 64,
+              "expanded_url": "https://x.com/xx10Neko/status/1944015977827774888/photo/1",
+              "media_key": "3_1944015968310837248",
+              "start": 41,
+              "url": "https://t.co/ybdkyZB20n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944304840131412112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944015977827774888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xx10Neko: 私が一番かわいいです^ ^\n#イレイナ #魔女の旅々 https://t.co/ybdkyZB20n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944015968310837248"
+          ]
+        },
+        "author_id": "1857071874464735232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1309059220717756416",
+              "name": "魔女の旅々"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431299952718712833",
+              "name": "The Journey of Elaina"
+            }
+          }
+        ],
+        "conversation_id": "1944015977827774888",
+        "created_at": "2025-07-12T12:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T13:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944015977827774888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "イレイナ"
+            },
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "魔女の旅々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybdkyZB20n",
+              "end": 50,
+              "expanded_url": "https://x.com/xx10Neko/status/1944015977827774888/photo/1",
+              "media_key": "3_1944015968310837248",
+              "start": 27,
+              "url": "https://t.co/ybdkyZB20n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944015977827774888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 5817,
+          "like_count": 396,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "私が一番かわいいです^ ^\n#イレイナ #魔女の旅々 https://t.co/ybdkyZB20n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "梦想是想当声音好听画画好看的美少女画师",
+        "id": "1934978221470277632",
+        "location": "家里蹲໒꒰ྀིㅇㅁㅇ꒱ྀི১",
+        "name": "Kuko",
+        "pinned_tweet_id": "1944022809841479847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941102088856952832/Vz0x4Vc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 64
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『🐾』Thank you for your love. 接线上委托/举牌 ✧bilibili:https://t.co/ECi3GfL9jq✧ 自娱自乐发着玩 不约不线下",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/DWpsPC8",
+                "end": 70,
+                "expanded_url": "http://b23.tv/DWpsPC8",
+                "start": 47,
+                "url": "https://t.co/ECi3GfL9jq"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "location": "我很可爱请给我钱",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1917944088143495409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4132,
+          "following_count": 5,
+          "like_count": 1505,
+          "listed_count": 33,
+          "media_count": 34,
+          "tweet_count": 106
+        },
+        "username": "xx10Neko",
+        "verified": false
+      }
+    ]
+  }
+}

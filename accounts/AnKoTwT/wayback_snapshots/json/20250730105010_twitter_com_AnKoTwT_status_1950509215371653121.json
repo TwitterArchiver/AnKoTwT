@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1950509215371653121",
+    "created_at": "2025-07-30T10:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T11:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950509215371653121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yubi__saki/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/yubi__saki/status/1950319545631330483",
+          "start": 13,
+          "url": "https://t.co/COumgpeMEO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950509215371653121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950319545631330483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢最后那一件，好漂亮 https://t.co/COumgpeMEO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1754,
+        "media_key": "3_1950319532855193600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDtSCpW8AAppkA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950319532850958336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDtSCoWUAAQb6H.jpg",
+        "width": 1652
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950319532834213888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDtSCkW0AAVD7Q.jpg",
+        "width": 1496
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950319532859392000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDtSCqXAAANSVN.jpg",
+        "width": 1652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1950509215371653121",
+        "created_at": "2025-07-30T10:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T11:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950509215371653121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yubi__saki/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yubi__saki/status/1950319545631330483",
+              "start": 13,
+              "url": "https://t.co/COumgpeMEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950509215371653121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950319545631330483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢最后那一件，好漂亮 https://t.co/COumgpeMEO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950319532855193600",
+            "3_1950319532850958336",
+            "3_1950319532834213888",
+            "3_1950319532859392000"
+          ]
+        },
+        "author_id": "726341983304699904",
+        "conversation_id": "1950319545631330483",
+        "created_at": "2025-07-29T22:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T23:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950319545631330483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eb1HAlva1l",
+              "end": 29,
+              "expanded_url": "https://x.com/yubi__saki/status/1950319545631330483/photo/1",
+              "media_key": "3_1950319532855193600",
+              "start": 6,
+              "url": "https://t.co/eb1HAlva1l"
+            },
+            {
+              "display_url": "pic.x.com/eb1HAlva1l",
+              "end": 29,
+              "expanded_url": "https://x.com/yubi__saki/status/1950319545631330483/photo/1",
+              "media_key": "3_1950319532850958336",
+              "start": 6,
+              "url": "https://t.co/eb1HAlva1l"
+            },
+            {
+              "display_url": "pic.x.com/eb1HAlva1l",
+              "end": 29,
+              "expanded_url": "https://x.com/yubi__saki/status/1950319545631330483/photo/1",
+              "media_key": "3_1950319532834213888",
+              "start": 6,
+              "url": "https://t.co/eb1HAlva1l"
+            },
+            {
+              "display_url": "pic.x.com/eb1HAlva1l",
+              "end": 29,
+              "expanded_url": "https://x.com/yubi__saki/status/1950319545631330483/photo/1",
+              "media_key": "3_1950319532859392000",
+              "start": 6,
+              "url": "https://t.co/eb1HAlva1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950319545631330483",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 783,
+          "impression_count": 80132,
+          "like_count": 3322,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 340
+        },
+        "reply_settings": "everyone",
+        "text": "🤍 🩶 🖤 https://t.co/eb1HAlva1l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱我活在自己的世界里♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "扩列188口令➕Q",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 2,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 151
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-30T09:26:38.000Z",
+        "description": "月までバイクで飛ばして10分。⚫︎ILLUSTRATION 2025掲載⚫︎Skeb https://t.co/89abVwu943 (I do not accept fan art)⚫︎Bluesky https://t.co/52lBy9wyfa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@yubi__saki",
+                "end": 66,
+                "expanded_url": "http://skeb.jp/@yubi__saki",
+                "start": 43,
+                "url": "https://t.co/89abVwu943"
+              },
+              {
+                "display_url": "bsky.app/profile/yubi-s…",
+                "end": 125,
+                "expanded_url": "https://bsky.app/profile/yubi-saki.bsky.social",
+                "start": 102,
+                "url": "https://t.co/52lBy9wyfa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yubi__saki",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yubi__saki",
+                "start": 0,
+                "url": "https://t.co/erRl1Kmj3D"
+              }
+            ]
+          }
+        },
+        "id": "726341983304699904",
+        "location": "No.1 in E Major",
+        "name": "ʏᴜʙɪꜱᴀᴋɪ",
+        "pinned_tweet_id": "1936400015020232893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673344864887422979/EwjGrB78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31767,
+          "following_count": 121,
+          "like_count": 3165,
+          "listed_count": 284,
+          "media_count": 284,
+          "tweet_count": 1244
+        },
+        "url": "https://t.co/erRl1Kmj3D",
+        "username": "yubi__saki",
+        "verified": false
+      }
+    ]
+  }
+}

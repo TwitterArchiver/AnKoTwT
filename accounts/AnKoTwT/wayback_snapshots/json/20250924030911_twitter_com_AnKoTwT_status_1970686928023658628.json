@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970686918267674625"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1970686928023658628",
+    "created_at": "2025-09-24T03:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T04:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970686928023658628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a0sxh9ePI7",
+          "end": 59,
+          "expanded_url": "https://x.com/AnKoTwT/status/1970686928023658628/photo/1",
+          "media_key": "3_1970686918267674625",
+          "start": 36,
+          "url": "https://t.co/a0sxh9ePI7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970686928023658628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点想出情绪小姐，真的好美。（但是要先把佳代子还有计划表上的委托清完） https://t.co/a0sxh9ePI7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1848,
+        "media_key": "3_1970686918267674625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1lJT57aoAEdhA8.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970686918267674625"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1970686928023658628",
+        "created_at": "2025-09-24T03:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T04:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970686928023658628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a0sxh9ePI7",
+              "end": 59,
+              "expanded_url": "https://x.com/AnKoTwT/status/1970686928023658628/photo/1",
+              "media_key": "3_1970686918267674625",
+              "start": 36,
+              "url": "https://t.co/a0sxh9ePI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970686928023658628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点想出情绪小姐，真的好美。（但是要先把佳代子还有计划表上的委托清完） https://t.co/a0sxh9ePI7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 无线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 77,
+          "like_count": 1688,
+          "listed_count": 5,
+          "media_count": 110,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

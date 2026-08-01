@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966875036989710336",
+        "3_1966875036964556801"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1966875044224892960",
+    "created_at": "2025-09-13T14:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T15:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966875044224892960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t6FG0zu78b",
+          "end": 81,
+          "expanded_url": "https://x.com/AnKoTwT/status/1966875044224892960/photo/1",
+          "media_key": "3_1966875036989710336",
+          "start": 58,
+          "url": "https://t.co/t6FG0zu78b"
+        },
+        {
+          "display_url": "pic.x.com/t6FG0zu78b",
+          "end": 81,
+          "expanded_url": "https://x.com/AnKoTwT/status/1966875044224892960/photo/1",
+          "media_key": "3_1966875036964556801",
+          "start": 58,
+          "url": "https://t.co/t6FG0zu78b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966875044224892960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有头绪，本来刷到个睦头人视频，想点进去主页看看，结果发现自己被毕业了？但我也不认识这个博主🌚奇怪，我啥也没做啊。 https://t.co/t6FG0zu78b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966875036989710336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0u-bNla4AAs5__.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966875036964556801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0u-bNfbEAEuVBM.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966875036989710336",
+            "3_1966875036964556801"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1966875044224892960",
+        "created_at": "2025-09-13T14:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T15:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966875044224892960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6FG0zu78b",
+              "end": 81,
+              "expanded_url": "https://x.com/AnKoTwT/status/1966875044224892960/photo/1",
+              "media_key": "3_1966875036989710336",
+              "start": 58,
+              "url": "https://t.co/t6FG0zu78b"
+            },
+            {
+              "display_url": "pic.x.com/t6FG0zu78b",
+              "end": 81,
+              "expanded_url": "https://x.com/AnKoTwT/status/1966875044224892960/photo/1",
+              "media_key": "3_1966875036964556801",
+              "start": 58,
+              "url": "https://t.co/t6FG0zu78b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966875044224892960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有头绪，本来刷到个睦头人视频，想点进去主页看看，结果发现自己被毕业了？但我也不认识这个博主🌚奇怪，我啥也没做啊。 https://t.co/t6FG0zu78b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚提问箱https://t.co/aI0OTcm1s8 👾重度网瘾宅 欢迎女孩子扩列🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 43,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966626659660165120/crmIFmDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 70,
+          "like_count": 1368,
+          "listed_count": 6,
+          "media_count": 93,
+          "tweet_count": 596
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

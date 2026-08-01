@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2006083822107124208",
+    "created_at": "2025-12-30T19:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T20:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006083822107124208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/hsn8086/status/2006014276197040229",
+          "start": 7,
+          "url": "https://t.co/p6Dk1Qj50S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006083822107124208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006014276197040229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑癫痫了给我 https://t.co/p6Dk1Qj50S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2006014268244910081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bLWUEaYAE2BE2.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2006083822107124208",
+        "created_at": "2025-12-30T19:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T20:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006083822107124208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/hsn8086/status/2006014276197040229",
+              "start": 7,
+              "url": "https://t.co/p6Dk1Qj50S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006083822107124208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006014276197040229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑癫痫了给我 https://t.co/p6Dk1Qj50S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006014268244910081"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2006014276197040229",
+        "created_at": "2025-12-30T14:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T15:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006014276197040229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5UX7zKkQU",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2006014276197040229/photo/1",
+              "media_key": "3_2006014268244910081",
+              "start": 0,
+              "url": "https://t.co/E5UX7zKkQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006014276197040229",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 234296,
+          "like_count": 2625,
+          "quote_count": 16,
+          "reply_count": 109,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E5UX7zKkQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱: https://t.co/aI0OTcltCA ↓hedao ♡09 150/33kg 喜欢我就多支持我吧o3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 83,
+                "url": "https://t.co/aI0OTcltCA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下不卖原",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4126,
+          "following_count": 87,
+          "like_count": 3625,
+          "listed_count": 21,
+          "media_count": 214,
+          "tweet_count": 1464
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113935,
+          "following_count": 1011,
+          "like_count": 49213,
+          "listed_count": 257,
+          "media_count": 18235,
+          "tweet_count": 27341
+        },
+        "username": "hsn8086",
+        "verified": false
+      }
+    ]
+  }
+}

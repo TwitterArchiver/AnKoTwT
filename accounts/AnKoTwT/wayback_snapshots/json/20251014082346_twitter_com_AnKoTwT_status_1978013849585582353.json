@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977785848382066688",
+        "3_1977785848390459392"
+      ],
+      "media_source_tweet_id": [
+        "1977785853171957813",
+        "1977785853171957813"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "1978013849585582353",
+    "created_at": "2025-10-14T08:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T09:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978013849585582353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853499557566726144",
+          "start": 3,
+          "username": "kuromi_jy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LD51Fc6Mzu",
+          "end": 61,
+          "expanded_url": "https://x.com/kuromi_jy/status/1977785853171957813/photo/1",
+          "media_key": "3_1977785848382066688",
+          "start": 38,
+          "url": "https://t.co/LD51Fc6Mzu"
+        },
+        {
+          "display_url": "pic.x.com/LD51Fc6Mzu",
+          "end": 61,
+          "expanded_url": "https://x.com/kuromi_jy/status/1977785853171957813/photo/1",
+          "media_key": "3_1977785848390459392",
+          "start": 38,
+          "url": "https://t.co/LD51Fc6Mzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978013849585582353",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977785853171957813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuromi_jy: 진짜 아름답다\n뒷 모습 보고 바로 예약함 https://t.co/LD51Fc6Mzu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1762,
+        "media_key": "3_1977785848382066688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3KBwBabkAA933P.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1762,
+        "media_key": "3_1977785848390459392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3KBwBcboAA6J3d.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977785848382066688",
+            "3_1977785848390459392"
+          ],
+          "media_source_tweet_id": [
+            "1977785853171957813",
+            "1977785853171957813"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "1978013849585582353",
+        "created_at": "2025-10-14T08:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978013849585582353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853499557566726144",
+              "start": 3,
+              "username": "kuromi_jy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LD51Fc6Mzu",
+              "end": 61,
+              "expanded_url": "https://x.com/kuromi_jy/status/1977785853171957813/photo/1",
+              "media_key": "3_1977785848382066688",
+              "start": 38,
+              "url": "https://t.co/LD51Fc6Mzu"
+            },
+            {
+              "display_url": "pic.x.com/LD51Fc6Mzu",
+              "end": 61,
+              "expanded_url": "https://x.com/kuromi_jy/status/1977785853171957813/photo/1",
+              "media_key": "3_1977785848390459392",
+              "start": 38,
+              "url": "https://t.co/LD51Fc6Mzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978013849585582353",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977785853171957813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuromi_jy: 진짜 아름답다\n뒷 모습 보고 바로 예약함 https://t.co/LD51Fc6Mzu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977785848382066688",
+            "3_1977785848390459392"
+          ]
+        },
+        "author_id": "1853499557566726144",
+        "conversation_id": "1977785853171957813",
+        "created_at": "2025-10-13T17:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T18:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977785853171957813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LD51Fc6Mzu",
+              "end": 46,
+              "expanded_url": "https://x.com/kuromi_jy/status/1977785853171957813/photo/1",
+              "media_key": "3_1977785848382066688",
+              "start": 23,
+              "url": "https://t.co/LD51Fc6Mzu"
+            },
+            {
+              "display_url": "pic.x.com/LD51Fc6Mzu",
+              "end": 46,
+              "expanded_url": "https://x.com/kuromi_jy/status/1977785853171957813/photo/1",
+              "media_key": "3_1977785848390459392",
+              "start": 23,
+              "url": "https://t.co/LD51Fc6Mzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977785853171957813",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 7065,
+          "like_count": 391,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "진짜 아름답다\n뒷 모습 보고 바로 예약함 https://t.co/LD51Fc6Mzu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡宅  155/33kg 喜欢我就多支持我吧 提问箱https://t.co/QmqVGVcRVz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku",
+                "end": 63,
+                "expanded_url": "https://ngl.link/ankoku",
+                "start": 40,
+                "url": "https://t.co/QmqVGVcRVz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 82,
+          "like_count": 1992,
+          "listed_count": 13,
+          "media_count": 135,
+          "tweet_count": 898
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T18:08:34.000Z",
+        "description": "save & repost X",
+        "id": "1853499557566726144",
+        "name": "✟",
+        "pinned_tweet_id": "1977172065741684876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976300151603109888/s8oOJCad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4485,
+          "following_count": 134,
+          "like_count": 3840,
+          "listed_count": 14,
+          "media_count": 45,
+          "tweet_count": 2672
+        },
+        "username": "kuromi_jy",
+        "verified": false
+      }
+    ]
+  }
+}

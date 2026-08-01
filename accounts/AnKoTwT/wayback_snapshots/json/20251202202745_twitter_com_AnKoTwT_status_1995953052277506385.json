@@ -1,0 +1,621 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1995953052277506385",
+    "created_at": "2025-12-02T20:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T21:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995953052277506385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/owcavalry/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/owcavalry/status/1995944182851207627",
+          "start": 10,
+          "url": "https://t.co/bYeaRSgPfW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995953052277506385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995944182851207627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你摩又有新衣服穿了 https://t.co/bYeaRSgPfW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1995944130283708416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7MEnI0WIAAat2p.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1995953052277506385",
+        "created_at": "2025-12-02T20:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T21:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995953052277506385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/owcavalry/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/owcavalry/status/1995944182851207627",
+              "start": 10,
+              "url": "https://t.co/bYeaRSgPfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995953052277506385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995944182851207627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你摩又有新衣服穿了 https://t.co/bYeaRSgPfW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995944130283708416"
+          ]
+        },
+        "author_id": "796992138089299968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1995944182851207627",
+        "created_at": "2025-12-02T19:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T20:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995944182851207627"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Overwatch2",
+              "probability": 0.7688,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Borealis",
+              "probability": 0.7712,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "Mercy",
+              "probability": 0.4672,
+              "start": 66,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Lifeweaver",
+              "probability": 0.7842,
+              "start": 73,
+              "type": "Other"
+            },
+            {
+              "end": 90,
+              "normalized_text": "Wuyang",
+              "probability": 0.6254,
+              "start": 85,
+              "type": "Other"
+            },
+            {
+              "end": 96,
+              "normalized_text": "Echo",
+              "probability": 0.7032,
+              "start": 93,
+              "type": "Other"
+            },
+            {
+              "end": 109,
+              "normalized_text": "Sojourn",
+              "probability": 0.7019,
+              "start": 103,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "Overwatch2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByxcYcQWZi",
+              "end": 135,
+              "expanded_url": "https://x.com/OWCavalry/status/1995944182851207627/photo/1",
+              "media_key": "3_1995944130283708416",
+              "start": 112,
+              "url": "https://t.co/ByxcYcQWZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995944182851207627",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 37521,
+          "like_count": 1739,
+          "quote_count": 243,
+          "reply_count": 101,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "Closer Look at #Overwatch2 Borealis Collection Skins 🧊\n\nFeaturing Mercy, Lifeweaver, Wuyang, Echo, and Sojourn. https://t.co/ByxcYcQWZi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱:https://t.co/RacOPi9zsI ↓hedao ♡150/33kg 喜欢我就多支持我吧 钱能让我幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPi9zsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3890,
+          "following_count": 88,
+          "like_count": 3314,
+          "listed_count": 20,
+          "media_count": 198,
+          "tweet_count": 1306
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-11T08:25:07.000Z",
+        "description": "All the latest Overwatch 2 News, Fan Art, and More 📰\n\n👤 Managed by @ZenofyMedia 🇬🇧 @Minkendorfer 🇫🇷\n\n🏆 Follow @OWCEsports for Esports Coverage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "ZenofyMedia"
+              },
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Minkendorfer"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "OWCEsports"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/OWCavalry",
+                "end": 23,
+                "expanded_url": "https://bit.ly/OWCavalry",
+                "start": 0,
+                "url": "https://t.co/XUuQ04QyNK"
+              }
+            ]
+          }
+        },
+        "id": "796992138089299968",
+        "name": "Overwatch Cavalry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590418951623905280/0OMybzN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331990,
+          "following_count": 378,
+          "like_count": 3341,
+          "listed_count": 544,
+          "media_count": 6373,
+          "tweet_count": 10575
+        },
+        "url": "https://t.co/XUuQ04QyNK",
+        "username": "OWCavalry",
+        "verified": true
+      }
+    ]
+  }
+}

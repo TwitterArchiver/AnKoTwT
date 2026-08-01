@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1966796976798003694",
+    "created_at": "2025-09-13T09:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T10:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966796976798003694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_deathme/statu…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/_deathme/status/1966542523909955626",
+          "start": 30,
+          "url": "https://t.co/i61NW6y6Py"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966796976798003694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966542523909955626",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这衣服好可爱⸝⸝ ᳐ʚ̴̶̷̷ ‧̫ ʚ̴̶̷̷ ᳐⸝⸝🎁 https://t.co/i61NW6y6Py"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_1966542517941510144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0qQADmbIAAqIXj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1966796976798003694",
+        "created_at": "2025-09-13T09:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T10:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966796976798003694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_deathme/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/_deathme/status/1966542523909955626",
+              "start": 30,
+              "url": "https://t.co/i61NW6y6Py"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966796976798003694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966542523909955626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这衣服好可爱⸝⸝ ᳐ʚ̴̶̷̷ ‧̫ ʚ̴̶̷̷ ᳐⸝⸝🎁 https://t.co/i61NW6y6Py"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966542517941510144"
+          ]
+        },
+        "author_id": "1721062015933059072",
+        "conversation_id": "1966542523909955626",
+        "created_at": "2025-09-12T16:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T17:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966542523909955626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0C0O9gBvjg",
+              "end": 34,
+              "expanded_url": "https://x.com/_deathme/status/1966542523909955626/photo/1",
+              "media_key": "3_1966542517941510144",
+              "start": 11,
+              "url": "https://t.co/0C0O9gBvjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966542523909955626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 12506,
+          "like_count": 608,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "꒰՞っ· ᴗ⸝⸝՞꒱ https://t.co/0C0O9gBvjg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "₊⁺♡⊹美少女重度依赖🎀@xx10Neko 🎀₊˚⊹₊˚꒰｡•༝•｡꒱˚₊⊹₊˚提问箱https://t.co/aI0OTcm1s8 👾重度网瘾宅 欢迎女孩子扩列🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 43,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966626659660165120/crmIFmDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 70,
+          "like_count": 1366,
+          "listed_count": 5,
+          "media_count": 92,
+          "tweet_count": 595
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T07:09:07.000Z",
+        "description": "@femmefatalecafe で会えます˖˚˳⌖⬅️ほぼ毎日居ますにゃんฅ^•ω•^ฅ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "femmefatalecafe"
+              }
+            ]
+          }
+        },
+        "id": "1721062015933059072",
+        "location": "外斜視チワワ",
+        "name": "𝔪𝔢𝔩𝔱♥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960722089411010560/moTvwpfK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 109,
+          "like_count": 5257,
+          "listed_count": 9,
+          "media_count": 38,
+          "tweet_count": 1540
+        },
+        "username": "_deathme",
+        "verified": false
+      }
+    ]
+  }
+}

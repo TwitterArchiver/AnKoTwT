@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2036763421581168805",
+    "created_at": "2026-03-25T11:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T12:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036764448363548916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1708012082992685056",
+          "start": 0,
+          "username": "giggitly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036764448363548916",
+    "in_reply_to_user_id": "1708012082992685056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036764117030297785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@giggitly 我前两年可是对着全收集攻略一点一点慢慢打的人(￣⊥￣)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2036763421581168805",
+        "created_at": "2026-03-25T11:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036764448363548916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1708012082992685056",
+              "start": 0,
+              "username": "giggitly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036764448363548916",
+        "in_reply_to_user_id": "1708012082992685056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036764117030297785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@giggitly 我前两年可是对着全收集攻略一点一点慢慢打的人(￣⊥￣)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708012082992685056",
+        "conversation_id": "2036763421581168805",
+        "created_at": "2026-03-25T11:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036764117030297785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036764117030297785",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036763421581168805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 现在连攻略都看不懂了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUzB5O Fanbox:https://t.co/7pXe2XwUpC 匿名提问箱: https://t.co/aI0OTcm1s8 角色定制私 ♡09 150/33kg 喜欢我就多支持我叭ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUzB5O"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 108,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 85,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "↓盒岛 扩列Q188/V520口令 纯绿无福利 不约不线下喵",
+        "name": "お姫様",
+        "pinned_tweet_id": "1979803475937784130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5102,
+          "following_count": 117,
+          "like_count": 4542,
+          "listed_count": 22,
+          "media_count": 290,
+          "tweet_count": 1953
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T06:53:20.000Z",
+        "description": "医学生，有问题可以帮你翻翻蓝皮书上怎么写的\n阿B https://t.co/oSWpnY1bkg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/JeUGcqb",
+                "end": 48,
+                "expanded_url": "https://b23.tv/JeUGcqb",
+                "start": 25,
+                "url": "https://t.co/oSWpnY1bkg"
+              }
+            ]
+          }
+        },
+        "id": "1708012082992685056",
+        "name": "星河",
+        "pinned_tweet_id": "1990037048359784920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864188165004967936/UsVin-nQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 51,
+          "like_count": 9623,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3827
+        },
+        "username": "giggitly",
+        "verified": false
+      }
+    ]
+  }
+}

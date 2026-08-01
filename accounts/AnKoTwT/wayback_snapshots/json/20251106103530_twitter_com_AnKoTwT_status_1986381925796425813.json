@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1986381925796425813",
+    "created_at": "2025-11-06T10:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T11:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986381925796425813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__nekomogu/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/__nekomogu/status/1986085657673109928",
+          "start": 3,
+          "url": "https://t.co/3XNHHy03Ka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986381925796425813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986085657673109928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢 https://t.co/3XNHHy03Ka"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986085593366097922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_-Uw4bcAIrgfK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1768,
+        "media_key": "3_1986085640107421696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_-XfAbcAAw1rs.jpg",
+        "width": 1105
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1986381925796425813",
+        "created_at": "2025-11-06T10:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T11:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986381925796425813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__nekomogu/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/__nekomogu/status/1986085657673109928",
+              "start": 3,
+              "url": "https://t.co/3XNHHy03Ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986381925796425813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986085657673109928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢 https://t.co/3XNHHy03Ka"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986085593366097922",
+            "3_1986085640107421696"
+          ]
+        },
+        "author_id": "1562519370588631042",
+        "conversation_id": "1986085657673109928",
+        "created_at": "2025-11-05T14:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986085657673109928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePE85Mz8yL",
+              "end": 36,
+              "expanded_url": "https://x.com/__nekomogu/status/1986085657673109928/photo/1",
+              "media_key": "3_1986085593366097922",
+              "start": 13,
+              "url": "https://t.co/ePE85Mz8yL"
+            },
+            {
+              "display_url": "pic.x.com/ePE85Mz8yL",
+              "end": 36,
+              "expanded_url": "https://x.com/__nekomogu/status/1986085657673109928/photo/1",
+              "media_key": "3_1986085640107421696",
+              "start": 13,
+              "url": "https://t.co/ePE85Mz8yL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986085657673109928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 18865,
+          "like_count": 1149,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "kawaii🖤໒꒱· ﾟ https://t.co/ePE85Mz8yL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUzB5O Fanbox:https://t.co/7pXe2XwUpC 提问箱:https://t.co/RacOPia7ig ↓hedao ♡150/33kg 喜欢我就多支持我吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUzB5O"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPia7ig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3602,
+          "following_count": 90,
+          "like_count": 2681,
+          "listed_count": 17,
+          "media_count": 174,
+          "tweet_count": 1115
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T19:19:06.000Z",
+        "description": "^ᴗ.ᴗ^ྀི illust￤https://t.co/qu2VBvEvpq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nerukoneko.fanbox.cc",
+                "end": 38,
+                "expanded_url": "https://nerukoneko.fanbox.cc/",
+                "start": 15,
+                "url": "https://t.co/qu2VBvEvpq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekomogu",
+                "end": 23,
+                "expanded_url": "https://lit.link/nekomogu",
+                "start": 0,
+                "url": "https://t.co/QP3Ljua3Mi"
+              }
+            ]
+          }
+        },
+        "id": "1562519370588631042",
+        "location": "お仕事募集中✉️nekomogu.oO@gmail.com",
+        "name": "ねるこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951992538627502080/pbvlJRxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11836,
+          "following_count": 550,
+          "like_count": 22347,
+          "listed_count": 87,
+          "media_count": 66,
+          "tweet_count": 2330
+        },
+        "url": "https://t.co/QP3Ljua3Mi",
+        "username": "__nekomogu",
+        "verified": false
+      }
+    ]
+  }
+}

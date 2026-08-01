@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1993273391928033550",
+    "created_at": "2025-11-25T10:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993273391928033550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/epipenn/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/epipenn/status/1993001196865700275",
+          "start": 4,
+          "url": "https://t.co/f853Kx0ztU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993273391928033550",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993001196865700275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好漂亮 https://t.co/f853Kx0ztU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993001188153860096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iQBXDXoAA-YS0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1993273391928033550",
+        "created_at": "2025-11-25T10:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993273391928033550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/epipenn/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/epipenn/status/1993001196865700275",
+              "start": 4,
+              "url": "https://t.co/f853Kx0ztU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993273391928033550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993001196865700275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好漂亮 https://t.co/f853Kx0ztU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993001188153860096"
+          ]
+        },
+        "author_id": "960902188678594561",
+        "conversation_id": "1993001196865700275",
+        "created_at": "2025-11-24T16:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993001196865700275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HCC0ga6pSb",
+              "end": 42,
+              "expanded_url": "https://x.com/epipenn/status/1993001196865700275/photo/1",
+              "media_key": "3_1993001188153860096",
+              "start": 19,
+              "url": "https://t.co/HCC0ga6pSb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993001196865700275",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 476,
+          "impression_count": 38588,
+          "like_count": 4214,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "I just love her sm https://t.co/HCC0ga6pSb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 善良人格@xx10Neko ✞ 🐈‍⬛ :https://t.co/7mMqAUz3gg Fanbox:https://t.co/7pXe2XwmA4 提问箱:https://t.co/RacOPi9zsI ↓hedao ♡150/33kg 喜欢我就多支持我吧 钱能让我幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/AnkokuUwU",
+                "end": 46,
+                "expanded_url": "http://patreon.com/AnkokuUwU",
+                "start": 23,
+                "url": "https://t.co/7mMqAUz3gg"
+              },
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 77,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 54,
+                "url": "https://t.co/7pXe2XwmA4"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/ankoku1",
+                "start": 82,
+                "url": "https://t.co/RacOPi9zsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbCIQf"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 纯绿无福利 不约不线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3802,
+          "following_count": 89,
+          "like_count": 3112,
+          "listed_count": 21,
+          "media_count": 193,
+          "tweet_count": 1255
+        },
+        "url": "https://t.co/ngcmtbCIQf",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-06T15:45:09.000Z",
+        "description": "just another place to archive my collection ^^",
+        "id": "960902188678594561",
+        "location": "thank you for being here",
+        "name": "ilya",
+        "pinned_tweet_id": "1917375015273496623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982159958402572289/piXzmwcb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 127,
+          "like_count": 19951,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 651
+        },
+        "username": "epipenn",
+        "verified": false
+      }
+    ]
+  }
+}

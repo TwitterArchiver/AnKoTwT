@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1969238508117123427",
+    "created_at": "2025-09-20T03:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T04:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969245423106773249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "948369077331881985",
+          "start": 0,
+          "username": "QEDof495"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969245423106773249",
+    "in_reply_to_user_id": "948369077331881985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969245001998553591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QEDof495 那很逆天了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1969238508117123427",
+        "created_at": "2025-09-20T03:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T04:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969245423106773249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "948369077331881985",
+              "start": 0,
+              "username": "QEDof495"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969245423106773249",
+        "in_reply_to_user_id": "948369077331881985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969245001998553591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QEDof495 那很逆天了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "948369077331881985",
+        "conversation_id": "1969238508117123427",
+        "created_at": "2025-09-20T03:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T04:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969245001998553591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969245001998553591",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969238508117123427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 看成上大号时候更新了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520口令 无线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 75,
+          "like_count": 1554,
+          "listed_count": 5,
+          "media_count": 104,
+          "tweet_count": 697
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-03T01:43:02.000Z",
+        "description": "カグラナナの同人活動中__中文/日本語",
+        "id": "948369077331881985",
+        "name": "QED🌶(辣辣七奈军)",
+        "pinned_tweet_id": "1956678951603937341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1229397719233351680/FZUcF0Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 686,
+          "like_count": 97484,
+          "listed_count": 12,
+          "media_count": 704,
+          "tweet_count": 4042
+        },
+        "username": "QEDof495",
+        "verified": false
+      }
+    ]
+  }
+}

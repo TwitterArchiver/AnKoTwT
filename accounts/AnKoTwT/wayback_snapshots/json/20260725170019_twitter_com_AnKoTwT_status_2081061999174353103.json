@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2081061999174353103",
+    "created_at": "2026-07-25T17:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081061999174353103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dododo_5200/st…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/dododo_5200/status/2080939426117812408",
+          "start": 25,
+          "url": "https://t.co/NxZC02Y8ZV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081061999174353103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080939426117812408",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "呃呵呵我好喜欢这个好色。。夯爆了萝莉果然最棒了。 https://t.co/NxZC02Y8ZV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080939418685472769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOD7YEHbAAEEIQ9.jpg",
+        "width": 1747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2081061999174353103",
+        "created_at": "2026-07-25T17:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081061999174353103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dododo_5200/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/dododo_5200/status/2080939426117812408",
+              "start": 25,
+              "url": "https://t.co/NxZC02Y8ZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081061999174353103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080939426117812408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "呃呵呵我好喜欢这个好色。。夯爆了萝莉果然最棒了。 https://t.co/NxZC02Y8ZV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080939418685472769"
+          ]
+        },
+        "author_id": "1871501167353839617",
+        "conversation_id": "2080939426117812408",
+        "created_at": "2026-07-25T08:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080939426117812408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iSzWEJbGOm",
+              "end": 26,
+              "expanded_url": "https://x.com/dododo_5200/status/2080939426117812408/photo/1",
+              "media_key": "3_2080939418685472769",
+              "start": 3,
+              "url": "https://t.co/iSzWEJbGOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080939426117812408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3369,
+          "impression_count": 104716,
+          "like_count": 18675,
+          "quote_count": 6,
+          "reply_count": 8,
+          "retweet_count": 1124
+        },
+        "reply_settings": "everyone",
+        "text": "体罰 https://t.co/iSzWEJbGOm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 匿名提问箱: https://t.co/aI0OTcm1s8 许愿ATM奴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "🚪188/300/520/1314",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5755,
+          "following_count": 161,
+          "like_count": 7157,
+          "listed_count": 20,
+          "media_count": 491,
+          "tweet_count": 3128
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T10:20:46.000Z",
+        "description": "goal(1900/10000)\nMain acc: @beecat2nd\nFanbox: https://t.co/OPeiZBg21i\nPixiv: https://t.co/6mpLYQDP9E",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "beecat2nd"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "beecato.fanbox.cc",
+                "end": 69,
+                "expanded_url": "http://beecato.fanbox.cc",
+                "start": 46,
+                "url": "https://t.co/OPeiZBg21i"
+              },
+              {
+                "display_url": "pixiv.net/users/54945068",
+                "end": 100,
+                "expanded_url": "https://www.pixiv.net/users/54945068",
+                "start": 77,
+                "url": "https://t.co/6mpLYQDP9E"
+              }
+            ]
+          }
+        },
+        "id": "1871501167353839617",
+        "name": "🐝🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079406575866044416/GOk0ssde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2602,
+          "following_count": 30,
+          "like_count": 154,
+          "listed_count": 9,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "dododo_5200",
+        "verified": false
+      }
+    ]
+  }
+}

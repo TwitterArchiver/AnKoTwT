@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "1968179594663694488",
+    "created_at": "2025-09-17T05:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T06:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968191483603034114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1125995989746311168",
+          "start": 0,
+          "username": "daaiwujiang_lsp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968191483603034114",
+    "in_reply_to_user_id": "1125995989746311168",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968181906819940421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daaiwujiang_lsp yes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "1968179594663694488",
+        "created_at": "2025-09-17T05:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968191483603034114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1125995989746311168",
+              "start": 0,
+              "username": "daaiwujiang_lsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968191483603034114",
+        "in_reply_to_user_id": "1125995989746311168",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968181906819940421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daaiwujiang_lsp yes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1125995989746311168",
+        "conversation_id": "1968179594663694488",
+        "created_at": "2025-09-17T05:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968181906819940421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968181906819940421",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968179594663694488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT 冬装伊莉雅吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 75,
+          "like_count": 1485,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T05:28:58.000Z",
+        "description": "伊落玛丽世界第一可爱",
+        "id": "1125995989746311168",
+        "name": "大爱无疆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787169969077424128/8Pui8nEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 7500,
+          "like_count": 137227,
+          "listed_count": 18,
+          "media_count": 1624,
+          "tweet_count": 23888
+        },
+        "username": "daaiwujiang_lsp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949485284787417088",
+        "3_1949485284741234688",
+        "3_1949485284812599296"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1949485293234749535",
+    "created_at": "2025-07-27T15:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T16:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949485293234749535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E7uaxgrO24",
+          "end": 109,
+          "expanded_url": "https://x.com/AnKoTwT/status/1949485293234749535/photo/1",
+          "media_key": "3_1949485284787417088",
+          "start": 86,
+          "url": "https://t.co/E7uaxgrO24"
+        },
+        {
+          "display_url": "pic.x.com/E7uaxgrO24",
+          "end": 109,
+          "expanded_url": "https://x.com/AnKoTwT/status/1949485293234749535/photo/1",
+          "media_key": "3_1949485284741234688",
+          "start": 86,
+          "url": "https://t.co/E7uaxgrO24"
+        },
+        {
+          "display_url": "pic.x.com/E7uaxgrO24",
+          "end": 109,
+          "expanded_url": "https://x.com/AnKoTwT/status/1949485293234749535/photo/1",
+          "media_key": "3_1949485284812599296",
+          "start": 86,
+          "url": "https://t.co/E7uaxgrO24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949485293234749535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以叫我小郁或koku\n接陪玩/举牌/角色委托/寄拍（无R18和线下\n阴暗社恐自闭i人  低能量精神不稳定\n有能力的话可以扫扫赞赏码支持一下\n感谢(՞_   ̫ _՞)ᐝ https://t.co/E7uaxgrO24"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_1949485284787417088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw32iaaa8AAIk9s.jpg",
+        "width": 892
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949485284741234688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw32iaPaQAAcEmP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949485284812599296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw32iagbMAAB_dK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949485284787417088",
+            "3_1949485284741234688",
+            "3_1949485284812599296"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949485293234749535",
+        "created_at": "2025-07-27T15:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T16:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949485293234749535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7uaxgrO24",
+              "end": 109,
+              "expanded_url": "https://x.com/AnKoTwT/status/1949485293234749535/photo/1",
+              "media_key": "3_1949485284787417088",
+              "start": 86,
+              "url": "https://t.co/E7uaxgrO24"
+            },
+            {
+              "display_url": "pic.x.com/E7uaxgrO24",
+              "end": 109,
+              "expanded_url": "https://x.com/AnKoTwT/status/1949485293234749535/photo/1",
+              "media_key": "3_1949485284741234688",
+              "start": 86,
+              "url": "https://t.co/E7uaxgrO24"
+            },
+            {
+              "display_url": "pic.x.com/E7uaxgrO24",
+              "end": 109,
+              "expanded_url": "https://x.com/AnKoTwT/status/1949485293234749535/photo/1",
+              "media_key": "3_1949485284812599296",
+              "start": 86,
+              "url": "https://t.co/E7uaxgrO24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949485293234749535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以叫我小郁或koku\n接陪玩/举牌/角色委托/寄拍（无R18和线下\n阴暗社恐自闭i人  低能量精神不稳定\n有能力的话可以扫扫赞赏码支持一下\n感谢(՞_   ̫ _՞)ᐝ https://t.co/E7uaxgrO24"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "♱我活在自己的世界里♱ @xx10Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "xx10Neko"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "天国໒꒰ྀིㅇㅁㅇ꒱ྀི১",
+        "name": "Kuko",
+        "pinned_tweet_id": "1949095635065741603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949424168195502080/V_NxcqZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 1,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 108
+        },
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

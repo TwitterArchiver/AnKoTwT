@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965158640819781632",
+        "3_1965158640849223680",
+        "3_1965158640840835078",
+        "3_1965158640828182528"
+      ],
+      "media_source_tweet_id": [
+        "1965158647790739794",
+        "1965158647790739794",
+        "1965158647790739794",
+        "1965158647790739794"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1967238920309227929",
+    "created_at": "2025-09-14T14:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T15:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967238920309227929"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "りりむアクセ"
+        },
+        {
+          "end": 31,
+          "start": 22,
+          "tag": "りりむとおえかき"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1382404387373424640",
+          "start": 3,
+          "username": "1515coro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wjhHTGfpJu",
+          "end": 94,
+          "expanded_url": "https://x.com/1515coro/status/1965158647790739794/photo/1",
+          "media_key": "3_1965158640819781632",
+          "start": 71,
+          "url": "https://t.co/wjhHTGfpJu"
+        },
+        {
+          "display_url": "pic.x.com/wjhHTGfpJu",
+          "end": 94,
+          "expanded_url": "https://x.com/1515coro/status/1965158647790739794/photo/1",
+          "media_key": "3_1965158640849223680",
+          "start": 71,
+          "url": "https://t.co/wjhHTGfpJu"
+        },
+        {
+          "display_url": "pic.x.com/wjhHTGfpJu",
+          "end": 94,
+          "expanded_url": "https://x.com/1515coro/status/1965158647790739794/photo/1",
+          "media_key": "3_1965158640840835078",
+          "start": 71,
+          "url": "https://t.co/wjhHTGfpJu"
+        },
+        {
+          "display_url": "pic.x.com/wjhHTGfpJu",
+          "end": 94,
+          "expanded_url": "https://x.com/1515coro/status/1965158647790739794/photo/1",
+          "media_key": "3_1965158640828182528",
+          "start": 71,
+          "url": "https://t.co/wjhHTGfpJu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967238920309227929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1032
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965158647790739794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1515coro: #りりむアクセ #りりむとおえかき \n新衣装前の変なタイミングになっちゃったけど、もし使えそうなものがあれば…◎ https://t.co/wjhHTGfpJu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1939,
+        "media_key": "3_1965158640819781632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0WlXzlaQAAwHce.jpg",
+        "width": 3318
+      },
+      {
+        "height": 1939,
+        "media_key": "3_1965158640849223680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0WlXzsbgAAQ-q4.jpg",
+        "width": 3318
+      },
+      {
+        "height": 1939,
+        "media_key": "3_1965158640840835078",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0WlXzqbgAYJzUs.jpg",
+        "width": 3318
+      },
+      {
+        "height": 1929,
+        "media_key": "3_1965158640828182528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0WlXznacAA3fYt.jpg",
+        "width": 3316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965158640819781632",
+            "3_1965158640849223680",
+            "3_1965158640840835078",
+            "3_1965158640828182528"
+          ],
+          "media_source_tweet_id": [
+            "1965158647790739794",
+            "1965158647790739794",
+            "1965158647790739794",
+            "1965158647790739794"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967238920309227929",
+        "created_at": "2025-09-14T14:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T15:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967238920309227929"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "りりむアクセ"
+            },
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "りりむとおえかき"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1382404387373424640",
+              "start": 3,
+              "username": "1515coro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjhHTGfpJu",
+              "end": 94,
+              "expanded_url": "https://x.com/1515coro/status/1965158647790739794/photo/1",
+              "media_key": "3_1965158640819781632",
+              "start": 71,
+              "url": "https://t.co/wjhHTGfpJu"
+            },
+            {
+              "display_url": "pic.x.com/wjhHTGfpJu",
+              "end": 94,
+              "expanded_url": "https://x.com/1515coro/status/1965158647790739794/photo/1",
+              "media_key": "3_1965158640849223680",
+              "start": 71,
+              "url": "https://t.co/wjhHTGfpJu"
+            },
+            {
+              "display_url": "pic.x.com/wjhHTGfpJu",
+              "end": 94,
+              "expanded_url": "https://x.com/1515coro/status/1965158647790739794/photo/1",
+              "media_key": "3_1965158640840835078",
+              "start": 71,
+              "url": "https://t.co/wjhHTGfpJu"
+            },
+            {
+              "display_url": "pic.x.com/wjhHTGfpJu",
+              "end": 94,
+              "expanded_url": "https://x.com/1515coro/status/1965158647790739794/photo/1",
+              "media_key": "3_1965158640828182528",
+              "start": 71,
+              "url": "https://t.co/wjhHTGfpJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967238920309227929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1032
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965158647790739794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1515coro: #りりむアクセ #りりむとおえかき \n新衣装前の変なタイミングになっちゃったけど、もし使えそうなものがあれば…◎ https://t.co/wjhHTGfpJu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965158640819781632",
+            "3_1965158640849223680",
+            "3_1965158640840835078",
+            "3_1965158640828182528"
+          ]
+        },
+        "author_id": "1382404387373424640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1965158647790739794",
+        "created_at": "2025-09-08T21:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T22:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965158647790739794"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "りりむアクセ"
+            },
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "りりむとおえかき"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjhHTGfpJu",
+              "end": 80,
+              "expanded_url": "https://x.com/1515coro/status/1965158647790739794/photo/1",
+              "media_key": "3_1965158640819781632",
+              "start": 57,
+              "url": "https://t.co/wjhHTGfpJu"
+            },
+            {
+              "display_url": "pic.x.com/wjhHTGfpJu",
+              "end": 80,
+              "expanded_url": "https://x.com/1515coro/status/1965158647790739794/photo/1",
+              "media_key": "3_1965158640849223680",
+              "start": 57,
+              "url": "https://t.co/wjhHTGfpJu"
+            },
+            {
+              "display_url": "pic.x.com/wjhHTGfpJu",
+              "end": 80,
+              "expanded_url": "https://x.com/1515coro/status/1965158647790739794/photo/1",
+              "media_key": "3_1965158640840835078",
+              "start": 57,
+              "url": "https://t.co/wjhHTGfpJu"
+            },
+            {
+              "display_url": "pic.x.com/wjhHTGfpJu",
+              "end": 80,
+              "expanded_url": "https://x.com/1515coro/status/1965158647790739794/photo/1",
+              "media_key": "3_1965158640828182528",
+              "start": 57,
+              "url": "https://t.co/wjhHTGfpJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965158647790739794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1634,
+          "impression_count": 2008765,
+          "like_count": 23093,
+          "quote_count": 146,
+          "reply_count": 18,
+          "retweet_count": 1032
+        },
+        "reply_settings": "everyone",
+        "text": "#りりむアクセ #りりむとおえかき \n新衣装前の変なタイミングになっちゃったけど、もし使えそうなものがあれば…◎ https://t.co/wjhHTGfpJu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "善良人格@xx10Neko ♡ 09 155/31kg 喜欢我就多支持我吧 提问箱https://t.co/aI0OTcm1s8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 64,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 41,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/ngcmtbDgFN"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友Q188/V520 只回口令♡",
+        "name": "お姫様",
+        "pinned_tweet_id": "1949485293234749535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966957076514734080/Va47QcIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 71,
+          "like_count": 1430,
+          "listed_count": 5,
+          "media_count": 93,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/ngcmtbDgFN",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T18:44:35.000Z",
+        "description": "FA用 ❤︎ @15coro_aaa ୨୧ https://t.co/MNbmy0auWa ∔∔ https://t.co/dShJT4c8Gw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "15coro_aaa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@15coro_aaa",
+                "end": 45,
+                "expanded_url": "https://skeb.jp/@15coro_aaa",
+                "start": 22,
+                "url": "https://t.co/MNbmy0auWa"
+              },
+              {
+                "display_url": "x.gd/GI5DM",
+                "end": 72,
+                "expanded_url": "https://x.gd/GI5DM",
+                "start": 49,
+                "url": "https://t.co/dShJT4c8Gw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/1515coro?utm_m…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/1515coro?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/wyD1mF9CTm"
+              }
+            ]
+          }
+        },
+        "id": "1382404387373424640",
+        "name": "ィォ",
+        "pinned_tweet_id": "1951120009666896390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1402946017742315523/UW0fxNO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25005,
+          "following_count": 238,
+          "like_count": 30393,
+          "listed_count": 265,
+          "media_count": 169,
+          "tweet_count": 14248
+        },
+        "url": "https://t.co/wyD1mF9CTm",
+        "username": "1515coro",
+        "verified": false
+      }
+    ]
+  }
+}
