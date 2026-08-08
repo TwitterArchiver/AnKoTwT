@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2083812108211519913",
+    "created_at": "2026-08-02T11:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083874740486410402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083874740486410402",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083812108211519913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2083812108211519913",
+        "created_at": "2026-08-02T11:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083874740486410402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083874740486410402",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083812108211519913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779774601100189696",
+        "conversation_id": "2083812108211519913",
+        "created_at": "2026-08-02T07:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083812108211519913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083812108211519913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 546,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥时候能找到现实工作我就不收扩列了😒退网退网"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/FV0a9uPDAY 匿名提问箱: https://t.co/scZsiI4AcD 奇迹的魔女。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/FV0a9uPDAY"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/scZsiI4AcD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/RrOfqafppy"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友位188/300/520/1314  纯绿不约不卖无线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5857,
+          "following_count": 167,
+          "like_count": 7329,
+          "listed_count": 19,
+          "media_count": 500,
+          "tweet_count": 3206
+        },
+        "url": "https://t.co/RrOfqafppy",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "匿名提问 https://t.co/2lBKx6zYnz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ydd67887",
+                "end": 28,
+                "expanded_url": "https://ngl.link/ydd67887",
+                "start": 5,
+                "url": "https://t.co/2lBKx6zYnz"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52聊一辈子天=(^.^)=",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5562,
+          "following_count": 8,
+          "like_count": 3200,
+          "listed_count": 22,
+          "media_count": 285,
+          "tweet_count": 1316
+        },
+        "url": "",
+        "username": "doll7799",
+        "verified": true
+      }
+    ]
+  }
+}

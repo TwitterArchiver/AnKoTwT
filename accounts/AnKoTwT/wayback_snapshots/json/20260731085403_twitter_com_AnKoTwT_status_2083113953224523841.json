@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2083113953224523841",
+    "created_at": "2026-07-31T08:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083113953224523841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ankotwt/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ankotwt/status/2082769177027432761",
+          "start": 14,
+          "url": "https://t.co/6b9Bh5mwMc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083113953224523841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082769177027432761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "这个可爱的小女孩想要赞赞。 https://t.co/6b9Bh5mwMc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082769156102049792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd7gzKaUAA03wY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082769156114653184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd7gzNaoAAJhC7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2083113953224523841",
+        "created_at": "2026-07-31T08:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083113953224523841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ankotwt/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ankotwt/status/2082769177027432761",
+              "start": 14,
+              "url": "https://t.co/6b9Bh5mwMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083113953224523841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082769177027432761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "这个可爱的小女孩想要赞赞。 https://t.co/6b9Bh5mwMc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082769156102049792",
+            "3_2082769156114653184"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2082769177027432761",
+        "created_at": "2026-07-30T10:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082769177027432761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJfsQvEEWM",
+              "end": 38,
+              "expanded_url": "https://x.com/AnKoTwT/status/2082769177027432761/photo/1",
+              "media_key": "3_2082769156102049792",
+              "start": 15,
+              "url": "https://t.co/GJfsQvEEWM"
+            },
+            {
+              "display_url": "pic.x.com/GJfsQvEEWM",
+              "end": 38,
+              "expanded_url": "https://x.com/AnKoTwT/status/2082769177027432761/photo/1",
+              "media_key": "3_2082769156114653184",
+              "start": 15,
+              "url": "https://t.co/GJfsQvEEWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082769177027432761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2232,
+          "like_count": 107,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "即使如此还是互联网摄入过量。 https://t.co/GJfsQvEEWM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/FV0a9uPDAY 匿名提问箱: https://t.co/scZsiI4AcD 奇迹的魔女。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/FV0a9uPDAY"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/scZsiI4AcD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/RrOfqafppy"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友位188/300/520/1314  纯绿不约不卖无线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5837,
+          "following_count": 167,
+          "like_count": 7276,
+          "listed_count": 20,
+          "media_count": 498,
+          "tweet_count": 3207
+        },
+        "url": "https://t.co/RrOfqafppy",
+        "username": "AnKoTwT",
+        "verified": false
+      }
+    ]
+  }
+}

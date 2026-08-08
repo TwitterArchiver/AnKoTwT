@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2083446001206169623",
+    "created_at": "2026-08-01T06:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083446001206169623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558346182316896256",
+          "start": 3,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083446001206169623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083013405594849370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoxer15: 玛雅人你他妈欠我一场世界末日知道吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2083446001206169623",
+        "created_at": "2026-08-01T06:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083446001206169623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558346182316896256",
+              "start": 3,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083446001206169623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083013405594849370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoxer15: 玛雅人你他妈欠我一场世界末日知道吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2083013405594849370",
+        "created_at": "2026-07-31T02:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083013405594849370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083013405594849370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 54495,
+          "like_count": 1676,
+          "quote_count": 7,
+          "reply_count": 80,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "玛雅人你他妈欠我一场世界末日知道吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/FV0a9uPDAY 匿名提问箱: https://t.co/scZsiI4AcD 奇迹的魔女。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/FV0a9uPDAY"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/scZsiI4AcD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/RrOfqafppy"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "location": "好友位188/300/520/1314  纯绿不约不卖无线下",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5852,
+          "following_count": 169,
+          "like_count": 7302,
+          "listed_count": 20,
+          "media_count": 498,
+          "tweet_count": 3196
+        },
+        "url": "https://t.co/RrOfqafppy",
+        "username": "AnKoTwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "我叫小物/07/ENTP/摩羯/4i/没门/不交友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link",
+                "end": 23,
+                "expanded_url": "https://ngl.link/",
+                "start": 0,
+                "url": "https://t.co/K4hFwJcLab"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2082453758940942357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067447429633585153/2Ju5yaaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 203,
+          "like_count": 27075,
+          "listed_count": 0,
+          "media_count": 696,
+          "tweet_count": 14818
+        },
+        "url": "https://t.co/K4hFwJcLab",
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}
