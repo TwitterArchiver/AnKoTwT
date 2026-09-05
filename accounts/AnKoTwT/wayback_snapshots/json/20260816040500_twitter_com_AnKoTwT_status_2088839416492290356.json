@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2088807363440771181",
+    "created_at": "2026-08-16T04:05:00.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T05:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088839416492290356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1846739759085113346",
+          "start": 0,
+          "username": "twilightversu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088839416492290356",
+    "in_reply_to_user_id": "1846739759085113346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088807363440771181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twilightversu 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088807352942399488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzvOHRbEAA8ido.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2088807363440771181",
+        "created_at": "2026-08-16T04:05:00.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088839416492290356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1846739759085113346",
+              "start": 0,
+              "username": "twilightversu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088839416492290356",
+        "in_reply_to_user_id": "1846739759085113346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088807363440771181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twilightversu 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088807352942399488"
+          ]
+        },
+        "author_id": "1846739759085113346",
+        "conversation_id": "2088807363440771181",
+        "created_at": "2026-08-16T01:57:38.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088807363440771181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6BtfFjUNms",
+              "end": 23,
+              "expanded_url": "https://x.com/twilightversu/status/2088807363440771181/photo/1",
+              "media_key": "3_2088807352942399488",
+              "start": 0,
+              "url": "https://t.co/6BtfFjUNms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088807363440771181",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088807352942399488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1367,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6BtfFjUNms"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbCIQf 匿名提问箱: https://t.co/aI0OTcltCA 09 150/63 奇迹的魔女。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbCIQf"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/aI0OTcltCA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy5Sw5"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪188/300/520/1314  接举牌定制私",
+        "most_recent_tweet_id": "2088839427351257130",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5832,
+          "following_count": 164,
+          "like_count": 7328,
+          "listed_count": 20,
+          "media_count": 509,
+          "tweet_count": 3259
+        },
+        "url": "https://t.co/LRQvNy5Sw5",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-17T02:27:50.000Z",
+        "description": "我很倒霉很穷还高p让让我丨闺闺@rainsluvkwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "rainsluvkwi"
+              }
+            ]
+          }
+        },
+        "id": "1846739759085113346",
+        "is_identity_verified": false,
+        "location": "尾椎骨公城",
+        "most_recent_tweet_id": "2088807363440771181",
+        "name": "视觉动物",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1846739759085113346/1775983144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062538782851907584/a5B4WcgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13192,
+          "following_count": 729,
+          "like_count": 22913,
+          "listed_count": 51,
+          "media_count": 35,
+          "tweet_count": 4788
+        },
+        "url": "",
+        "username": "twilightversu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

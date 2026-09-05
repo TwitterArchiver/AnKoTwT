@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090620457443885056"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2090620529514631378",
+    "created_at": "2026-08-21T02:02:30.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090620529514631378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tdiQLUR40f",
+          "end": 39,
+          "expanded_url": "https://x.com/AnKoTwT/status/2090620529514631378/video/1",
+          "media_key": "13_2090620457443885056",
+          "start": 16,
+          "url": "https://t.co/tdiQLUR40f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090620529514631378",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2090620457443885056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这世界所带来的一切苦痛都是惩罚 https://t.co/tdiQLUR40f"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23531,
+        "height": 1280,
+        "media_key": "13_2090620457443885056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090620457443885056/img/C4Hfdjk1sPJgAIX4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090620457443885056/vid/avc1/320x568/rLPZA3tBTLOPE3Jn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090620457443885056/vid/avc1/480x852/Z-VdaSklZDKuQ4QC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090620457443885056/vid/avc1/720x1280/-OxcFT28b5uhqCiL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090620457443885056/pl/moRuYHmeer5jraZp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090620457443885056"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2090620529514631378",
+        "created_at": "2026-08-21T02:02:30.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090620529514631378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tdiQLUR40f",
+              "end": 39,
+              "expanded_url": "https://x.com/AnKoTwT/status/2090620529514631378/video/1",
+              "media_key": "13_2090620457443885056",
+              "start": 16,
+              "url": "https://t.co/tdiQLUR40f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090620529514631378",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090620457443885056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这世界所带来的一切苦痛都是惩罚 https://t.co/tdiQLUR40f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbCIQf 匿名提问箱: https://t.co/aI0OTcltCA 09 153/63 奇迹的魔女。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbCIQf"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/aI0OTcltCA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy5Sw5"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  接举牌定制陪玩私",
+        "most_recent_tweet_id": "2090620529514631378",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5881,
+          "following_count": 165,
+          "like_count": 7402,
+          "listed_count": 20,
+          "media_count": 515,
+          "tweet_count": 3300
+        },
+        "url": "https://t.co/LRQvNy5Sw5",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

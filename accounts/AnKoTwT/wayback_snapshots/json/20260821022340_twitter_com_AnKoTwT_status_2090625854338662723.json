@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090617005460410368"
+      ],
+      "media_source_tweet_id": [
+        "2090620149929828568"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2090625854338662723",
+    "created_at": "2026-08-21T02:23:40.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090625854338662723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1285113556749266944",
+          "start": 3,
+          "username": "shusuchii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9o35TMV2Fr",
+          "end": 68,
+          "expanded_url": "https://x.com/shusuchii/status/2090620149929828568/photo/1",
+          "media_key": "3_2090617005460410368",
+          "start": 45,
+          "url": "https://t.co/9o35TMV2Fr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090625854338662723",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090617005460410368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090620149929828568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shusuchii: 「先生……ちょっと職員室まで来て、成績の話しよう……⁉️」 https://t.co/9o35TMV2Fr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2090617005460410368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNdFwPb0AACV6x.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090617005460410368"
+          ],
+          "media_source_tweet_id": [
+            "2090620149929828568"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2090625854338662723",
+        "created_at": "2026-08-21T02:23:40.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090625854338662723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1285113556749266944",
+              "start": 3,
+              "username": "shusuchii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9o35TMV2Fr",
+              "end": 68,
+              "expanded_url": "https://x.com/shusuchii/status/2090620149929828568/photo/1",
+              "media_key": "3_2090617005460410368",
+              "start": 45,
+              "url": "https://t.co/9o35TMV2Fr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090625854338662723",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090617005460410368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090620149929828568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shusuchii: 「先生……ちょっと職員室まで来て、成績の話しよう……⁉️」 https://t.co/9o35TMV2Fr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090617005460410368"
+          ]
+        },
+        "author_id": "1285113556749266944",
+        "conversation_id": "2090620149929828568",
+        "created_at": "2026-08-21T02:01:00.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090620149929828568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9o35TMV2Fr",
+              "end": 53,
+              "expanded_url": "https://x.com/shusuchii/status/2090620149929828568/photo/1",
+              "media_key": "3_2090617005460410368",
+              "start": 30,
+              "url": "https://t.co/9o35TMV2Fr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090620149929828568",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090617005460410368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 4359,
+          "like_count": 977,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "「先生……ちょっと職員室まで来て、成績の話しよう……⁉️」 https://t.co/9o35TMV2Fr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbCIQf 匿名提问箱: https://t.co/aI0OTcltCA 09 153/63 奇迹的魔女。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbCIQf"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/aI0OTcltCA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy5Sw5"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  接举牌定制陪玩私",
+        "most_recent_tweet_id": "2090625854338662723",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 165,
+          "like_count": 7405,
+          "listed_count": 20,
+          "media_count": 515,
+          "tweet_count": 3301
+        },
+        "url": "https://t.co/LRQvNy5Sw5",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-20T07:25:31.000Z",
+        "description": "SHU | i draw cute girls\n仕事 / work : shushu440920@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/SHU44",
+                "end": 23,
+                "expanded_url": "https://patreon.com/SHU44",
+                "start": 0,
+                "url": "https://t.co/H0Y19cz3SF"
+              }
+            ]
+          }
+        },
+        "id": "1285113556749266944",
+        "is_identity_verified": false,
+        "location": "Mumei",
+        "most_recent_tweet_id": "2090620525202862508",
+        "name": "𝗦𝗛𝗨🍨",
+        "pinned_tweet_id": "2089171073803980922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285113556749266944/1786548791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087562443765788672/ZZUNT_aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88759,
+          "following_count": 387,
+          "like_count": 20092,
+          "listed_count": 414,
+          "media_count": 2169,
+          "tweet_count": 14668
+        },
+        "url": "https://t.co/H0Y19cz3SF",
+        "username": "shusuchii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

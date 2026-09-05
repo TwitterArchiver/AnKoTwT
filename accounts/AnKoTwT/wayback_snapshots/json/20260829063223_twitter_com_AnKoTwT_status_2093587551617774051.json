@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093587543292067840",
+        "3_2093587543325540352",
+        "3_2093587543036231680",
+        "3_2093587543120089088"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093587551617774051",
+    "created_at": "2026-08-29T06:32:23.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T07:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093587551617774051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lsZEI6F6P4",
+          "end": 47,
+          "expanded_url": "https://x.com/AnKoTwT/status/2093587551617774051/photo/1",
+          "media_key": "3_2093587543292067840",
+          "start": 24,
+          "url": "https://t.co/lsZEI6F6P4"
+        },
+        {
+          "display_url": "pic.x.com/lsZEI6F6P4",
+          "end": 47,
+          "expanded_url": "https://x.com/AnKoTwT/status/2093587551617774051/photo/1",
+          "media_key": "3_2093587543325540352",
+          "start": 24,
+          "url": "https://t.co/lsZEI6F6P4"
+        },
+        {
+          "display_url": "pic.x.com/lsZEI6F6P4",
+          "end": 47,
+          "expanded_url": "https://x.com/AnKoTwT/status/2093587551617774051/photo/1",
+          "media_key": "3_2093587543036231680",
+          "start": 24,
+          "url": "https://t.co/lsZEI6F6P4"
+        },
+        {
+          "display_url": "pic.x.com/lsZEI6F6P4",
+          "end": 47,
+          "expanded_url": "https://x.com/AnKoTwT/status/2093587551617774051/photo/1",
+          "media_key": "3_2093587543120089088",
+          "start": 24,
+          "url": "https://t.co/lsZEI6F6P4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093587551617774051",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093587543292067840"
+      },
+      {
+        "media_key": "3_2093587543325540352"
+      },
+      {
+        "media_key": "3_2093587543036231680"
+      },
+      {
+        "media_key": "3_2093587543120089088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想不想让妈妈带你玩全世界最好玩的守望先锋O.o https://t.co/lsZEI6F6P4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 839,
+        "media_key": "3_2093587543292067840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3qx0AbQAATxhG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2093587543325540352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3qx0IaAAAM_yC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2093587543036231680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3qxzDbgAAD0w4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2093587543120089088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3qxzXbEAA4omw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093587543292067840",
+            "3_2093587543325540352",
+            "3_2093587543036231680",
+            "3_2093587543120089088"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093587551617774051",
+        "created_at": "2026-08-29T06:32:23.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093587551617774051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lsZEI6F6P4",
+              "end": 47,
+              "expanded_url": "https://x.com/AnKoTwT/status/2093587551617774051/photo/1",
+              "media_key": "3_2093587543292067840",
+              "start": 24,
+              "url": "https://t.co/lsZEI6F6P4"
+            },
+            {
+              "display_url": "pic.x.com/lsZEI6F6P4",
+              "end": 47,
+              "expanded_url": "https://x.com/AnKoTwT/status/2093587551617774051/photo/1",
+              "media_key": "3_2093587543325540352",
+              "start": 24,
+              "url": "https://t.co/lsZEI6F6P4"
+            },
+            {
+              "display_url": "pic.x.com/lsZEI6F6P4",
+              "end": 47,
+              "expanded_url": "https://x.com/AnKoTwT/status/2093587551617774051/photo/1",
+              "media_key": "3_2093587543036231680",
+              "start": 24,
+              "url": "https://t.co/lsZEI6F6P4"
+            },
+            {
+              "display_url": "pic.x.com/lsZEI6F6P4",
+              "end": 47,
+              "expanded_url": "https://x.com/AnKoTwT/status/2093587551617774051/photo/1",
+              "media_key": "3_2093587543120089088",
+              "start": 24,
+              "url": "https://t.co/lsZEI6F6P4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093587551617774051",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093587543292067840"
+          },
+          {
+            "media_key": "3_2093587543325540352"
+          },
+          {
+            "media_key": "3_2093587543036231680"
+          },
+          {
+            "media_key": "3_2093587543120089088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想不想让妈妈带你玩全世界最好玩的守望先锋O.o https://t.co/lsZEI6F6P4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 匿名提问箱: https://t.co/aI0OTcm1s8 09 153/68 奇迹的魔女。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  接举牌定制陪玩私（无任何线下）",
+        "most_recent_tweet_id": "2093587551617774051",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6131,
+          "following_count": 167,
+          "like_count": 7559,
+          "listed_count": 20,
+          "media_count": 507,
+          "tweet_count": 3353
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

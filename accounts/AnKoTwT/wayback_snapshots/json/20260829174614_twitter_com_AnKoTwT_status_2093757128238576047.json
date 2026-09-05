@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2093709755189801468",
+    "created_at": "2026-08-29T17:46:14.000Z",
+    "display_text_range": [
+      16,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T18:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093757128238576047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1468241951606591495",
+          "start": 0,
+          "username": "UnfortunatePao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093757128238576047",
+    "in_reply_to_user_id": "1468241951606591495",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093753114176389434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UnfortunatePao He's really cute and perfect for you.(⑅˃◡˂⑅)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2093709755189801468",
+        "created_at": "2026-08-29T17:46:14.000Z",
+        "display_text_range": [
+          16,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093757128238576047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1468241951606591495",
+              "start": 0,
+              "username": "UnfortunatePao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093757128238576047",
+        "in_reply_to_user_id": "1468241951606591495",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093753114176389434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnfortunatePao He's really cute and perfect for you.(⑅˃◡˂⑅)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468241951606591495",
+        "conversation_id": "2093709755189801468",
+        "created_at": "2026-08-29T17:30:17.000Z",
+        "display_text_range": [
+          9,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093753114176389434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934978221470277632",
+              "start": 0,
+              "username": "AnKoTwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093753114176389434",
+        "in_reply_to_user_id": "1934978221470277632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093709755189801468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnKoTwT Wah i need that"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 匿名提问箱: https://t.co/aI0OTcm1s8 09 153/68 奇迹的魔女。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  接举牌定制陪玩私（无任何线下）",
+        "most_recent_tweet_id": "2093757128238576047",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6136,
+          "following_count": 167,
+          "like_count": 7570,
+          "listed_count": 20,
+          "media_count": 509,
+          "tweet_count": 3358
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-07T15:32:30.000Z",
+        "description": "Typical Degenerate",
+        "id": "1468241951606591495",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093753296897151433",
+        "name": "DegeneratePao",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468241951606591495/1759598174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974510733724647424/HKH5OPeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 2435,
+          "like_count": 18497,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1614
+        },
+        "url": "",
+        "username": "UnfortunatePao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

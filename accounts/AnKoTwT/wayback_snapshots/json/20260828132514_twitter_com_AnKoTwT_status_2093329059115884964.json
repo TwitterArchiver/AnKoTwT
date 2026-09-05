@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092923711477465088",
+        "3_2092923711414546434",
+        "3_2092923711418728448",
+        "3_2092923711414480896"
+      ],
+      "media_source_tweet_id": [
+        "2092930132440994288",
+        "2092930132440994288",
+        "2092930132440994288",
+        "2092930132440994288"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2093329059115884964",
+    "created_at": "2026-08-28T13:25:14.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T14:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093329059115884964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1446686990141845510",
+          "start": 3,
+          "username": "Kase_2230117"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xB0I6ldnGq",
+          "end": 53,
+          "expanded_url": "https://x.com/Kase_2230117/status/2092930132440994288/photo/1",
+          "media_key": "3_2092923711477465088",
+          "start": 30,
+          "url": "https://t.co/xB0I6ldnGq"
+        },
+        {
+          "display_url": "pic.x.com/xB0I6ldnGq",
+          "end": 53,
+          "expanded_url": "https://x.com/Kase_2230117/status/2092930132440994288/photo/1",
+          "media_key": "3_2092923711414546434",
+          "start": 30,
+          "url": "https://t.co/xB0I6ldnGq"
+        },
+        {
+          "display_url": "pic.x.com/xB0I6ldnGq",
+          "end": 53,
+          "expanded_url": "https://x.com/Kase_2230117/status/2092930132440994288/photo/1",
+          "media_key": "3_2092923711418728448",
+          "start": 30,
+          "url": "https://t.co/xB0I6ldnGq"
+        },
+        {
+          "display_url": "pic.x.com/xB0I6ldnGq",
+          "end": 53,
+          "expanded_url": "https://x.com/Kase_2230117/status/2092930132440994288/photo/1",
+          "media_key": "3_2092923711414480896",
+          "start": 30,
+          "url": "https://t.co/xB0I6ldnGq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093329059115884964",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2092923711477465088"
+      },
+      {
+        "media_key": "3_2092923711414546434"
+      },
+      {
+        "media_key": "3_2092923711418728448"
+      },
+      {
+        "media_key": "3_2092923711414480896"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 821
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092930132440994288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kase_2230117: 이리야 보고 가세요~ https://t.co/xB0I6ldnGq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3910,
+        "media_key": "3_2092923711477465088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuPBtybQAAJgux.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092923711414546434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuPBtjbMAIhS-I.jpg",
+        "width": 3848
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092923711418728448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuPBtkbAAA-Fjv.jpg",
+        "width": 2164
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092923711414480896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuPBtjaMAAqmkH.jpg",
+        "width": 2732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092923711477465088",
+            "3_2092923711414546434",
+            "3_2092923711418728448",
+            "3_2092923711414480896"
+          ],
+          "media_source_tweet_id": [
+            "2092930132440994288",
+            "2092930132440994288",
+            "2092930132440994288",
+            "2092930132440994288"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2093329059115884964",
+        "created_at": "2026-08-28T13:25:14.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093329059115884964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1446686990141845510",
+              "start": 3,
+              "username": "Kase_2230117"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xB0I6ldnGq",
+              "end": 53,
+              "expanded_url": "https://x.com/Kase_2230117/status/2092930132440994288/photo/1",
+              "media_key": "3_2092923711477465088",
+              "start": 30,
+              "url": "https://t.co/xB0I6ldnGq"
+            },
+            {
+              "display_url": "pic.x.com/xB0I6ldnGq",
+              "end": 53,
+              "expanded_url": "https://x.com/Kase_2230117/status/2092930132440994288/photo/1",
+              "media_key": "3_2092923711414546434",
+              "start": 30,
+              "url": "https://t.co/xB0I6ldnGq"
+            },
+            {
+              "display_url": "pic.x.com/xB0I6ldnGq",
+              "end": 53,
+              "expanded_url": "https://x.com/Kase_2230117/status/2092930132440994288/photo/1",
+              "media_key": "3_2092923711418728448",
+              "start": 30,
+              "url": "https://t.co/xB0I6ldnGq"
+            },
+            {
+              "display_url": "pic.x.com/xB0I6ldnGq",
+              "end": 53,
+              "expanded_url": "https://x.com/Kase_2230117/status/2092930132440994288/photo/1",
+              "media_key": "3_2092923711414480896",
+              "start": 30,
+              "url": "https://t.co/xB0I6ldnGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093329059115884964",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2092923711477465088"
+          },
+          {
+            "media_key": "3_2092923711414546434"
+          },
+          {
+            "media_key": "3_2092923711418728448"
+          },
+          {
+            "media_key": "3_2092923711414480896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 821
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092930132440994288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kase_2230117: 이리야 보고 가세요~ https://t.co/xB0I6ldnGq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092923711477465088",
+            "3_2092923711414546434",
+            "3_2092923711418728448",
+            "3_2092923711414480896"
+          ]
+        },
+        "author_id": "1446686990141845510",
+        "conversation_id": "2092930132440994288",
+        "created_at": "2026-08-27T11:00:02.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092930132440994288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xB0I6ldnGq",
+              "end": 35,
+              "expanded_url": "https://x.com/Kase_2230117/status/2092930132440994288/photo/1",
+              "media_key": "3_2092923711477465088",
+              "start": 12,
+              "url": "https://t.co/xB0I6ldnGq"
+            },
+            {
+              "display_url": "pic.x.com/xB0I6ldnGq",
+              "end": 35,
+              "expanded_url": "https://x.com/Kase_2230117/status/2092930132440994288/photo/1",
+              "media_key": "3_2092923711414546434",
+              "start": 12,
+              "url": "https://t.co/xB0I6ldnGq"
+            },
+            {
+              "display_url": "pic.x.com/xB0I6ldnGq",
+              "end": 35,
+              "expanded_url": "https://x.com/Kase_2230117/status/2092930132440994288/photo/1",
+              "media_key": "3_2092923711418728448",
+              "start": 12,
+              "url": "https://t.co/xB0I6ldnGq"
+            },
+            {
+              "display_url": "pic.x.com/xB0I6ldnGq",
+              "end": 35,
+              "expanded_url": "https://x.com/Kase_2230117/status/2092930132440994288/photo/1",
+              "media_key": "3_2092923711414480896",
+              "start": 12,
+              "url": "https://t.co/xB0I6ldnGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092930132440994288",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2092923711477465088"
+          },
+          {
+            "media_key": "3_2092923711414546434"
+          },
+          {
+            "media_key": "3_2092923711418728448"
+          },
+          {
+            "media_key": "3_2092923711414480896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2217,
+          "impression_count": 122429,
+          "like_count": 12189,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 821
+        },
+        "reply_settings": "everyone",
+        "text": "이리야 보고 가세요~ https://t.co/xB0I6ldnGq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbCIQf 匿名提问箱: https://t.co/aI0OTcltCA 09 153/68 奇迹的魔女。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbCIQf"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/aI0OTcltCA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy5Sw5"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  接举牌定制陪玩私",
+        "most_recent_tweet_id": "2093329059115884964",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6125,
+          "following_count": 167,
+          "like_count": 7543,
+          "listed_count": 20,
+          "media_count": 504,
+          "tweet_count": 3346
+        },
+        "url": "https://t.co/LRQvNy5Sw5",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-09T04:00:49.000Z",
+        "description": "10월 커미션 오픈 예정\nhttps://t.co/OaMEX3WyKe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pick.shoulder.fan/@cd0c0a95-61a4…",
+                "end": 37,
+                "expanded_url": "https://pick.shoulder.fan/@cd0c0a95-61a4-4b03-a9b9-847b82ddec62",
+                "start": 14,
+                "url": "https://t.co/OaMEX3WyKe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/43460823",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/43460823",
+                "start": 0,
+                "url": "https://t.co/MA2GQHa4yL"
+              }
+            ]
+          }
+        },
+        "id": "1446686990141845510",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093296003625754986",
+        "name": "kase",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1446686990141845510/1785203594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039356312518381568/1B3qiHvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69480,
+          "following_count": 347,
+          "like_count": 3830,
+          "listed_count": 364,
+          "media_count": 375,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/MA2GQHa4yL",
+        "username": "Kase_2230117",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
