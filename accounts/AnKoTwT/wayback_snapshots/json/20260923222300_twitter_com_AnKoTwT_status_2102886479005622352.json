@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2102886479005622352",
+    "created_at": "2026-09-23T22:23:00.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T23:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102886479005622352"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2102886479005622352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经这样忙碌要两个月了（）每天就是睡醒吃饭直播，然后下播去俱乐部上班，然后偶尔下午睡醒去拍新cos，再发平台更新(ᐢᴖ ·̫ ᴖᐢ)，偶尔出租一下cos服，每天喂喂猫咪，抽空看看漫画，练练琴唱唱歌，喔，还有散步去逛蛋糕店什么的。我还蛮喜欢直播的所以一直在坚持，喜欢和弹幕聊天♡感觉好充实啊每天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2102886479005622352",
+        "created_at": "2026-09-23T22:23:00.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T23:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102886479005622352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102886479005622352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经这样忙碌要两个月了（）每天就是睡醒吃饭直播，然后下播去俱乐部上班，然后偶尔下午睡醒去拍新cos，再发平台更新(ᐢᴖ ·̫ ᴖᐢ)，偶尔出租一下cos服，每天喂喂猫咪，抽空看看漫画，练练琴唱唱歌，喔，还有散步去逛蛋糕店什么的。我还蛮喜欢直播的所以一直在坚持，喜欢和弹幕聊天♡感觉好充实啊每天"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 闲鱼:https://t.co/9HhBBjStfj匿名提问箱: https://t.co/aI0OTcm1s8 奇迹的魔女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.8Iv6770?tk=6…",
+                "end": 47,
+                "expanded_url": "https://m.tb.cn/h.8Iv6770?tk=6UntTRm8TyKHU293",
+                "start": 24,
+                "url": "https://t.co/9HhBBjStfj"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 77,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 54,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  接举牌定制陪玩私",
+        "most_recent_tweet_id": "2102886479005622352",
+        "name": "お姫様",
+        "pinned_tweet_id": "2097909043880992869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6689,
+          "following_count": 167,
+          "like_count": 8298,
+          "listed_count": 21,
+          "media_count": 554,
+          "tweet_count": 3498
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

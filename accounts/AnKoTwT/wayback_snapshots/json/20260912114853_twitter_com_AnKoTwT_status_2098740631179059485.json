@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098397618737197056"
+      ],
+      "media_source_tweet_id": [
+        "2098397624663691760"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2098740631179059485",
+    "created_at": "2026-09-12T11:48:53.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T12:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098740631179059485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "883853634152275968",
+          "start": 3,
+          "username": "ZRe00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KCOFAXY2Xi",
+          "end": 34,
+          "expanded_url": "https://x.com/ZRe00/status/2098397624663691760/photo/1",
+          "media_key": "3_2098397618737197056",
+          "start": 11,
+          "url": "https://t.co/KCOFAXY2Xi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098740631179059485",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2098397618737197056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098397624663691760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZRe00: https://t.co/KCOFAXY2Xi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098397618737197056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8BhDZbMAAUzO9.jpg",
+        "width": 1956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098397618737197056"
+          ],
+          "media_source_tweet_id": [
+            "2098397624663691760"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2098740631179059485",
+        "created_at": "2026-09-12T11:48:53.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098740631179059485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "883853634152275968",
+              "start": 3,
+              "username": "ZRe00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCOFAXY2Xi",
+              "end": 34,
+              "expanded_url": "https://x.com/ZRe00/status/2098397624663691760/photo/1",
+              "media_key": "3_2098397618737197056",
+              "start": 11,
+              "url": "https://t.co/KCOFAXY2Xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098740631179059485",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098397618737197056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098397624663691760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZRe00: https://t.co/KCOFAXY2Xi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098397618737197056"
+          ]
+        },
+        "author_id": "883853634152275968",
+        "conversation_id": "2098397624663691760",
+        "created_at": "2026-09-11T13:05:54.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098397624663691760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCOFAXY2Xi",
+              "end": 23,
+              "expanded_url": "https://x.com/ZRe00/status/2098397624663691760/photo/1",
+              "media_key": "3_2098397618737197056",
+              "start": 0,
+              "url": "https://t.co/KCOFAXY2Xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098397624663691760",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098397618737197056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1019,
+          "impression_count": 95493,
+          "like_count": 10705,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 1148
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KCOFAXY2Xi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 匿名提问箱: https://t.co/aI0OTcm1s8  奇迹的魔女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  接举牌定制陪玩私",
+        "most_recent_tweet_id": "2098740631179059485",
+        "name": "お姫様",
+        "pinned_tweet_id": "2097909043880992869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6561,
+          "following_count": 165,
+          "like_count": 7941,
+          "listed_count": 21,
+          "media_count": 534,
+          "tweet_count": 3440
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-09T01:01:42.000Z",
+        "description": "oreoreo＠gmail.com \n｜イラスト｜漫画\n｜毎日投稿中｜色んな絵を描く",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/83905d4f-6098-…",
+                "end": 23,
+                "expanded_url": "https://lit.link/83905d4f-6098-4697-bbf7-61ec109f02ca",
+                "start": 0,
+                "url": "https://t.co/GyxU0fN5x3"
+              }
+            ]
+          }
+        },
+        "id": "883853634152275968",
+        "is_identity_verified": false,
+        "location": "AI学習・転載・編集　×",
+        "most_recent_tweet_id": "2098397674680750470",
+        "name": "zero/ぜろ",
+        "pinned_tweet_id": "2091120079161471019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/883853634152275968/1787208836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503817312826134528/bK-ntgvO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75853,
+          "following_count": 321,
+          "like_count": 9251,
+          "listed_count": 613,
+          "media_count": 95,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/GyxU0fN5x3",
+        "username": "ZRe00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

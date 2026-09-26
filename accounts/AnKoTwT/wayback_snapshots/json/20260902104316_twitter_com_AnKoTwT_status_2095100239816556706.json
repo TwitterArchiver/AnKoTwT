@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095051922206273536"
+      ],
+      "media_source_tweet_id": [
+        "2095051927935648091"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2095100239816556706",
+    "created_at": "2026-09-02T10:43:16.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T11:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095100239816556706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1703299392818835456",
+          "start": 3,
+          "username": "AirOnaGstring"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ypzAUDJMEa",
+          "end": 42,
+          "expanded_url": "https://x.com/AirOnaGstring/status/2095051927935648091/photo/1",
+          "media_key": "3_2095051922206273536",
+          "start": 19,
+          "url": "https://t.co/ypzAUDJMEa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095100239816556706",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2095051922206273536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095051927935648091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AirOnaGstring: https://t.co/ypzAUDJMEa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2095051922206273536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMen4kasAAmdjQ.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095051922206273536"
+          ],
+          "media_source_tweet_id": [
+            "2095051927935648091"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2095100239816556706",
+        "created_at": "2026-09-02T10:43:16.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095100239816556706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1703299392818835456",
+              "start": 3,
+              "username": "AirOnaGstring"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypzAUDJMEa",
+              "end": 42,
+              "expanded_url": "https://x.com/AirOnaGstring/status/2095051927935648091/photo/1",
+              "media_key": "3_2095051922206273536",
+              "start": 19,
+              "url": "https://t.co/ypzAUDJMEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095100239816556706",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095051922206273536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095051927935648091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AirOnaGstring: https://t.co/ypzAUDJMEa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095051922206273536"
+          ]
+        },
+        "author_id": "1703299392818835456",
+        "conversation_id": "2095051927935648091",
+        "created_at": "2026-09-02T07:31:18.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095051927935648091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypzAUDJMEa",
+              "end": 23,
+              "expanded_url": "https://x.com/AirOnaGstring/status/2095051927935648091/photo/1",
+              "media_key": "3_2095051922206273536",
+              "start": 0,
+              "url": "https://t.co/ypzAUDJMEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095051927935648091",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095051922206273536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 12845,
+          "like_count": 1325,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ypzAUDJMEa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbCIQf 匿名提问箱: https://t.co/aI0OTcltCA 奇迹的魔女 企鹅群:955524135 可以来聊天哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbCIQf"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/aI0OTcltCA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy5Sw5"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  接举牌定制陪玩私（无任何线下）",
+        "most_recent_tweet_id": "2095100239816556706",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6194,
+          "following_count": 167,
+          "like_count": 7694,
+          "listed_count": 20,
+          "media_count": 515,
+          "tweet_count": 3381
+        },
+        "url": "https://t.co/LRQvNy5Sw5",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-17T06:46:51.000Z",
+        "description": "18",
+        "id": "1703299392818835456",
+        "is_identity_verified": false,
+        "location": "he/they",
+        "most_recent_tweet_id": "2095051927935648091",
+        "name": "c",
+        "pinned_tweet_id": "2071947049944461690",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703299392818835456/1787077520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089780243573956608/Axiu1cV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 45,
+          "like_count": 14517,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 2762
+        },
+        "url": "",
+        "username": "AirOnaGstring",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

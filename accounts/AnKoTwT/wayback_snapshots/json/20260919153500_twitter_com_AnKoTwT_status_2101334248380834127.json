@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101258116117733376"
+      ],
+      "media_source_tweet_id": [
+        "2101258126263730407"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2101334248380834127",
+    "created_at": "2026-09-19T15:35:00.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101334248380834127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1953779419820306433",
+          "start": 3,
+          "username": "aco9are_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2KPz946oMg",
+          "end": 43,
+          "expanded_url": "https://x.com/aco9are_0/status/2101258126263730407/photo/1",
+          "media_key": "3_2101258116117733376",
+          "start": 20,
+          "url": "https://t.co/2KPz946oMg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101334248380834127",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101258116117733376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 474
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101258126263730407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aco9are_0: 金色の闇 https://t.co/2KPz946oMg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2101258116117733376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkrH6iaoAA7urX.jpg",
+        "width": 2468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101258116117733376"
+          ],
+          "media_source_tweet_id": [
+            "2101258126263730407"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2101334248380834127",
+        "created_at": "2026-09-19T15:35:00.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101334248380834127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1953779419820306433",
+              "start": 3,
+              "username": "aco9are_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KPz946oMg",
+              "end": 43,
+              "expanded_url": "https://x.com/aco9are_0/status/2101258126263730407/photo/1",
+              "media_key": "3_2101258116117733376",
+              "start": 20,
+              "url": "https://t.co/2KPz946oMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101334248380834127",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101258116117733376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 474
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101258126263730407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aco9are_0: 金色の闇 https://t.co/2KPz946oMg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101258116117733376"
+          ]
+        },
+        "author_id": "1953779419820306433",
+        "conversation_id": "2101258126263730407",
+        "created_at": "2026-09-19T10:32:31.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T11:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101258126263730407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KPz946oMg",
+              "end": 28,
+              "expanded_url": "https://x.com/aco9are_0/status/2101258126263730407/photo/1",
+              "media_key": "3_2101258116117733376",
+              "start": 5,
+              "url": "https://t.co/2KPz946oMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101258126263730407",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101258116117733376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 666,
+          "impression_count": 53397,
+          "like_count": 5221,
+          "quote_count": 15,
+          "reply_count": 0,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "金色の闇 https://t.co/2KPz946oMg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 闲鱼:https://t.co/9HhBBjStfj匿名提问箱: https://t.co/aI0OTcm1s8 奇迹的魔女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.8Iv6770?tk=6…",
+                "end": 47,
+                "expanded_url": "https://m.tb.cn/h.8Iv6770?tk=6UntTRm8TyKHU293",
+                "start": 24,
+                "url": "https://t.co/9HhBBjStfj"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 77,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 54,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  接举牌定制陪玩私",
+        "most_recent_tweet_id": "2101334248380834127",
+        "name": "お姫様",
+        "pinned_tweet_id": "2097909043880992869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6664,
+          "following_count": 167,
+          "like_count": 8134,
+          "listed_count": 20,
+          "media_count": 545,
+          "tweet_count": 3476
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-08T11:25:07.000Z",
+        "description": "🐾aco7313work@gmail.com\n🐾https://t.co/fvMWFM1P4l\nツインテールの女の子が好きです",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/ko/portfolio/a…",
+                "end": 47,
+                "expanded_url": "https://xfolio.jp/ko/portfolio/aco9are_0",
+                "start": 24,
+                "url": "https://t.co/fvMWFM1P4l"
+              }
+            ]
+          }
+        },
+        "id": "1953779419820306433",
+        "is_identity_verified": false,
+        "location": "AI ❌",
+        "most_recent_tweet_id": "2101300302104404053",
+        "name": "aco",
+        "pinned_tweet_id": "2035688631776796904",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034686258153402368/X_tnrKM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8002,
+          "following_count": 24,
+          "like_count": 164,
+          "listed_count": 51,
+          "media_count": 48,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "aco9are_0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

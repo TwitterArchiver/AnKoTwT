@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094018805618126848"
+      ],
+      "media_source_tweet_id": [
+        "2094018813453021375"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2094522244764774845",
+    "created_at": "2026-08-31T20:26:32.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T21:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094522244764774845"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 14,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 46,
+          "start": 36,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426299305460072448",
+          "start": 3,
+          "username": "_razz_o0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/27Cwq6lgoF",
+          "end": 70,
+          "expanded_url": "https://x.com/_razz_o0/status/2094018813453021375/photo/1",
+          "media_key": "3_2094018805618126848",
+          "start": 47,
+          "url": "https://t.co/27Cwq6lgoF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094522244764774845",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2094018805618126848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 250
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094018813453021375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_razz_o0: #NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/27Cwq6lgoF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094018805618126848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9zAlXbMAAWaoz.jpg",
+        "width": 1424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094018805618126848"
+          ],
+          "media_source_tweet_id": [
+            "2094018813453021375"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2094522244764774845",
+        "created_at": "2026-08-31T20:26:32.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T21:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094522244764774845"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 14,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 46,
+              "start": 36,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426299305460072448",
+              "start": 3,
+              "username": "_razz_o0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/27Cwq6lgoF",
+              "end": 70,
+              "expanded_url": "https://x.com/_razz_o0/status/2094018813453021375/photo/1",
+              "media_key": "3_2094018805618126848",
+              "start": 47,
+              "url": "https://t.co/27Cwq6lgoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094522244764774845",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094018805618126848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094018813453021375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_razz_o0: #NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/27Cwq6lgoF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094018805618126848"
+          ]
+        },
+        "author_id": "1426299305460072448",
+        "conversation_id": "2094018813453021375",
+        "created_at": "2026-08-30T11:06:04.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094018813453021375"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/27Cwq6lgoF",
+              "end": 56,
+              "expanded_url": "https://x.com/_razz_o0/status/2094018813453021375/photo/1",
+              "media_key": "3_2094018805618126848",
+              "start": 33,
+              "url": "https://t.co/27Cwq6lgoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094018813453021375",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094018805618126848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 12818,
+          "like_count": 2006,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 250
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/27Cwq6lgoF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 匿名提问箱: https://t.co/aI0OTcm1s8 奇迹的魔女。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  接举牌定制陪玩私（无任何线下）",
+        "most_recent_tweet_id": "2094522244764774845",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6185,
+          "following_count": 167,
+          "like_count": 7618,
+          "listed_count": 20,
+          "media_count": 512,
+          "tweet_count": 3360
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T21:47:34.000Z",
+        "description": "FA/創作 https://t.co/cXOhU2iZcT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/hmstaa",
+                "end": 29,
+                "expanded_url": "https://lit.link/hmstaa",
+                "start": 6,
+                "url": "https://t.co/cXOhU2iZcT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@_razz_o0",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@_razz_o0",
+                "start": 0,
+                "url": "https://t.co/I1RsS4R5Ft"
+              }
+            ]
+          }
+        },
+        "id": "1426299305460072448",
+        "is_identity_verified": false,
+        "location": "+.꒰ঌ低浮上໒꒱.+",
+        "most_recent_tweet_id": "2094018813453021375",
+        "name": "ラズリ︎",
+        "pinned_tweet_id": "1903248994190627119",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426299305460072448/1753903109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008262851673419781/3crgp9-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 749,
+          "like_count": 62764,
+          "listed_count": 22,
+          "media_count": 62,
+          "tweet_count": 3401
+        },
+        "url": "https://t.co/I1RsS4R5Ft",
+        "username": "_razz_o0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097909032552157184",
+        "3_2097909032552108032"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044801920",
+          "name": "Overwatch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2097909043880992869",
+    "created_at": "2026-09-10T04:44:27.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T05:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097909043880992869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "1857071874464735232",
+          "start": 19,
+          "username": "xx10Neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gLR3Sx1vPa",
+          "end": 135,
+          "expanded_url": "https://x.com/AnKoTwT/status/2097909043880992869/photo/1",
+          "media_key": "3_2097909032552157184",
+          "start": 112,
+          "url": "https://t.co/gLR3Sx1vPa"
+        },
+        {
+          "display_url": "pic.x.com/gLR3Sx1vPa",
+          "end": 135,
+          "expanded_url": "https://x.com/AnKoTwT/status/2097909043880992869/photo/1",
+          "media_key": "3_2097909032552108032",
+          "start": 112,
+          "url": "https://t.co/gLR3Sx1vPa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097909043880992869",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097909032552157184"
+      },
+      {
+        "media_key": "3_2097909032552108032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🔝置顶\n我是郁郁🐾是女孩子！\n存图号:@xx10Neko \n关键词:游戏宅 电波系 萝莉控  狗控\n欢迎过门和我聊天交友~♡\n也可以约我委托/陪玩（ow/三角洲/Steam联机等）\n爱我请多支持我吧ᓚ₍ ^. .^₎啾咪♡ https://t.co/gLR3Sx1vPa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097909032552157184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1FJmBa0AAYo1t.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2097909032552108032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1FJmBaEAA02KP.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097909032552157184",
+            "3_2097909032552108032"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044801920",
+              "name": "Overwatch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2097909043880992869",
+        "created_at": "2026-09-10T04:44:27.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097909043880992869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1857071874464735232",
+              "start": 19,
+              "username": "xx10Neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLR3Sx1vPa",
+              "end": 135,
+              "expanded_url": "https://x.com/AnKoTwT/status/2097909043880992869/photo/1",
+              "media_key": "3_2097909032552157184",
+              "start": 112,
+              "url": "https://t.co/gLR3Sx1vPa"
+            },
+            {
+              "display_url": "pic.x.com/gLR3Sx1vPa",
+              "end": 135,
+              "expanded_url": "https://x.com/AnKoTwT/status/2097909043880992869/photo/1",
+              "media_key": "3_2097909032552108032",
+              "start": 112,
+              "url": "https://t.co/gLR3Sx1vPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097909043880992869",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097909032552157184"
+          },
+          {
+            "media_key": "3_2097909032552108032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔝置顶\n我是郁郁🐾是女孩子！\n存图号:@xx10Neko \n关键词:游戏宅 电波系 萝莉控  狗控\n欢迎过门和我聊天交友~♡\n也可以约我委托/陪玩（ow/三角洲/Steam联机等）\n爱我请多支持我吧ᓚ₍ ^. .^₎啾咪♡ https://t.co/gLR3Sx1vPa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 盒岛:https://t.co/ngcmtbDgFN 匿名提问箱: https://t.co/aI0OTcm1s8  奇迹的魔女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 47,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 24,
+                "url": "https://t.co/ngcmtbDgFN"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 55,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  接举牌定制陪玩私",
+        "most_recent_tweet_id": "2097909043880992869",
+        "name": "お姫様",
+        "pinned_tweet_id": "2079051575084109879",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6398,
+          "following_count": 164,
+          "like_count": 7856,
+          "listed_count": 21,
+          "media_count": 531,
+          "tweet_count": 3422
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-14T14:43:40.000Z",
+        "description": "『 🐾 』✧ Thank you for your love ✧ DM → @AnKoTwT Fanbox ：https://t.co/H8ldNw6jTv  CN/EN/JP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "AnKoTwT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://uwuneko.fanbox.cc",
+                "start": 55,
+                "url": "https://t.co/H8ldNw6jTv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/28435W",
+                "end": 23,
+                "expanded_url": "http://www.hedaoapp.com/28435W",
+                "start": 0,
+                "url": "https://t.co/oS5nE5sRbG"
+              }
+            ]
+          }
+        },
+        "id": "1857071874464735232",
+        "is_identity_verified": false,
+        "location": "✟",
+        "most_recent_tweet_id": "2097124482641235994",
+        "name": "Ankoku",
+        "pinned_tweet_id": "1934226982163939371",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857071874464735232/1749100228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930492203677450240/LngMop3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21303,
+          "following_count": 7,
+          "like_count": 2422,
+          "listed_count": 104,
+          "media_count": 109,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/oS5nE5sRbG",
+        "username": "xx10Neko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
