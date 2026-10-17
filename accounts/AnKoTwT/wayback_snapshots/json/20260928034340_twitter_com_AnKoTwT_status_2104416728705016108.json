@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104346716363522048"
+      ],
+      "media_source_tweet_id": [
+        "2104346725372899688"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "conversation_id": "2104416728705016108",
+    "created_at": "2026-09-28T03:43:40.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T04:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104416728705016108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1978694130000891904",
+          "start": 3,
+          "username": "akkoA20"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RP8dJxTUVU",
+          "end": 36,
+          "expanded_url": "https://x.com/akkoA20/status/2104346725372899688/photo/1",
+          "media_key": "3_2104346716363522048",
+          "start": 13,
+          "url": "https://t.co/RP8dJxTUVU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104416728705016108",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2104346716363522048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104346725372899688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akkoA20: https://t.co/RP8dJxTUVU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1885,
+        "media_key": "3_2104346716363522048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQkMHEbgAALkOk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104346716363522048"
+          ],
+          "media_source_tweet_id": [
+            "2104346725372899688"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "conversation_id": "2104416728705016108",
+        "created_at": "2026-09-28T03:43:40.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T04:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104416728705016108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978694130000891904",
+              "start": 3,
+              "username": "akkoA20"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RP8dJxTUVU",
+              "end": 36,
+              "expanded_url": "https://x.com/akkoA20/status/2104346725372899688/photo/1",
+              "media_key": "3_2104346716363522048",
+              "start": 13,
+              "url": "https://t.co/RP8dJxTUVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104416728705016108",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104346716363522048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104346725372899688",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akkoA20: https://t.co/RP8dJxTUVU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104346716363522048"
+          ]
+        },
+        "author_id": "1978694130000891904",
+        "conversation_id": "2104346725372899688",
+        "created_at": "2026-09-27T23:05:30.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104346725372899688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RP8dJxTUVU",
+              "end": 23,
+              "expanded_url": "https://x.com/akkoA20/status/2104346725372899688/photo/1",
+              "media_key": "3_2104346716363522048",
+              "start": 0,
+              "url": "https://t.co/RP8dJxTUVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104346725372899688",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104346716363522048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 206,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RP8dJxTUVU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 闲鱼:https://t.co/9HhBBjStfj匿名提问箱: https://t.co/aI0OTcm1s8 奇迹的魔女 150/67  ISFJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.8Iv6770?tk=6…",
+                "end": 47,
+                "expanded_url": "https://m.tb.cn/h.8Iv6770?tk=6UntTRm8TyKHU293",
+                "start": 24,
+                "url": "https://t.co/9HhBBjStfj"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 77,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 54,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  接举牌定制陪玩私",
+        "most_recent_tweet_id": "2104416728705016108",
+        "name": "お姫様",
+        "pinned_tweet_id": "2097909043880992869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6695,
+          "following_count": 167,
+          "like_count": 8423,
+          "listed_count": 21,
+          "media_count": 557,
+          "tweet_count": 3511
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-16T05:27:09.000Z",
+        "description": "⋆ฅ^•ﻌ•^ฅ⋆\n低精力懶得社交之人。\n身高1.46我每張照片都p了謝謝。",
+        "id": "1978694130000891904",
+        "is_identity_verified": false,
+        "location": "‎♱˚₊‧꒰ა₍^› ꘍ ‹ ^₎⟆ ‎♱˚₊‧꒰ა",
+        "most_recent_tweet_id": "2104346806218088490",
+        "name": "novembre",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978694130000891904/1764900458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072187133499166720/nXGsevbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 38,
+          "like_count": 1378,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "akkoA20",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

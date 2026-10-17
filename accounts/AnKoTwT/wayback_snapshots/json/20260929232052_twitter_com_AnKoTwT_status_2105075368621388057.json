@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105075359427510272"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105075368621388057",
+    "created_at": "2026-09-29T23:20:52.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T00:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105075368621388057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YNsS5sKamg",
+          "end": 31,
+          "expanded_url": "https://x.com/AnKoTwT/status/2105075368621388057/photo/1",
+          "media_key": "3_2105075359427510272",
+          "start": 8,
+          "url": "https://t.co/YNsS5sKamg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105075368621388057",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105075359427510272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢非洲之心。 https://t.co/YNsS5sKamg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_2105075359427510272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTa64uAawAA2T7v.jpg",
+        "width": 1615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105075359427510272"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105075368621388057",
+        "created_at": "2026-09-29T23:20:52.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T00:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105075368621388057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YNsS5sKamg",
+              "end": 31,
+              "expanded_url": "https://x.com/AnKoTwT/status/2105075368621388057/photo/1",
+              "media_key": "3_2105075359427510272",
+              "start": 8,
+              "url": "https://t.co/YNsS5sKamg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105075368621388057",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105075359427510272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢非洲之心。 https://t.co/YNsS5sKamg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 微店:黑猫の甜品店 Fanbox :https://t.co/7pXe2XwUpC 匿名提问箱: https://t.co/aI0OTcm1s8 奇迹的魔女 150/67 ISFJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 62,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 39,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 93,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 70,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  购图定制陪玩私",
+        "most_recent_tweet_id": "2105075368621388057",
+        "name": "お姫様",
+        "pinned_tweet_id": "2097909043880992869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6698,
+          "following_count": 168,
+          "like_count": 8476,
+          "listed_count": 21,
+          "media_count": 558,
+          "tweet_count": 3512
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

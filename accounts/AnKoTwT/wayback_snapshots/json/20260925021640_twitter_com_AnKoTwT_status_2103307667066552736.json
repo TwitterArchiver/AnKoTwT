@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      }
+    ],
+    "conversation_id": "2103307667066552736",
+    "created_at": "2026-09-25T02:16:40.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T03:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103307667066552736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/banpre_pz/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/banpre_pz/status/2102941358298415461",
+          "start": 31,
+          "url": "https://t.co/B2VyZqdyhL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103307667066552736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102941358298415461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好看好好看好好看好好看好好看好好看好好看好好看好好看好好看 https://t.co/B2VyZqdyhL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2102901196872978432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS8BfzVbkAALtJ3.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          }
+        ],
+        "conversation_id": "2103307667066552736",
+        "created_at": "2026-09-25T02:16:40.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T03:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103307667066552736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/banpre_pz/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/banpre_pz/status/2102941358298415461",
+              "start": 31,
+              "url": "https://t.co/B2VyZqdyhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103307667066552736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102941358298415461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好看好好看好好看好好看好好看好好看好好看好好看好好看好好看 https://t.co/B2VyZqdyhL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102901196872978432"
+          ]
+        },
+        "author_id": "182324361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          }
+        ],
+        "conversation_id": "2102941358298415461",
+        "created_at": "2026-09-24T02:01:05.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102941358298415461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c4oe1YLVFO",
+              "end": 166,
+              "expanded_url": "https://x.com/BANPRE_PZ/status/2102941358298415461/photo/1",
+              "media_key": "3_2102901196872978432",
+              "start": 143,
+              "url": "https://t.co/c4oe1YLVFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102941358298415461",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102901196872978432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 185,
+                "start": 178,
+                "tag": "rurudo"
+              },
+              {
+                "end": 196,
+                "start": 186,
+                "tag": "BANPRESTO"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 177,
+                "id": "1197173528",
+                "start": 169,
+                "username": "rurudo_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsp-prize.jp/title/IP000070…",
+                "end": 167,
+                "expanded_url": "https://bsp-prize.jp/title/IP00007056/",
+                "start": 144,
+                "url": "https://t.co/vf9CbRo2Cb"
+              }
+            ]
+          },
+          "text": "╭━━━━━━━━━╮\n　猫耳姿が可愛い🐾\n╰━ｖ━━━━━━━╯\n\n大人気イラストレーターrurudo先生のオリジナルキャラクター「ノア」＆「ハツネ」が、『ESPRESTO』シリーズに登場🖤🩷\n\n透明感のある彩色と繊細な造形にご注目✨\n2027年3月にクレーンゲーム景品で登場予定🎀\n\nhttps://t.co/vf9CbRo2Cb\n\n@rurudo_ #rurudo #BANPRESTO"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 961,
+          "impression_count": 326865,
+          "like_count": 3444,
+          "quote_count": 125,
+          "reply_count": 4,
+          "retweet_count": 623
+        },
+        "reply_settings": "everyone",
+        "text": "╭━━━━━━━━━╮\n　猫耳姿が可愛い🐾\n╰━ｖ━━━━━━━╯\n\n大人気イラストレーターrurudo先生のオリジナルキャラクター「ノア」＆「ハツネ」が、『ESPRESTO』シリーズに登場🖤🩷\n\n透明感のある彩色と繊細な造形にご注目✨\n2027年3月にクレーンゲーム景品で登場予定🎀 https://t.co/c4oe1YLVFO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 闲鱼:https://t.co/9HhBBjStfj匿名提问箱: https://t.co/aI0OTcm1s8 奇迹的魔女 150/67  ISFJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.8Iv6770?tk=6…",
+                "end": 47,
+                "expanded_url": "https://m.tb.cn/h.8Iv6770?tk=6UntTRm8TyKHU293",
+                "start": 24,
+                "url": "https://t.co/9HhBBjStfj"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 77,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 54,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  接举牌定制陪玩私",
+        "most_recent_tweet_id": "2103307667066552736",
+        "name": "お姫様",
+        "pinned_tweet_id": "2097909043880992869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6695,
+          "following_count": 167,
+          "like_count": 8327,
+          "listed_count": 21,
+          "media_count": 555,
+          "tweet_count": 3506
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1775414321365061632/xy03IiSL_bigger.jpg",
+          "description": "バンダイ・BANDAI SPIRITS",
+          "url": "https://twitter.com/BandaiOfficial",
+          "user_id": [
+            "1236962033481871360"
+          ]
+        },
+        "created_at": "2010-08-24T10:14:17.000Z",
+        "description": "クレーンゲーム景品を企画開発する（株）BANDAI SPIRITSの『バンプレストブランド』公式アカウントです。 新商品＆キャンペーン情報をお届けします！商品に関するアンケート実施中！詳細はパッケージをご確認ください。 ※個別のお問合せには対応しておりません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsp-prize.jp",
+                "end": 23,
+                "expanded_url": "https://bsp-prize.jp/",
+                "start": 0,
+                "url": "https://t.co/Qv756g3jUX"
+              }
+            ]
+          }
+        },
+        "id": "182324361",
+        "is_identity_verified": false,
+        "location": "東京都 港区",
+        "most_recent_tweet_id": "2103276953486909509",
+        "name": "バンプレストブランド(BANDAI SPIRITS)",
+        "pinned_tweet_id": "2100781875472240942",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/182324361/1722561381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732683578679676928/H7ywZGug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761878,
+          "following_count": 150,
+          "like_count": 67,
+          "listed_count": 1828,
+          "media_count": 551309,
+          "tweet_count": 556326
+        },
+        "url": "https://t.co/Qv756g3jUX",
+        "username": "BANPRE_PZ",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

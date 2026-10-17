@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934978221470277632",
+    "conversation_id": "2108184510332596466",
+    "created_at": "2026-10-08T13:15:30.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T14:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108184510332596466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2043732868581486592",
+          "start": 3,
+          "username": "nmslwcnmd666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108184510332596466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107922017718546785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @nmslwcnmd666: 我其实一点也不开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934978221470277632",
+        "conversation_id": "2108184510332596466",
+        "created_at": "2026-10-08T13:15:30.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T14:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108184510332596466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2043732868581486592",
+              "start": 3,
+              "username": "nmslwcnmd666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108184510332596466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107922017718546785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @nmslwcnmd666: 我其实一点也不开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043732868581486592",
+        "conversation_id": "2107922017718546785",
+        "created_at": "2026-10-07T19:52:26.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T20:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107922017718546785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107922017718546785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "我其实一点也不开心"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 微店:黑猫の甜品店 Fanbox :https://t.co/7pXe2XwUpC 匿名提问箱: https://t.co/aI0OTcm1s8 奇迹的魔女 150/67 ISFJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 62,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 39,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 93,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 70,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  购图定制陪玩私",
+        "most_recent_tweet_id": "2108184510332596466",
+        "name": "お姫様",
+        "pinned_tweet_id": "2097909043880992869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6713,
+          "following_count": 165,
+          "like_count": 8559,
+          "listed_count": 21,
+          "media_count": 561,
+          "tweet_count": 3533
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T16:53:33.000Z",
+        "description": "🚪88",
+        "id": "2043732868581486592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107922017718546785",
+        "name": "Wcnmb",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043732868581486592/1776185389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064086053557051392/ZXM985Fn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 9,
+          "like_count": 68,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "nmslwcnmd666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

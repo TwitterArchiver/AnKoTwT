@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106462927733641216"
+      ],
+      "media_source_tweet_id": [
+        "2106462966434468149"
+      ]
+    },
+    "author_id": "1934978221470277632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106536727074816243",
+    "created_at": "2026-10-04T00:07:47.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T01:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106536727074816243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2619971",
+          "start": 3,
+          "username": "Duju"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VV6HBzciEE",
+          "end": 48,
+          "expanded_url": "https://x.com/Duju/status/2106462966434468149/photo/1",
+          "media_key": "3_2106462927733641216",
+          "start": 25,
+          "url": "https://t.co/VV6HBzciEE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106536727074816243",
+    "lang": "in",
+    "media_metadata": [
+      {
+        "media_key": "3_2106462927733641216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106462966434468149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Duju: my saya ^o^!!! https://t.co/VV6HBzciEE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1941,
+        "media_key": "3_2106462927733641216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuo30wX0AAULnV.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106462927733641216"
+          ],
+          "media_source_tweet_id": [
+            "2106462966434468149"
+          ]
+        },
+        "author_id": "1934978221470277632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106536727074816243",
+        "created_at": "2026-10-04T00:07:47.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T01:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106536727074816243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2619971",
+              "start": 3,
+              "username": "Duju"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VV6HBzciEE",
+              "end": 48,
+              "expanded_url": "https://x.com/Duju/status/2106462966434468149/photo/1",
+              "media_key": "3_2106462927733641216",
+              "start": 25,
+              "url": "https://t.co/VV6HBzciEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106536727074816243",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "3_2106462927733641216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106462966434468149",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Duju: my saya ^o^!!! https://t.co/VV6HBzciEE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106462927733641216"
+          ]
+        },
+        "author_id": "2619971",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106462966434468149",
+        "created_at": "2026-10-03T19:14:42.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T20:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106462966434468149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VV6HBzciEE",
+              "end": 38,
+              "expanded_url": "https://x.com/Duju/status/2106462966434468149/photo/1",
+              "media_key": "3_2106462927733641216",
+              "start": 15,
+              "url": "https://t.co/VV6HBzciEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106462966434468149",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "3_2106462927733641216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 3272,
+          "like_count": 340,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "my saya ^o^!!! https://t.co/VV6HBzciEE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T14:16:13.000Z",
+        "description": "✞ 造物主@xx10Neko ✞ 🐈‍⬛ 微店:黑猫の甜品店 Fanbox :https://t.co/7pXe2XwUpC 匿名提问箱: https://t.co/aI0OTcm1s8 奇迹的魔女 150/67 ISFJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "xx10Neko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuneko.fanbox.cc",
+                "end": 62,
+                "expanded_url": "http://uwuneko.fanbox.cc",
+                "start": 39,
+                "url": "https://t.co/7pXe2XwUpC"
+              },
+              {
+                "display_url": "ngl.link/ankoku1",
+                "end": 93,
+                "expanded_url": "https://ngl.link/ankoku1",
+                "start": 70,
+                "url": "https://t.co/aI0OTcm1s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1515820737",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/1515820737",
+                "start": 0,
+                "url": "https://t.co/LRQvNy6qlD"
+              }
+            ]
+          }
+        },
+        "id": "1934978221470277632",
+        "is_identity_verified": false,
+        "location": "🚪q188/v520  购图定制陪玩私",
+        "most_recent_tweet_id": "2106536727074816243",
+        "name": "お姫様",
+        "pinned_tweet_id": "2097909043880992869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934978221470277632/1757715445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987937391345364995/nE64tg6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6708,
+          "following_count": 168,
+          "like_count": 8503,
+          "listed_count": 21,
+          "media_count": 559,
+          "tweet_count": 3522
+        },
+        "url": "https://t.co/LRQvNy6qlD",
+        "username": "AnKoTwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-03-28T05:29:26.000Z",
+        "description": "I'll hold you in my heart until I hold you in Heaven \n@_irreverence :P / @hanawa ‹𝟹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "_irreverence"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "username": "hanawa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "D.‹3",
+                "end": 23,
+                "expanded_url": "http://D.xn--3-cjn",
+                "start": 0,
+                "url": "https://t.co/JYWXkfb2qf"
+              }
+            ]
+          }
+        },
+        "id": "2619971",
+        "is_identity_verified": false,
+        "location": "married mother of 2 cats ",
+        "most_recent_tweet_id": "2106483873647677607",
+        "name": "kindmaxxer",
+        "pinned_tweet_id": "1669040721838456834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2619971/1791062125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106493342217371649/QV7FjRcJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 259,
+          "like_count": 9848,
+          "listed_count": 3,
+          "media_count": 282,
+          "tweet_count": 7608
+        },
+        "url": "https://t.co/JYWXkfb2qf",
+        "username": "Duju",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
